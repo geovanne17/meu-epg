@@ -5,7 +5,6 @@ import re
 import requests
 from bs4 import BeautifulSoup
 
-# CANAIS PARA RASPAGEM NO GUIA DE TV
 CANAIS_GUIADETV = {
     "canaleducacao": {
         "url_slug": "canal-educacao",
@@ -19,46 +18,70 @@ def formatar_data_xui(dt):
 
 def raspagem_guiadetv(slug):
     url = f"https://www.guiadetv.com/canal/{slug}"
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
     programas = []
 
     try:
         res = requests.get(url, headers=headers, timeout=15)
         soup = BeautifulSoup(res.text, "html.parser")
         
-        # Busca por elementos que contenham blocos de horários e títulos
-        itens = soup.find_all(["div", "li"], class_=re.compile(r"(program|item|row)", re.I))
         hoje_base = datetime.now()
         
-        for item in itens:
-            horario_elem = item.find(text=re.compile(r"^\d{2}:\d{2}$"))
-            titulo_elem = item.find(["h2", "h3", "h4", "a", "strong", "span"])
-            desc_elem = item.find("p")
+        # Procura por linhas do guia ou blocos que contêm texto com padrão de hora HH:MM
+        elementos_hora = soup.find_all(text=re.compile(r"^\d{2}:\d{2}$"))
+        
+        for elem in elementos_hora:
+            horario_str = elem.strip()
             
-            if horario_elem and titulo_elem:
-                horario_str = horario_elem.strip()
-                titulo = titulo_elem.text.strip()
-                desc = desc_elem.text.strip() if desc_elem else "Acompanhe a programação ao vivo."
+            # Navega até o container pai que guarda hora, título e descrição
+            parent = elem.parent
+            for _ in range(3):
+                if parent and parent.name != "body":
+                    parent = parent.parent
+            
+            if not parent:
+                continue
+
+            # Busca o título
+            titulo_tag = parent.find(["h2", "h3", "h4", "a", "strong"])
+            if not titulo_tag:
+                continue
                 
-                horas, minutos = map(int, horario_str.split(":"))
-                dt_inicio = hoje_base.replace(hour=horas, minute=minutos, second=0, microsecond=0)
-                
+            titulo = titulo_tag.text.strip()
+            if titulo == horario_str:
+                continue
+
+            # Busca a descrição
+            desc_tag = parent.find("p")
+            desc = desc_tag.text.strip() if desc_tag else "Acompanhe a programação ao vivo."
+
+            horas, minutos = map(int, horario_str.split(":"))
+            dt_inicio = hoje_base.replace(hour=horas, minute=minutos, second=0, microsecond=0)
+
+            # Evita duplicatas do mesmo horário
+            if not any(p["dt_inicio"] == dt_inicio for p in programas):
                 programas.append({
                     "dt_inicio": dt_inicio,
                     "titulo": titulo,
                     "desc": desc
                 })
 
-        # Preenche os horários de término encadeando até o início do próximo programa
+        # Ordena a lista por horário
+        programas.sort(key=lambda x: x["dt_inicio"])
+
+        # Ajusta horários do dia seguinte se a hora virar a madrugada (ex: 23:30 -> 00:00)
+        for i in range(1, len(programas)):
+            if programas[i]["dt_inicio"] < programas[i-1]["dt_inicio"]:
+                programas[i]["dt_inicio"] += timedelta(days=1)
+
+        # Define a hora de término (stop)
         for i in range(len(programas)):
             if i < len(programas) - 1:
-                dt_fim = programas[i + 1]["dt_inicio"]
-                if dt_fim <= programas[i]["dt_inicio"]:
-                    dt_fim += timedelta(days=1)
+                programas[i]["dt_fim"] = programas[i + 1]["dt_inicio"]
             else:
-                dt_fim = programas[i]["dt_inicio"] + timedelta(minutes=30)
-            
-            programas[i]["dt_fim"] = dt_fim
+                programas[i]["dt_fim"] = programas[i]["dt_inicio"] + timedelta(minutes=30)
 
         print(f"-> Sucesso! Extraídos {len(programas)} programas de '{slug}'")
         return programas
@@ -92,7 +115,6 @@ def gerar_epg():
             ET.SubElement(prog, "desc", lang="pt").text = p["desc"]
             total_programas += 1
 
-    # Salva em um XML separado
     xml_str = minidom.parseString(ET.tostring(tv, encoding="utf-8")).toprettyxml(indent="  ")
     with open("epg_guiadetv.xml", "w", encoding="utf-8") as f:
         f.write(xml_str)
