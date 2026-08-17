@@ -21,13 +21,9 @@ jobs:
       with:
         python-version: '3.11'
 
-    - name: Instalar dependências
+    - name: Instalar e Executar EPG
       run: |
-        python -m pip install --upgrade pip
-        pip install requests
-
-    - name: Executar script para gerar EPG
-      run: |
+        python -m pip install requests
         python gerar_epg.py
 
     - name: Fazer Commit e Push do epg.xml atualizado
