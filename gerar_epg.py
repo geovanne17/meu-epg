@@ -7,7 +7,7 @@ import urllib.request
 # 1. MAPEAMENTO DE CANAIS (Cidade 96 - Fortaleza)
 CANAIS = {
     "tvcamara": {
-        "id_claro": "1682",
+        "id_claro": "1975",
         "nome": "TV Câmara",
         "desc_padrao": "Acompanhe a programação ao vivo."
     },
@@ -17,12 +17,12 @@ CANAIS = {
         "desc_padrao": "Acompanhe a programação ao vivo."
     },
     "tvjustica": {
-        "id_claro": "1683",
+        "id_claro": "1995",
         "nome": "TV Justiça",
         "desc_padrao": "Acompanhe a programação ao vivo."
     },
     "tvsenado": {
-        "id_claro": "1681",
+        "id_claro": "2009",
         "nome": "TV Senado",
         "desc_padrao": "Acompanhe a programação ao vivo."
     },
