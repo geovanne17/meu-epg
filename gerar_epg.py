@@ -8,44 +8,44 @@ import urllib.request
 # Chave: ID no XUI ONE (ex: "tvplanetanet")
 # Valor: Tupla com (ID da Claro API, Nome Exibido, Descrição Padrão)
 CANAIS = {
-    "TV Câmara": {
+    "tvcamara": {
         "id_claro": "1975",
-        "nome": "Tv Planetanet",
+        "nome": "TV Câmara",
         "desc_padrao": "Acompanhe a programação ao vivo."
     },
-    "TV Escola": {
+    "tvescola": {
         "id_claro": "1996",
-        "nome": "Tv Planetanet",
+        "nome": "TV Escola",
         "desc_padrao": "Acompanhe a programação ao vivo."
     },
-    "TV Justiça": {
+    "tvjustica": {
         "id_claro": "1995",
-        "nome": "Tv Planetanet",
+        "nome": "TV Justiça",
         "desc_padrao": "Acompanhe a programação ao vivo."
     },
-    "TV Senado": {
+    "tvsenado": {
         "id_claro": "2009",
-        "nome": "Tv Planetanet",
+        "nome": "TV Senado",
         "desc_padrao": "Acompanhe a programação ao vivo."
     },
-    "TV Verdes Mares - Globo": {
+    "tvverdesmares": {
         "id_claro": "1889",
-        "nome": "Tv Planetanet",
+        "nome": "TV Verdes Mares - Globo",
         "desc_padrao": "Acompanhe a programação ao vivo."
     },	
-    "TV Cidade - Record": {
+    "tvcidade": {
         "id_claro": "1908",
-        "nome": "Tv Planetanet",
+        "nome": "TV Cidade - Record",
         "desc_padrao": "Acompanhe a programação ao vivo."
     },
-    "TNT Novelas": {
+    "tntnovelas": {
         "id_claro": "1026",
-        "nome": "Tv Planetanet",
+        "nome": "TNT Novelas",
         "desc_padrao": "Acompanhe a programação ao vivo."
     },
-    "TV Jangadeiro - SBT": {
+    "tvjangadeiro": {
         "id_claro": "1953",
-        "nome": "Globo",
+        "nome": "TV Jangadeiro - SBT",
         "desc_padrao": "Programação aberta e jornalismo."
     }
 }
