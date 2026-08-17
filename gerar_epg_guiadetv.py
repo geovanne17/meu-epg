@@ -24,37 +24,41 @@ def raspagem_guiadetv_headless(slug):
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=True)
             page = browser.new_page()
-            # Navega até o site e aguarda a renderização dos scripts
             page.goto(url, wait_until="networkidle", timeout=30000)
             html_content = page.content()
             browser.close()
 
         soup = BeautifulSoup(html_content, "html.parser")
         
-        # Procura por elementos de texto com formato de horário (HH:MM)
+        # Encontra todos os elementos de texto com formato de hora HH:MM
         elementos_hora = soup.find_all(text=re.compile(r"^\d{2}:\d{2}$"))
         
         for elem in elementos_hora:
             horario_str = elem.strip()
-            parent = elem.parent
             
-            # Sobe a árvore DOM para achar o container do programa
-            for _ in range(4):
-                if parent and parent.name != "body":
-                    parent = parent.parent
+            # Sobe no DOM para encontrar o container principal do programa
+            container = elem.parent
+            for _ in range(3):
+                if container and container.parent and container.parent.name != "body":
+                    container = container.parent
 
-            if not parent:
+            if not container:
                 continue
 
-            titulo_tag = parent.find(["h2", "h3", "h4", "a", "strong"])
-            if not titulo_tag:
+            # Busca exata do Título: procura links <a>, <h2>, <h3> ou tags com texto
+            titulo = ""
+            for tag in container.find_all(["a", "h2", "h3", "h4", "strong"]):
+                texto = tag.text.strip()
+                # Evita pegar a própria hora ou textos curtos irrelevantes
+                if texto and texto != horario_str and len(texto) > 2 and "No Ar" not in texto:
+                    titulo = texto
+                    break
+
+            if not titulo:
                 continue
 
-            titulo = titulo_tag.text.strip()
-            if titulo == horario_str:
-                continue
-
-            desc_tag = parent.find("p")
+            # Busca a Descrição (tag <p>)
+            desc_tag = container.find("p")
             desc = desc_tag.text.strip() if desc_tag else "Acompanhe a programação ao vivo."
 
             horas, minutos = map(int, horario_str.split(":"))
@@ -69,18 +73,19 @@ def raspagem_guiadetv_headless(slug):
 
         programas.sort(key=lambda x: x["dt_inicio"])
 
-        # Trata transição de meia-noite
+        # Trata virada da meia-noite
         for i in range(1, len(programas)):
             if programas[i]["dt_inicio"] < programas[i-1]["dt_inicio"]:
                 programas[i]["dt_inicio"] += timedelta(days=1)
 
+        # Define o horário de término
         for i in range(len(programas)):
             if i < len(programas) - 1:
                 programas[i]["dt_fim"] = programas[i + 1]["dt_inicio"]
             else:
                 programas[i]["dt_fim"] = programas[i]["dt_inicio"] + timedelta(minutes=30)
 
-        print(f"-> Sucesso! Extraídos {len(programas)} programas de '{slug}' via Playwright")
+        print(f"-> Sucesso! Extraídos {len(programas)} programas de '{slug}'")
         return programas
 
     except Exception as e:
@@ -88,7 +93,9 @@ def raspagem_guiadetv_headless(slug):
         return []
 
 def gerar_epg():
-    tv = ET.Element("tv", {"generator-info-name": "EPG GuiaDeTV"})
+    # Adiciona o timestamp no gerador para forçar alteração do arquivo no Git
+    agora_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    tv = ET.Element("tv", {"generator-info-name": f"EPG GuiaDeTV - {agora_str}"})
 
     for channel_id, info in CANAIS_GUIADETV.items():
         canal_elem = ET.SubElement(tv, "channel", id=channel_id)
