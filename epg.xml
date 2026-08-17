@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<tv generator-info-name="Claro EPG Converter" generator-info-url="https://programacao.claro.com.br">
+  <channel id="1682">
+    <display-name>Canal 1682</display-name>
+  </channel>
+  <programme start="20260817000000 +0000" stop="20260817003000 +0000" channel="1682">
+    <title lang="pt">Documentário TV Câmara</title>
+  </programme>
+  <programme start="20260817003000 +0000" stop="20260817010000 +0000" channel="1682">
+    <title lang="pt">Documentário Deu Bola</title>
+  </programme>
+  <programme start="20260817010000 +0000" stop="20260817023000 +0000" channel="1682">
+    <title lang="pt">Reapresentação da Sessão Solene</title>
+  </programme>
+  <programme start="20260817023000 +0000" stop="20260817053000 +0000" channel="1682">
+    <title lang="pt">Reapresentação de Comissão</title>
+  </programme>
+  <programme start="20260817053000 +0000" stop="20260817060000 +0000" channel="1682">
+    <title lang="pt">Documentário TV Câmara</title>
+  </programme>
+  <programme start="20260817060000 +0000" stop="20260817063000 +0000" channel="1682">
+    <title lang="pt">Câmara Debate</title>
+  </programme>
+  <programme start="20260817063000 +0000" stop="20260817070000 +0000" channel="1682">
+    <title lang="pt">Palavra Aberta</title>
+  </programme>
+  <programme start="20260817070000 +0000" stop="20260817073000 +0000" channel="1682">
+    <title lang="pt">Elas Pautam</title>
+  </programme>
+  <programme start="20260817073000 +0000" stop="20260817080000 +0000" channel="1682">
+    <title lang="pt">Palavra Aberta</title>
+  </programme>
+  <programme start="20260817080000 +0000" stop="20260817090000 +0000" channel="1682">
+    <title lang="pt">Painel Eletrônico</title>
+  </programme>
+  <programme start="20260817090000 +0000" stop="20260817100000 +0000" channel="1682">
+    <title lang="pt">Participação Popular</title>
+  </programme>
+  <programme start="20260817100000 +0000" stop="20260817110000 +0000" channel="1682">
+    <title lang="pt">Câmara Agora</title>
+  </programme>
+  <programme start="20260817110000 +0000" stop="20260817113000 +0000" channel="1682">
+    <title lang="pt">Qual a Questão?</title>
+  </programme>
+  <programme start="20260817113000 +0000" stop="20260817120000 +0000" channel="1682">
+    <title lang="pt">Documentário TV Câmara</title>
+  </programme>
+  <programme start="20260817120000 +0000" stop="20260817130000 +0000" channel="1682">
+    <title lang="pt">Bora Entender?</title>
+  </programme>
+  <programme start="20260817130000 +0000" stop="20260817133000 +0000" channel="1682">
+    <title lang="pt">Ponto de Vista</title>
+  </programme>
+  <programme start="20260817133000 +0000" stop="20260817140000 +0000" channel="1682">
+    <title lang="pt">Direto da Câmara</title>
+  </programme>
+  <programme start="20260817140000 +0000" stop="20260817173000 +0000" channel="1682">
+    <title lang="pt">Reapresentação de Comissão</title>
+  </programme>
+  <programme start="20260817173000 +0000" stop="20260817180000 +0000" channel="1682">
+    <title lang="pt">Câmara Debate</title>
+  </programme>
+  <programme start="20260817180000 +0000" stop="20260817183000 +0000" channel="1682">
+    <title lang="pt">Retratos da Reforma Psiquiátrica - Trabalhadoras da Saúde</title>
+  </programme>
+  <programme start="20260817183000 +0000" stop="20260817190000 +0000" channel="1682">
+    <title lang="pt">Elas Pautam</title>
+  </programme>
+  <programme start="20260817190000 +0000" stop="20260817200000 +0000" channel="1682">
+    <title lang="pt">Bora Entender?</title>
+  </programme>
+  <programme start="20260817200000 +0000" stop="20260817203000 +0000" channel="1682">
+    <title lang="pt">Parlamento Brasil</title>
+  </programme>
+  <programme start="20260817203000 +0000" stop="20260817204500 +0000" channel="1682">
+    <title lang="pt">Vila Soma - A Luta Pela Moradia</title>
+  </programme>
+  <programme start="20260817204500 +0000" stop="20260817210000 +0000" channel="1682">
+    <title lang="pt">Futebol Para Todos</title>
+  </programme>
+  <programme start="20260817210000 +0000" stop="20260817220000 +0000" channel="1682">
+    <title lang="pt">Participação Popular</title>
+  </programme>
+  <programme start="20260817220000 +0000" stop="20260817230000 +0000" channel="1682">
+    <title lang="pt">Encontro Com a Autora</title>
+  </programme>
+  <programme start="20260817230000 +0000" stop="20260817233000 +0000" channel="1682">
+    <title lang="pt">Ponto de Vista</title>
+  </programme>
+  <programme start="20260817233000 +0000" stop="20260818000000 +0000" channel="1682">
+    <title lang="pt">Palavra Aberta</title>
+  </programme>
+</tv>
