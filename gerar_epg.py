@@ -5,8 +5,7 @@ import json
 import urllib.request
 
 # 1. MAPEAMENTO DE CANAIS
-# Chave: ID no XUI ONE (ex: "tvplanetanet")
-# Valor: Tupla com (ID da Claro API, Nome Exibido, Descrição Padrão)
+# Chave "channel_id": Deve ser EXATAMENTE a mesma chave/id que você cadastrou no painel do XUI ONE.
 CANAIS = {
     "tvcamara": {
         "id_claro": "1975",
@@ -52,20 +51,22 @@ CANAIS = {
 
 def formatar_data_xui(data_str):
     """
-    Converte '2026-08-17T00:30Z' (UTC) para o formato '20260816213000 -0300' (Horário de Brasília)
+    Converte '2026-08-17T00:30Z' (UTC) para '20260816213000 -0300' (Brasília)
     """
     dt_utc = datetime.strptime(data_str, "%Y-%m-%dT%H:%MZ")
-    # Subtrai 3 horas para ajustar o fuso do Brasil (-03:00)
     dt_brasil = dt_utc - timedelta(hours=3)
     return dt_brasil.strftime("%Y%m%d%H%M%S -0300")
 
-def buscar_dados_canal(id_claro, data_hoje):
+def buscar_dados_canal(id_claro, data_inicio, data_fim):
+    """
+    Busca no intervalo de datas dinâmico (Igual ao INTERVAL do SQL no PHP)
+    """
     url = (
         "https://programacao.claro.com.br/gatekeeper/exibicao/select?"
-        f"q=id_revel:(96_{id_claro})+AND+id_cidade:96&wt=json&rows=100&start=0"
+        f"q=id_revel:(1_{id_claro})+AND+id_cidade:1&wt=json&rows=500&start=0"
         "&sort=id_canal+asc,dh_inicio+asc"
         "&fl=dh_fim+dh_inicio+st_titulo+titulo+id_programa+id_canal+id_cidade"
-        f"&fq=dh_inicio:[{data_hoje}T00:00:00Z+TO+{data_hoje}T23:59:00Z]"
+        f"&fq=dh_inicio:[{data_inicio}T00:00:00Z+TO+{data_fim}T23:59:00Z]"
     )
 
     headers = {
@@ -82,34 +83,34 @@ def buscar_dados_canal(id_claro, data_hoje):
         return []
 
 def gerar_epg():
-    hoje = datetime.utcnow().strftime("%Y-%m-%d")
+    # JANELA DE DATAS: De ontem até daqui a 3 dias (Resoluvel para a margem do XUI ONE)
+    hoje = datetime.utcnow()
+    data_ontem = (hoje - timedelta(days=1)).strftime("%Y-%m-%d")
+    data_futuro = (hoje + timedelta(days=3)).strftime("%Y-%m-%d")
 
-    # Cabeçalho idêntico ao exigido pelo XUI ONE
     tv = ET.Element("tv", {"generator-info-name": "EPG"})
 
-    # 1. Criar as tags <channel>
+    # 1. TAGS <channel>: Usa estritamente a chave do dicionário como ID
     for channel_id, info in CANAIS.items():
         canal_elem = ET.SubElement(tv, "channel", id=channel_id)
         display_name = ET.SubElement(canal_elem, "display-name", lang="pt")
         display_name.text = info["nome"]
 
-    # 2. Criar as tags <programme>
+    # 2. TAGS <programme>: Garante 100% de match no mesmo ID do <channel>
     for channel_id, info in CANAIS.items():
-        print(f"Processando {info['nome']}...")
-        docs = buscar_dados_canal(info["id_claro"], hoje)
+        print(f"Buscando programação para {info['nome']} ({data_ontem} até {data_futuro})...")
+        docs = buscar_dados_canal(info["id_claro"], data_ontem, data_futuro)
 
         for item in docs:
             programme = ET.SubElement(tv, "programme", {
                 "start": formatar_data_xui(item["dh_inicio"]),
                 "stop": formatar_data_xui(item["dh_fim"]),
-                "channel": channel_id  # Usa o mesmo ID cadastrado no XUI ONE
+                "channel": channel_id  # MATCH EXATO COM O <channel id="...">
             })
             
-            # Título
             title = ET.SubElement(programme, "title", lang="pt")
             title.text = item.get("titulo", "Sem Título")
 
-            # Descrição
             desc = ET.SubElement(programme, "desc", lang="pt")
             desc.text = info["desc_padrao"]
 
@@ -118,7 +119,7 @@ def gerar_epg():
     with open("epg.xml", "w", encoding="utf-8") as f:
         f.write(xml_str)
 
-    print("EPG atualizado com sucesso no formato XUI ONE!")
+    print("EPG gerado com sucesso!")
 
 if __name__ == "__main__":
     gerar_epg()
