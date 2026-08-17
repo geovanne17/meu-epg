@@ -1,0 +1,36 @@
+name: Gerador de EPG
+
+on:
+  schedule:
+    # Roda todos os dias às 03:00 UTC (00:00 Horário de Brasília)
+    - cron: '0 3 * * *'
+  workflow_dispatch: # Permite rodar manualmente pelo painel do GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Baixar código do repositório
+      uses: actions/checkout@v3
+
+    - name: Configurar Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Instalar dependências
+      run: |
+        pip install -r requirements.txt
+
+    - name: Executar script para gerar EPG
+      run: |
+        python gerar_epg.py
+
+    - name: Fazer Commit e Push do epg.xml atualizado
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add epg.xml
+        git commit -m "Atualização automática do EPG" || exit 0
+        git push
