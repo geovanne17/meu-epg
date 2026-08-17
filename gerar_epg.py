@@ -60,7 +60,7 @@ def formatar_data_xui(data_str):
 def buscar_dados_canal(id_claro, data_inicio_str, data_fim_str):
     url = (
         "https://programacao.claro.com.br/gatekeeper/exibicao/select?"
-        f"q=id_revel:(1_{id_claro})+AND+id_cidade:{ID_CIDADE}&wt=json&rows=500&start=0"
+        f"q=id_revel:({ID_CIDADE}_{id_claro})+AND+id_cidade:{ID_CIDADE}&wt=json&rows=500&start=0"
         "&sort=id_canal+asc,dh_inicio+asc"
         "&fl=dh_fim+dh_inicio+st_titulo+titulo+id_programa+id_canal+id_cidade"
         f"&fq=dh_inicio:[{data_inicio_str}T00:00:00Z+TO+{data_fim_str}T23:59:00Z]"
