@@ -5,6 +5,10 @@ on:
     - cron: '0 3 * * *' # Roda todos os dias às 00:00 (Brasília)
   workflow_dispatch: # Permite rodar manualmente no painel do GitHub
 
+# Concede permissão de escrita para que a Action faça o commit e push no repositório
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -33,5 +37,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add epg.xml epg_guiadetv.xml
-          git commit -m "Atualização automática dos EPGs" || exit 0
+          git diff --staged --quiet || git commit -m "Atualização automática dos EPGs [skip ci]"
           git push
