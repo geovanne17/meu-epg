@@ -6,16 +6,20 @@ on:
     - cron: '0 3 * * *'
   workflow_dispatch: # Permite rodar manualmente pelo painel do GitHub
 
+# Permissões necessárias para o bot fazer commit e push
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
     - name: Baixar código do repositório
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Configurar Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.x'
 
