@@ -1,93 +1,522 @@
 <?xml version="1.0" ?>
 <tv generator-info-name="Claro EPG Converter" generator-info-url="https://programacao.claro.com.br">
-  <channel id="1682">
-    <display-name>Canal 1682</display-name>
+  <channel id="1975">
+    <display-name>TV Câmara</display-name>
   </channel>
-  <programme start="20260817000000 +0000" stop="20260817003000 +0000" channel="1682">
+  <channel id="1996">
+    <display-name>TV Escola</display-name>
+  </channel>
+  <channel id="1995">
+    <display-name>TV Justiça</display-name>
+  </channel>
+  <channel id="2009">
+    <display-name>TV Senado</display-name>
+  </channel>
+  <channel id="1889">
+    <display-name>TV Verdes Mares - Globo</display-name>
+  </channel>
+  <channel id="1908">
+    <display-name>TV Cidade - Record</display-name>
+  </channel>
+  <channel id="1026">
+    <display-name>TNT Novelas</display-name>
+  </channel>
+  <channel id="1953">
+    <display-name>TV Jangadeiro - SBT</display-name>
+  </channel>
+  <programme start="20260817000000 +0000" stop="20260817003000 +0000" channel="1975">
     <title lang="pt">Documentário TV Câmara</title>
   </programme>
-  <programme start="20260817003000 +0000" stop="20260817010000 +0000" channel="1682">
+  <programme start="20260817003000 +0000" stop="20260817010000 +0000" channel="1975">
     <title lang="pt">Documentário Deu Bola</title>
   </programme>
-  <programme start="20260817010000 +0000" stop="20260817023000 +0000" channel="1682">
+  <programme start="20260817010000 +0000" stop="20260817023000 +0000" channel="1975">
     <title lang="pt">Reapresentação da Sessão Solene</title>
   </programme>
-  <programme start="20260817023000 +0000" stop="20260817053000 +0000" channel="1682">
+  <programme start="20260817023000 +0000" stop="20260817053000 +0000" channel="1975">
     <title lang="pt">Reapresentação de Comissão</title>
   </programme>
-  <programme start="20260817053000 +0000" stop="20260817060000 +0000" channel="1682">
+  <programme start="20260817053000 +0000" stop="20260817060000 +0000" channel="1975">
     <title lang="pt">Documentário TV Câmara</title>
   </programme>
-  <programme start="20260817060000 +0000" stop="20260817063000 +0000" channel="1682">
+  <programme start="20260817060000 +0000" stop="20260817063000 +0000" channel="1975">
     <title lang="pt">Câmara Debate</title>
   </programme>
-  <programme start="20260817063000 +0000" stop="20260817070000 +0000" channel="1682">
+  <programme start="20260817063000 +0000" stop="20260817070000 +0000" channel="1975">
     <title lang="pt">Palavra Aberta</title>
   </programme>
-  <programme start="20260817070000 +0000" stop="20260817073000 +0000" channel="1682">
+  <programme start="20260817070000 +0000" stop="20260817073000 +0000" channel="1975">
     <title lang="pt">Elas Pautam</title>
   </programme>
-  <programme start="20260817073000 +0000" stop="20260817080000 +0000" channel="1682">
+  <programme start="20260817073000 +0000" stop="20260817080000 +0000" channel="1975">
     <title lang="pt">Palavra Aberta</title>
   </programme>
-  <programme start="20260817080000 +0000" stop="20260817090000 +0000" channel="1682">
+  <programme start="20260817080000 +0000" stop="20260817090000 +0000" channel="1975">
     <title lang="pt">Painel Eletrônico</title>
   </programme>
-  <programme start="20260817090000 +0000" stop="20260817100000 +0000" channel="1682">
+  <programme start="20260817090000 +0000" stop="20260817100000 +0000" channel="1975">
     <title lang="pt">Participação Popular</title>
   </programme>
-  <programme start="20260817100000 +0000" stop="20260817110000 +0000" channel="1682">
+  <programme start="20260817100000 +0000" stop="20260817110000 +0000" channel="1975">
     <title lang="pt">Câmara Agora</title>
   </programme>
-  <programme start="20260817110000 +0000" stop="20260817113000 +0000" channel="1682">
+  <programme start="20260817110000 +0000" stop="20260817113000 +0000" channel="1975">
     <title lang="pt">Qual a Questão?</title>
   </programme>
-  <programme start="20260817113000 +0000" stop="20260817120000 +0000" channel="1682">
+  <programme start="20260817113000 +0000" stop="20260817120000 +0000" channel="1975">
     <title lang="pt">Documentário TV Câmara</title>
   </programme>
-  <programme start="20260817120000 +0000" stop="20260817130000 +0000" channel="1682">
+  <programme start="20260817120000 +0000" stop="20260817130000 +0000" channel="1975">
     <title lang="pt">Bora Entender?</title>
   </programme>
-  <programme start="20260817130000 +0000" stop="20260817133000 +0000" channel="1682">
+  <programme start="20260817130000 +0000" stop="20260817133000 +0000" channel="1975">
     <title lang="pt">Ponto de Vista</title>
   </programme>
-  <programme start="20260817133000 +0000" stop="20260817140000 +0000" channel="1682">
+  <programme start="20260817133000 +0000" stop="20260817140000 +0000" channel="1975">
     <title lang="pt">Direto da Câmara</title>
   </programme>
-  <programme start="20260817140000 +0000" stop="20260817173000 +0000" channel="1682">
+  <programme start="20260817140000 +0000" stop="20260817173000 +0000" channel="1975">
     <title lang="pt">Reapresentação de Comissão</title>
   </programme>
-  <programme start="20260817173000 +0000" stop="20260817180000 +0000" channel="1682">
+  <programme start="20260817173000 +0000" stop="20260817180000 +0000" channel="1975">
     <title lang="pt">Câmara Debate</title>
   </programme>
-  <programme start="20260817180000 +0000" stop="20260817183000 +0000" channel="1682">
+  <programme start="20260817180000 +0000" stop="20260817183000 +0000" channel="1975">
     <title lang="pt">Retratos da Reforma Psiquiátrica - Trabalhadoras da Saúde</title>
   </programme>
-  <programme start="20260817183000 +0000" stop="20260817190000 +0000" channel="1682">
+  <programme start="20260817183000 +0000" stop="20260817190000 +0000" channel="1975">
     <title lang="pt">Elas Pautam</title>
   </programme>
-  <programme start="20260817190000 +0000" stop="20260817200000 +0000" channel="1682">
+  <programme start="20260817190000 +0000" stop="20260817200000 +0000" channel="1975">
     <title lang="pt">Bora Entender?</title>
   </programme>
-  <programme start="20260817200000 +0000" stop="20260817203000 +0000" channel="1682">
+  <programme start="20260817200000 +0000" stop="20260817203000 +0000" channel="1975">
     <title lang="pt">Parlamento Brasil</title>
   </programme>
-  <programme start="20260817203000 +0000" stop="20260817204500 +0000" channel="1682">
+  <programme start="20260817203000 +0000" stop="20260817204500 +0000" channel="1975">
     <title lang="pt">Vila Soma - A Luta Pela Moradia</title>
   </programme>
-  <programme start="20260817204500 +0000" stop="20260817210000 +0000" channel="1682">
+  <programme start="20260817204500 +0000" stop="20260817210000 +0000" channel="1975">
     <title lang="pt">Futebol Para Todos</title>
   </programme>
-  <programme start="20260817210000 +0000" stop="20260817220000 +0000" channel="1682">
+  <programme start="20260817210000 +0000" stop="20260817220000 +0000" channel="1975">
     <title lang="pt">Participação Popular</title>
   </programme>
-  <programme start="20260817220000 +0000" stop="20260817230000 +0000" channel="1682">
+  <programme start="20260817220000 +0000" stop="20260817230000 +0000" channel="1975">
     <title lang="pt">Encontro Com a Autora</title>
   </programme>
-  <programme start="20260817230000 +0000" stop="20260817233000 +0000" channel="1682">
+  <programme start="20260817230000 +0000" stop="20260817233000 +0000" channel="1975">
     <title lang="pt">Ponto de Vista</title>
   </programme>
-  <programme start="20260817233000 +0000" stop="20260818000000 +0000" channel="1682">
+  <programme start="20260817233000 +0000" stop="20260818000000 +0000" channel="1975">
     <title lang="pt">Palavra Aberta</title>
+  </programme>
+  <programme start="20260817000000 +0000" stop="20260817002000 +0000" channel="1995">
+    <title lang="pt">Iluminuras</title>
+  </programme>
+  <programme start="20260817002000 +0000" stop="20260817004800 +0000" channel="1995">
+    <title lang="pt">Repórter Eco</title>
+  </programme>
+  <programme start="20260817004800 +0000" stop="20260817013800 +0000" channel="1995">
+    <title lang="pt">Arena dos Saberes</title>
+  </programme>
+  <programme start="20260817013800 +0000" stop="20260817023000 +0000" channel="1995">
+    <title lang="pt">Jazz Sinfônica Brasil</title>
+  </programme>
+  <programme start="20260817023000 +0000" stop="20260817040000 +0000" channel="1995">
+    <title lang="pt">Noturno</title>
+  </programme>
+  <programme start="20260817040000 +0000" stop="20260817063000 +0000" channel="1995">
+    <title lang="pt">Sessão do TSE</title>
+  </programme>
+  <programme start="20260817063000 +0000" stop="20260817070000 +0000" channel="1995">
+    <title lang="pt">Saber Direito - Aula</title>
+  </programme>
+  <programme start="20260817070000 +0000" stop="20260817080000 +0000" channel="1995">
+    <title lang="pt">Revista Rádio Justiça</title>
+  </programme>
+  <programme start="20260817080000 +0000" stop="20260817090000 +0000" channel="1995">
+    <title lang="pt">Justiça Agora</title>
+  </programme>
+  <programme start="20260817090000 +0000" stop="20260817110000 +0000" channel="1995">
+    <title lang="pt">Justiça Agora</title>
+  </programme>
+  <programme start="20260817110000 +0000" stop="20260817133000 +0000" channel="1995">
+    <title lang="pt">Evento</title>
+  </programme>
+  <programme start="20260817133000 +0000" stop="20260817140000 +0000" channel="1995">
+    <title lang="pt">Evento</title>
+  </programme>
+  <programme start="20260817140000 +0000" stop="20260817170000 +0000" channel="1995">
+    <title lang="pt">Justiça na Tarde</title>
+  </programme>
+  <programme start="20260817170000 +0000" stop="20260817183000 +0000" channel="1995">
+    <title lang="pt">Aula Magna</title>
+  </programme>
+  <programme start="20260817183000 +0000" stop="20260817190000 +0000" channel="1995">
+    <title lang="pt">Jornal da Justiça</title>
+  </programme>
+  <programme start="20260817190000 +0000" stop="20260817193000 +0000" channel="1995">
+    <title lang="pt">Academia</title>
+  </programme>
+  <programme start="20260817193000 +0000" stop="20260817200100 +0000" channel="1995">
+    <title lang="pt">Artigo 5º</title>
+  </programme>
+  <programme start="20260817200100 +0000" stop="20260817203000 +0000" channel="1995">
+    <title lang="pt">Repórter Justiça</title>
+  </programme>
+  <programme start="20260817203000 +0000" stop="20260817210000 +0000" channel="1995">
+    <title lang="pt">Saber Direito - Aula</title>
+  </programme>
+  <programme start="20260817210000 +0000" stop="20260817210500 +0000" channel="1995">
+    <title lang="pt">Voz do Brasil</title>
+  </programme>
+  <programme start="20260817210500 +0000" stop="20260817213600 +0000" channel="1995">
+    <title lang="pt">Revista TST</title>
+  </programme>
+  <programme start="20260817213600 +0000" stop="20260817220000 +0000" channel="1995">
+    <title lang="pt">Inteiro Teor</title>
+  </programme>
+  <programme start="20260817220000 +0000" stop="20260817223000 +0000" channel="1995">
+    <title lang="pt">Cartório Contemporâneo</title>
+  </programme>
+  <programme start="20260817223000 +0000" stop="20260817230000 +0000" channel="1995">
+    <title lang="pt">Pensamento Jurídico</title>
+  </programme>
+  <programme start="20260817230000 +0000" stop="20260817233000 +0000" channel="1995">
+    <title lang="pt">Trabalho Legal</title>
+  </programme>
+  <programme start="20260817233000 +0000" stop="20260818000000 +0000" channel="1995">
+    <title lang="pt">Evento</title>
+  </programme>
+  <programme start="20260817000000 +0000" stop="20260817010000 +0000" channel="2009">
+    <title lang="pt">Contraplano</title>
+  </programme>
+  <programme start="20260817010000 +0000" stop="20260817015000 +0000" channel="2009">
+    <title lang="pt">Estúdio A</title>
+  </programme>
+  <programme start="20260817015000 +0000" stop="20260817022000 +0000" channel="2009">
+    <title lang="pt">Tela Brasil: Deu Bola - Trans</title>
+  </programme>
+  <programme start="20260817022000 +0000" stop="20260817035200 +0000" channel="2009">
+    <title lang="pt">Senadoc: Vidas Descartáveis</title>
+  </programme>
+  <programme start="20260817035200 +0000" stop="20260817051800 +0000" channel="2009">
+    <title lang="pt">Senadoc: Lampião da Esquina</title>
+  </programme>
+  <programme start="20260817051800 +0000" stop="20260817070000 +0000" channel="2009">
+    <title lang="pt">Senadoc: Nem Caroço Nem Casca - Uma História de Quilombolas</title>
+  </programme>
+  <programme start="20260817070000 +0000" stop="20260817073000 +0000" channel="2009">
+    <title lang="pt">Tela Brasil: Deu Bola - Cronistas</title>
+  </programme>
+  <programme start="20260817073000 +0000" stop="20260817080000 +0000" channel="2009">
+    <title lang="pt">Parlamento Brasil</title>
+  </programme>
+  <programme start="20260817080000 +0000" stop="20260817083000 +0000" channel="2009">
+    <title lang="pt">Cidadania</title>
+  </programme>
+  <programme start="20260817083000 +0000" stop="20260817090000 +0000" channel="2009">
+    <title lang="pt">Senado Notícias: Boletim</title>
+  </programme>
+  <programme start="20260817090000 +0000" stop="20260817133000 +0000" channel="2009">
+    <title lang="pt">Comissão: Comissão de Direitos Humanos e Legislação Participativa</title>
+  </programme>
+  <programme start="20260817133000 +0000" stop="20260817140000 +0000" channel="2009">
+    <title lang="pt">Senado Notícias: Boletim</title>
+  </programme>
+  <programme start="20260817140000 +0000" stop="20260817193000 +0000" channel="2009">
+    <title lang="pt">Sessão Plenária</title>
+  </programme>
+  <programme start="20260817193000 +0000" stop="20260817200000 +0000" channel="2009">
+    <title lang="pt">Senado Notícias: Boletim</title>
+  </programme>
+  <programme start="20260817200000 +0000" stop="20260817203000 +0000" channel="2009">
+    <title lang="pt">Assunto de Estado: Eleições</title>
+  </programme>
+  <programme start="20260817203000 +0000" stop="20260817210000 +0000" channel="2009">
+    <title lang="pt">Em Discussão</title>
+  </programme>
+  <programme start="20260817210000 +0000" stop="20260818000000 +0000" channel="2009">
+    <title lang="pt">Comissão</title>
+  </programme>
+  <programme start="20260817011500 +0000" stop="20260817032000 +0000" channel="1889">
+    <title lang="pt">Cinemaço: O Fugitivo</title>
+  </programme>
+  <programme start="20260817032000 +0000" stop="20260817040000 +0000" channel="1889">
+    <title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
+  </programme>
+  <programme start="20260817040000 +0000" stop="20260817060000 +0000" channel="1889">
+    <title lang="pt">Hora Um</title>
+  </programme>
+  <programme start="20260817060000 +0000" stop="20260817083000 +0000" channel="1889">
+    <title lang="pt">Bom Dia Ceará</title>
+  </programme>
+  <programme start="20260817083000 +0000" stop="20260817093000 +0000" channel="1889">
+    <title lang="pt">Bom Dia Brasil</title>
+  </programme>
+  <programme start="20260817093000 +0000" stop="20260817103500 +0000" channel="1889">
+    <title lang="pt">Encontro com Patrícia Poeta</title>
+  </programme>
+  <programme start="20260817103500 +0000" stop="20260817114500 +0000" channel="1889">
+    <title lang="pt">Mais Você</title>
+  </programme>
+  <programme start="20260817114500 +0000" stop="20260817130000 +0000" channel="1889">
+    <title lang="pt">CETV - 1ª Edição</title>
+  </programme>
+  <programme start="20260817130000 +0000" stop="20260817132500 +0000" channel="1889">
+    <title lang="pt">Globo Esporte</title>
+  </programme>
+  <programme start="20260817132500 +0000" stop="20260817144500 +0000" channel="1889">
+    <title lang="pt">Jornal Hoje</title>
+  </programme>
+  <programme start="20260817144500 +0000" stop="20260817153000 +0000" channel="1889">
+    <title lang="pt">Além do Tempo</title>
+  </programme>
+  <programme start="20260817153000 +0000" stop="20260817172500 +0000" channel="1889">
+    <title lang="pt">Sessão da Tarde: Uma Vida de Esperança</title>
+  </programme>
+  <programme start="20260817172500 +0000" stop="20260817182500 +0000" channel="1889">
+    <title lang="pt">Vale a Pena Ver de Novo: Avenida Brasil</title>
+  </programme>
+  <programme start="20260817182500 +0000" stop="20260817191000 +0000" channel="1889">
+    <title lang="pt">A Nobreza do Amor</title>
+  </programme>
+  <programme start="20260817191000 +0000" stop="20260817194000 +0000" channel="1889">
+    <title lang="pt">CETV - 2ª Edição</title>
+  </programme>
+  <programme start="20260817194000 +0000" stop="20260817203000 +0000" channel="1889">
+    <title lang="pt">Por Você</title>
+  </programme>
+  <programme start="20260817203000 +0000" stop="20260817214000 +0000" channel="1889">
+    <title lang="pt">Jornal Nacional</title>
+  </programme>
+  <programme start="20260817214000 +0000" stop="20260817224500 +0000" channel="1889">
+    <title lang="pt">Quem Ama Cuida</title>
+  </programme>
+  <programme start="20260817224500 +0000" stop="20260818001000 +0000" channel="1889">
+    <title lang="pt">Tela Quente: Vítimas do Dia</title>
+  </programme>
+  <programme start="20260817000000 +0000" stop="20260817010000 +0000" channel="1908">
+    <title lang="pt">Chicago Med</title>
+  </programme>
+  <programme start="20260817010000 +0000" stop="20260817063000 +0000" channel="1908">
+    <title lang="pt">IURD</title>
+  </programme>
+  <programme start="20260817063000 +0000" stop="20260817070000 +0000" channel="1908">
+    <title lang="pt">Balanço Geral Manhã</title>
+  </programme>
+  <programme start="20260817070000 +0000" stop="20260817070500 +0000" channel="1908">
+    <title lang="pt">Jornal da Record 24h</title>
+  </programme>
+  <programme start="20260817070500 +0000" stop="20260817084000 +0000" channel="1908">
+    <title lang="pt">Balanço Geral Manhã</title>
+  </programme>
+  <programme start="20260817084000 +0000" stop="20260817095000 +0000" channel="1908">
+    <title lang="pt">Fala Brasil</title>
+  </programme>
+  <programme start="20260817095000 +0000" stop="20260817113000 +0000" channel="1908">
+    <title lang="pt">Hoje em Dia</title>
+  </programme>
+  <programme start="20260817113000 +0000" stop="20260817134500 +0000" channel="1908">
+    <title lang="pt">Cidade 190</title>
+  </programme>
+  <programme start="20260817134500 +0000" stop="20260817153000 +0000" channel="1908">
+    <title lang="pt">Balanço Geral Manhã</title>
+  </programme>
+  <programme start="20260817153000 +0000" stop="20260817163000 +0000" channel="1908">
+    <title lang="pt">Jesus</title>
+  </programme>
+  <programme start="20260817163000 +0000" stop="20260817174000 +0000" channel="1908">
+    <title lang="pt">Cidade Alerta</title>
+  </programme>
+  <programme start="20260817174000 +0000" stop="20260817174500 +0000" channel="1908">
+    <title lang="pt">Jornal da Record 24h</title>
+  </programme>
+  <programme start="20260817174500 +0000" stop="20260817180000 +0000" channel="1908">
+    <title lang="pt">Cidade Alerta</title>
+  </programme>
+  <programme start="20260817180000 +0000" stop="20260817191500 +0000" channel="1908">
+    <title lang="pt">Cidade Alerta CE</title>
+  </programme>
+  <programme start="20260817191500 +0000" stop="20260817195500 +0000" channel="1908">
+    <title lang="pt">Jornal da Cidade</title>
+  </programme>
+  <programme start="20260817195500 +0000" stop="20260817210000 +0000" channel="1908">
+    <title lang="pt">Jornal da Record</title>
+  </programme>
+  <programme start="20260817210000 +0000" stop="20260817220000 +0000" channel="1908">
+    <title lang="pt">Coração de Mãe</title>
+  </programme>
+  <programme start="20260817220000 +0000" stop="20260817223000 +0000" channel="1908">
+    <title lang="pt">Reis - A Divisão</title>
+  </programme>
+  <programme start="20260817223000 +0000" stop="20260817234500 +0000" channel="1908">
+    <title lang="pt">Alerta Aeroporto</title>
+  </programme>
+  <programme start="20260817234500 +0000" stop="20260818003500 +0000" channel="1908">
+    <title lang="pt">Chicago Fire</title>
+  </programme>
+  <programme start="20260817000800 +0000" stop="20260817005600 +0000" channel="1026">
+    <title lang="pt">Meu Lar, Meu Destino</title>
+  </programme>
+  <programme start="20260817005600 +0000" stop="20260817014400 +0000" channel="1026">
+    <title lang="pt">Meu Lar, Meu Destino</title>
+  </programme>
+  <programme start="20260817014400 +0000" stop="20260817023200 +0000" channel="1026">
+    <title lang="pt">Meu Lar, Meu Destino</title>
+  </programme>
+  <programme start="20260817023200 +0000" stop="20260817032000 +0000" channel="1026">
+    <title lang="pt">Meu Lar, Meu Destino</title>
+  </programme>
+  <programme start="20260817032000 +0000" stop="20260817041300 +0000" channel="1026">
+    <title lang="pt">Meu Lar, Meu Destino</title>
+  </programme>
+  <programme start="20260817041300 +0000" stop="20260817050600 +0000" channel="1026">
+    <title lang="pt">Amor Sem Fim</title>
+  </programme>
+  <programme start="20260817050600 +0000" stop="20260817060000 +0000" channel="1026">
+    <title lang="pt">Amor Sem Fim</title>
+  </programme>
+  <programme start="20260817060000 +0000" stop="20260817065600 +0000" channel="1026">
+    <title lang="pt">Iludida</title>
+  </programme>
+  <programme start="20260817065600 +0000" stop="20260817074900 +0000" channel="1026">
+    <title lang="pt">Um Milagre</title>
+  </programme>
+  <programme start="20260817074900 +0000" stop="20260817084200 +0000" channel="1026">
+    <title lang="pt">Um Milagre</title>
+  </programme>
+  <programme start="20260817084200 +0000" stop="20260817093500 +0000" channel="1026">
+    <title lang="pt">Amor Sem Fim</title>
+  </programme>
+  <programme start="20260817093500 +0000" stop="20260817102500 +0000" channel="1026">
+    <title lang="pt">Amor Sem Fim</title>
+  </programme>
+  <programme start="20260817102500 +0000" stop="20260817111300 +0000" channel="1026">
+    <title lang="pt">Meu Lar, Meu Destino</title>
+  </programme>
+  <programme start="20260817111300 +0000" stop="20260817120100 +0000" channel="1026">
+    <title lang="pt">Meu Lar, Meu Destino</title>
+  </programme>
+  <programme start="20260817120100 +0000" stop="20260817124900 +0000" channel="1026">
+    <title lang="pt">Meu Lar, Meu Destino</title>
+  </programme>
+  <programme start="20260817124900 +0000" stop="20260817133800 +0000" channel="1026">
+    <title lang="pt">Iludida</title>
+  </programme>
+  <programme start="20260817133800 +0000" stop="20260817142700 +0000" channel="1026">
+    <title lang="pt">Iludida</title>
+  </programme>
+  <programme start="20260817142700 +0000" stop="20260817151600 +0000" channel="1026">
+    <title lang="pt">Iludida</title>
+  </programme>
+  <programme start="20260817151600 +0000" stop="20260817160400 +0000" channel="1026">
+    <title lang="pt">Será Isso Amor?</title>
+  </programme>
+  <programme start="20260817160400 +0000" stop="20260817165200 +0000" channel="1026">
+    <title lang="pt">Será Isso Amor?</title>
+  </programme>
+  <programme start="20260817165200 +0000" stop="20260817174000 +0000" channel="1026">
+    <title lang="pt">Um Milagre</title>
+  </programme>
+  <programme start="20260817174000 +0000" stop="20260817182800 +0000" channel="1026">
+    <title lang="pt">Um Milagre</title>
+  </programme>
+  <programme start="20260817182800 +0000" stop="20260817191600 +0000" channel="1026">
+    <title lang="pt">Amor Sem Fim</title>
+  </programme>
+  <programme start="20260817191600 +0000" stop="20260817200400 +0000" channel="1026">
+    <title lang="pt">Meu Lar, Meu Destino</title>
+  </programme>
+  <programme start="20260817200400 +0000" stop="20260817205300 +0000" channel="1026">
+    <title lang="pt">Iludida</title>
+  </programme>
+  <programme start="20260817205300 +0000" stop="20260817214200 +0000" channel="1026">
+    <title lang="pt">Iludida</title>
+  </programme>
+  <programme start="20260817214200 +0000" stop="20260817223000 +0000" channel="1026">
+    <title lang="pt">Um Milagre</title>
+  </programme>
+  <programme start="20260817223000 +0000" stop="20260817231800 +0000" channel="1026">
+    <title lang="pt">Será Isso Amor?</title>
+  </programme>
+  <programme start="20260817231800 +0000" stop="20260818000700 +0000" channel="1026">
+    <title lang="pt">Iludida</title>
+  </programme>
+  <programme start="20260817000000 +0000" stop="20260817004500 +0000" channel="1953">
+    <title lang="pt">Comédia SBT</title>
+  </programme>
+  <programme start="20260817004500 +0000" stop="20260817050000 +0000" channel="1953">
+    <title lang="pt">SBT Notícias</title>
+  </programme>
+  <programme start="20260817050000 +0000" stop="20260817060000 +0000" channel="1953">
+    <title lang="pt">SBT Notícias</title>
+  </programme>
+  <programme start="20260817060000 +0000" stop="20260817070000 +0000" channel="1953">
+    <title lang="pt">Se Liga Brasil</title>
+  </programme>
+  <programme start="20260817070000 +0000" stop="20260817071500 +0000" channel="1953">
+    <title lang="pt">Quem Como Deus?</title>
+  </programme>
+  <programme start="20260817071500 +0000" stop="20260817074500 +0000" channel="1953">
+    <title lang="pt">Terço das Santas Chagas</title>
+  </programme>
+  <programme start="20260817074500 +0000" stop="20260817083000 +0000" channel="1953">
+    <title lang="pt">Se Liga Brasil</title>
+  </programme>
+  <programme start="20260817083000 +0000" stop="20260817104500 +0000" channel="1953">
+    <title lang="pt">Primeiro Impacto</title>
+  </programme>
+  <programme start="20260817104500 +0000" stop="20260817105000 +0000" channel="1953">
+    <title lang="pt">Loteria dos Sonhos</title>
+  </programme>
+  <programme start="20260817105000 +0000" stop="20260817111500 +0000" channel="1953">
+    <title lang="pt">Futebolês</title>
+  </programme>
+  <programme start="20260817111500 +0000" stop="20260817124500 +0000" channel="1953">
+    <title lang="pt">Barra</title>
+  </programme>
+  <programme start="20260817124500 +0000" stop="20260817135500 +0000" channel="1953">
+    <title lang="pt">Todo Mundo Ama</title>
+  </programme>
+  <programme start="20260817135500 +0000" stop="20260817140000 +0000" channel="1953">
+    <title lang="pt">Loteria dos Sonhos</title>
+  </programme>
+  <programme start="20260817140000 +0000" stop="20260817153000 +0000" channel="1953">
+    <title lang="pt">A Desalmada</title>
+  </programme>
+  <programme start="20260817153000 +0000" stop="20260817164500 +0000" channel="1953">
+    <title lang="pt">Fofocalizando</title>
+  </programme>
+  <programme start="20260817164500 +0000" stop="20260817174500 +0000" channel="1953">
+    <title lang="pt">O Que a Vida Me Roubou</title>
+  </programme>
+  <programme start="20260817174500 +0000" stop="20260817181500 +0000" channel="1953">
+    <title lang="pt">Sortilégio</title>
+  </programme>
+  <programme start="20260817181500 +0000" stop="20260817191000 +0000" channel="1953">
+    <title lang="pt">Jornal Jangadeiro</title>
+  </programme>
+  <programme start="20260817191000 +0000" stop="20260817191500 +0000" channel="1953">
+    <title lang="pt">Loteria dos Sonhos</title>
+  </programme>
+  <programme start="20260817191500 +0000" stop="20260817194500 +0000" channel="1953">
+    <title lang="pt">SBT Cidades</title>
+  </programme>
+  <programme start="20260817194500 +0000" stop="20260817204500 +0000" channel="1953">
+    <title lang="pt">SBT Brasil</title>
+  </programme>
+  <programme start="20260817204500 +0000" stop="20260817213000 +0000" channel="1953">
+    <title lang="pt">A História de Joana - A Virgem</title>
+  </programme>
+  <programme start="20260817213000 +0000" stop="20260817220000 +0000" channel="1953">
+    <title lang="pt">Sessão + SBT</title>
+  </programme>
+  <programme start="20260817220000 +0000" stop="20260817230000 +0000" channel="1953">
+    <title lang="pt">Programa do Ratinho</title>
+  </programme>
+  <programme start="20260817230000 +0000" stop="20260818000000 +0000" channel="1953">
+    <title lang="pt">Galvão F.C.</title>
   </programme>
 </tv>
