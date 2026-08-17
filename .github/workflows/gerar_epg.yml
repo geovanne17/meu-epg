@@ -1,39 +1,37 @@
-name: Gerador de EPG
+name: Gerar EPGs Automaticamente
 
 on:
   schedule:
-    - cron: '0 3 * * *'
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    - cron: '0 3 * * *' # Roda todos os dias às 00:00 (Brasília)
+  workflow_dispatch: # Permite rodar manualmente no painel do GitHub
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Baixar código do repositório
-      uses: actions/checkout@v4
+      - name: Checkout repositório
+        uses: actions/checkout@v3
 
-    - name: Configurar Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.11'
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
 
-    - name: Instalar e Executar EPG
-      run: |
-        python -m pip install requests
-        python gerar_epg.py
+      - name: Instalar dependências
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
 
-    - name: Fazer Commit e Push do epg.xml atualizado
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add epg.xml
-        if git status --porcelain | grep -q 'epg.xml'; then
-          git commit -m "Atualização automática do EPG"
+      - name: Executar Script Principal (Claro)
+        run: python gerar_epg.py
+
+      - name: Executar Script Secundário (Guia de TV)
+        run: python gerar_epg_guiadetv.py
+
+      - name: Commit e Push dos Arquivos Gerados
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add epg.xml epg_guiadetv.xml
+          git commit -m "Atualização automática dos EPGs" || exit 0
           git push
-        else
-          echo "Nenhuma alteração no epg.xml. Ignorando commit."
-        fi
