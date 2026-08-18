@@ -6,18 +6,14 @@ import requests
 from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 
-# 1. CANAIS DO GUIA DE TV (Raspagem)
+# CANAIS PARA RASPAGEM E API
 CANAIS_GUIADETV = {
     "canaleducacao": {
         "url_slug": "canal-educacao",
         "nome": "Canal Educação"
-    }
-}
-
-# 2. CANAIS DA EBC (API Oficial)
-CANAIS_EBC = {
+    },
     "canalgov": {
-        "slug_ebc": "canal-gov",
+        "url_slug": "canal-gov",
         "nome": "Canal Gov"
     }
 }
@@ -26,54 +22,58 @@ def formatar_data_xui(dt):
     return dt.strftime("%Y%m%d%H%M%S -0300")
 
 def buscar_ebc_api(slug):
-    """Busca a programação diretamente da API oficial da EBC (Canal Gov)"""
-    url = f"https://epg.ebc.com.br/api/programacao/{slug}"
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
+    """Tenta buscar a programação na API oficial da EBC passando intervalo de datas"""
+    hoje = datetime.now()
     programas = []
+    
+    # Busca programação de hoje e dos próximos 2 dias
+    for i in range(3):
+        data_str = (hoje + timedelta(days=i)).strftime("%Y-%m-%d")
+        url = f"https://epg.ebc.com.br/api/programacao/{slug}/{data_str}"
+        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
 
-    try:
-        res = requests.get(url, headers=headers, timeout=15)
-        if res.status_code == 200:
-            dados = res.json()
-            items = dados if isinstance(dados, list) else dados.get("programas", [])
+        try:
+            res = requests.get(url, headers=headers, timeout=10)
+            if res.status_code == 200:
+                dados = res.json()
+                items = dados if isinstance(dados, list) else dados.get("programas", [])
 
-            for item in items:
-                # Trata campos da API
-                titulo = item.get("titulo") or item.get("nome")
-                desc = item.get("descricao") or item.get("sinopse") or "Programação Canal Gov."
-                data_inicio_raw = item.get("data_inicio") or item.get("inicio")
+                for item in items:
+                    titulo = item.get("titulo") or item.get("nome")
+                    desc = item.get("descricao") or item.get("sinopse") or "Programação Canal Gov."
+                    data_inicio_raw = item.get("data_inicio") or item.get("inicio") or item.get("horario")
 
-                if titulo and data_inicio_raw:
-                    # Converte formato ISO/Timestamp para datetime
-                    try:
-                        dt_inicio = datetime.fromisoformat(data_inicio_raw.replace("Z", "+00:00")) - timedelta(hours=3)
-                    except ValueError:
-                        continue
+                    if titulo and data_inicio_raw:
+                        try:
+                            if "T" in str(data_inicio_raw):
+                                dt_inicio = datetime.fromisoformat(str(data_inicio_raw).replace("Z", "+00:00")) - timedelta(hours=3)
+                            else:
+                                horas, minutos = map(int, str(data_inicio_raw).split(":"))
+                                dt_inicio = (hoje + timedelta(days=i)).replace(hour=horas, minute=minutos, second=0, microsecond=0)
 
-                    programas.append({
-                        "dt_inicio": dt_inicio,
-                        "titulo": titulo.strip(),
-                        "desc": desc.strip()
-                    })
+                            programas.append({
+                                "dt_inicio": dt_inicio,
+                                "titulo": titulo.strip(),
+                                "desc": desc.strip()
+                            })
+                        except ValueError:
+                            continue
+        except Exception:
+            continue
 
-            # Calcula horário de término encadeado
-            programas.sort(key=lambda x: x["dt_inicio"])
-            for i in range(len(programas)):
-                if i < len(programas) - 1:
-                    programas[i]["dt_fim"] = programas[i + 1]["dt_inicio"]
-                else:
-                    programas[i]["dt_fim"] = programas[i]["dt_inicio"] + timedelta(minutes=30)
-
-            print(f"-> Sucesso! Extraídos {len(programas)} programas da API EBC ({slug})")
-            return programas
-
-    except Exception as e:
-        print(f"-> Erro ao buscar API EBC ({slug}): {e}")
-
-    return []
+    if programas:
+        programas.sort(key=lambda x: x["dt_inicio"])
+        for i in range(len(programas)):
+            if i < len(programas) - 1:
+                programas[i]["dt_fim"] = programas[i + 1]["dt_inicio"]
+            else:
+                programas[i]["dt_fim"] = programas[i]["dt_inicio"] + timedelta(minutes=30)
+        print(f"-> Sucesso via API EBC! Extraídos {len(programas)} programas para '{slug}'")
+        
+    return programas
 
 def raspagem_guiadetv_headless(slug):
-    """Raspagem Headless para o Guia de TV"""
+    """Raspagem via Playwright para o Guia de TV (usado para Canal Educação e Fallback do Canal Gov)"""
     url = f"https://www.guiadetv.com/canal/{slug}"
     programas = []
     hoje_base = datetime.now()
@@ -132,7 +132,7 @@ def raspagem_guiadetv_headless(slug):
             else:
                 programas[i]["dt_fim"] = programas[i]["dt_inicio"] + timedelta(minutes=30)
 
-        print(f"-> Sucesso! Extraídos {len(programas)} programas de '{slug}'")
+        print(f"-> Sucesso via Guia de TV! Extraídos {len(programas)} programas para '{slug}'")
         return programas
 
     except Exception as e:
@@ -143,33 +143,25 @@ def gerar_epg():
     agora_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     tv = ET.Element("tv", {"generator-info-name": f"EPG Secundario - {agora_str}"})
 
-    # 1. Registrar Canais
-    todos_canais = {**CANAIS_GUIADETV, **CANAIS_EBC}
-    for channel_id, info in todos_canais.items():
+    for channel_id, info in CANAIS_GUIADETV.items():
         canal_elem = ET.SubElement(tv, "channel", id=channel_id)
         display = ET.SubElement(canal_elem, "display-name", lang="pt")
         display.text = info["nome"]
 
     total = 0
 
-    # 2. Processar Guia de TV (Canal Educação)
     for channel_id, info in CANAIS_GUIADETV.items():
-        print(f"Buscando no Guia de TV: {info['nome']}...")
-        progs = raspagem_guiadetv_headless(info["url_slug"])
-        for p in progs:
-            prog = ET.SubElement(tv, "programme", {
-                "start": formatar_data_xui(p["dt_inicio"]),
-                "stop": formatar_data_xui(p["dt_fim"]),
-                "channel": channel_id
-            })
-            ET.SubElement(prog, "title", lang="pt").text = p["titulo"]
-            ET.SubElement(prog, "desc", lang="pt").text = p["desc"]
-            total += 1
+        print(f"\nBuscando dados para: {info['nome']}...")
+        progs = []
 
-    # 3. Processar API EBC (Canal Gov)
-    for channel_id, info in CANAIS_EBC.items():
-        print(f"Buscando na API EBC: {info['nome']}...")
-        progs = buscar_ebc_api(info["slug_ebc"])
+        # Tenta a API para o Canal Gov
+        if channel_id == "canalgov":
+            progs = buscar_ebc_api("canal-gov")
+
+        # Se a API falhar ou se for o Canal Educação, utiliza o Playwright (Guia de TV)
+        if not progs:
+            progs = raspagem_guiadetv_headless(info["url_slug"])
+
         for p in progs:
             prog = ET.SubElement(tv, "programme", {
                 "start": formatar_data_xui(p["dt_inicio"]),
