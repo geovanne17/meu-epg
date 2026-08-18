@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv generator-info-name="EPG Secundario - 2026-08-18 00:22:27">
+<tv generator-info-name="EPG Secundario - 2026-08-18 03:38:43">
   <channel id="canaleducacao">
     <display-name lang="pt">Canal Educação</display-name>
   </channel>
@@ -11,15 +11,15 @@
     <desc lang="pt"/>
   </programme>
   <programme start="20260818003000 -0300" stop="20260818010000 -0300" channel="canaleducacao">
-    <title lang="pt">Meu Pedaço do Brasil</title>
-    <desc lang="pt">A cada episódio, uma cidade turística do país e suas principais atrações são apresentados através do olhar de moradores e guias de turismo locais.</desc>
+    <title lang="pt">Parques do Brasil</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818010000 -0300" stop="20260818013000 -0300" channel="canaleducacao">
-    <title lang="pt">Crisálida</title>
+    <title lang="pt">Olhares do Norte: Pará</title>
     <desc lang="pt"/>
   </programme>
   <programme start="20260818013000 -0300" stop="20260818020000 -0300" channel="canaleducacao">
-    <title lang="pt">Filhos da Liberdade</title>
+    <title lang="pt">Crisálida</title>
     <desc lang="pt"/>
   </programme>
   <programme start="20260818020000 -0300" stop="20260818023000 -0300" channel="canaleducacao">
@@ -27,7 +27,7 @@
     <desc lang="pt"/>
   </programme>
   <programme start="20260818023000 -0300" stop="20260818030000 -0300" channel="canaleducacao">
-    <title lang="pt">Adolescentes e o Mundo Digital</title>
+    <title lang="pt">Inclusão para Valer</title>
     <desc lang="pt"/>
   </programme>
   <programme start="20260818030000 -0300" stop="20260818033000 -0300" channel="canaleducacao">
@@ -35,12 +35,12 @@
     <desc lang="pt"/>
   </programme>
   <programme start="20260818033000 -0300" stop="20260818040000 -0300" channel="canaleducacao">
-    <title lang="pt">Na Raiz dos Festejos</title>
+    <title lang="pt">Talk Show Preto no Branco</title>
     <desc lang="pt"/>
   </programme>
   <programme start="20260818040000 -0300" stop="20260818043000 -0300" channel="canaleducacao">
     <title lang="pt">Crisálida</title>
-    <desc lang="pt"/>
+    <desc lang="pt">Você namoraria uma pessoa surda? Já pensou nas barreiras que enfrentaria para se comunicar e amadurecer o relacionamento? Este é o principal desafio de Jaks e Morgana.</desc>
   </programme>
   <programme start="20260818043000 -0300" stop="20260818050000 -0300" channel="canaleducacao">
     <title lang="pt">Filhos da Liberdade</title>
