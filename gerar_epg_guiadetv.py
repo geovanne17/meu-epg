@@ -30,62 +30,63 @@ def raspagem_guiadetv_headless(slug):
 
         soup = BeautifulSoup(html_content, "html.parser")
         
-        # Encontra todos os elementos de texto com formato de hora HH:MM
-        elementos_hora = soup.find_all(text=re.compile(r"^\d{2}:\d{2}$"))
-        
-        for elem in elementos_hora:
-            horario_str = elem.strip()
+        # O site organiza cada item da grade com links do tipo /programa/...
+        links_programas = soup.find_all("a", href=re.compile(r"/programa/"))
+
+        for link in links_programas:
+            titulo = link.text.strip()
             
-            # Sobe no DOM para encontrar o container principal do programa
-            container = elem.parent
-            for _ in range(3):
-                if container and container.parent and container.parent.name != "body":
-                    container = container.parent
-
-            if not container:
+            # Filtra cabeçalhos ou links irrelevantes
+            if not titulo or "Programação" in titulo or len(titulo) < 3:
                 continue
 
-            # Busca exata do Título: procura links <a>, <h2>, <h3> ou tags com texto
-            titulo = ""
-            for tag in container.find_all(["a", "h2", "h3", "h4", "strong"]):
-                texto = tag.text.strip()
-                # Evita pegar a própria hora ou textos curtos irrelevantes
-                if texto and texto != horario_str and len(texto) > 2 and "No Ar" not in texto:
-                    titulo = texto
-                    break
+            # O bloco do programa é o elemento pai imediato do link
+            item_box = link.parent
+            for _ in range(2):
+                if item_box and not item_box.find(text=re.compile(r"^\d{2}:\d{2}$")):
+                    item_box = item_box.parent
 
-            if not titulo:
+            if not item_box:
                 continue
 
-            # Busca a Descrição (tag <p>)
-            desc_tag = container.find("p")
+            # Busca o horário dentro do container do item
+            hora_elem = item_box.find(text=re.compile(r"^\d{2}:\d{2}$"))
+            if not hora_elem:
+                continue
+                
+            horario_str = hora_elem.strip()
+
+            # Busca a descrição dentro do container
+            desc_tag = item_box.find("p")
             desc = desc_tag.text.strip() if desc_tag else "Acompanhe a programação ao vivo."
 
             horas, minutos = map(int, horario_str.split(":"))
             dt_inicio = hoje_base.replace(hour=horas, minute=minutos, second=0, microsecond=0)
 
-            if not any(p["dt_inicio"] == dt_inicio for p in programas):
+            # Evita duplicatas do mesmo horário e título
+            if not any(p["dt_inicio"] == dt_inicio and p["titulo"] == titulo for p in programas):
                 programas.append({
                     "dt_inicio": dt_inicio,
                     "titulo": titulo,
                     "desc": desc
                 })
 
+        # Ordena cronologicamente
         programas.sort(key=lambda x: x["dt_inicio"])
 
-        # Trata virada da meia-noite
+        # Trata a virada da meia-noite (23:30 -> 00:00)
         for i in range(1, len(programas)):
             if programas[i]["dt_inicio"] < programas[i-1]["dt_inicio"]:
                 programas[i]["dt_inicio"] += timedelta(days=1)
 
-        # Define o horário de término
+        # Define os horários de término (stop)
         for i in range(len(programas)):
             if i < len(programas) - 1:
                 programas[i]["dt_fim"] = programas[i + 1]["dt_inicio"]
             else:
                 programas[i]["dt_fim"] = programas[i]["dt_inicio"] + timedelta(minutes=30)
 
-        print(f"-> Sucesso! Extraídos {len(programas)} programas de '{slug}'")
+        print(f"-> Sucesso! Extraídos {len(programas)} programas individuais para '{slug}'")
         return programas
 
     except Exception as e:
@@ -93,7 +94,6 @@ def raspagem_guiadetv_headless(slug):
         return []
 
 def gerar_epg():
-    # Adiciona o timestamp no gerador para forçar alteração do arquivo no Git
     agora_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     tv = ET.Element("tv", {"generator-info-name": f"EPG GuiaDeTV - {agora_str}"})
 
