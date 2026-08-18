@@ -30,63 +30,62 @@ def raspagem_guiadetv_headless(slug):
 
         soup = BeautifulSoup(html_content, "html.parser")
         
-        # O site organiza cada item da grade com links do tipo /programa/...
-        links_programas = soup.find_all("a", href=re.compile(r"/programa/"))
+        # Encontra as tags de texto que contêm exatamente a hora no formato HH:MM
+        elementos_hora = soup.find_all(text=re.compile(r"^\d{2}:\d{2}$"))
 
-        for link in links_programas:
-            titulo = link.text.strip()
+        for elem in elementos_hora:
+            horario_str = elem.strip()
             
-            # Filtra cabeçalhos ou links irrelevantes
-            if not titulo or "Programação" in titulo or len(titulo) < 3:
-                continue
-
-            # O bloco do programa é o elemento pai imediato do link
-            item_box = link.parent
+            # Pega o container pai imediato do horário
+            container = elem.parent
+            # Sobe no máximo 2 níveis para isolar a linha do programa
             for _ in range(2):
-                if item_box and not item_box.find(text=re.compile(r"^\d{2}:\d{2}$")):
-                    item_box = item_box.parent
+                if container and not container.find("a", href=re.compile(r"/programa/")):
+                    container = container.parent
 
-            if not item_box:
+            if not container:
                 continue
 
-            # Busca o horário dentro do container do item
-            hora_elem = item_box.find(text=re.compile(r"^\d{2}:\d{2}$"))
-            if not hora_elem:
+            # Busca o título (link exclusivo do programa nesta linha)
+            link_titulo = container.find("a", href=re.compile(r"/programa/"))
+            if not link_titulo:
                 continue
-                
-            horario_str = hora_elem.strip()
 
-            # Busca a descrição dentro do container
-            desc_tag = item_box.find("p")
+            titulo = link_titulo.text.strip()
+            if not titulo or "Programação" in titulo:
+                continue
+
+            # Busca a descrição (se houver no container)
+            desc_tag = container.find("p")
             desc = desc_tag.text.strip() if desc_tag else "Acompanhe a programação ao vivo."
 
             horas, minutos = map(int, horario_str.split(":"))
             dt_inicio = hoje_base.replace(hour=horas, minute=minutos, second=0, microsecond=0)
 
-            # Evita duplicatas do mesmo horário e título
-            if not any(p["dt_inicio"] == dt_inicio and p["titulo"] == titulo for p in programas):
+            # Garante que não adicionaremos o mesmo programa no mesmo horário mais de uma vez
+            if not any(p["dt_inicio"] == dt_inicio for p in programas):
                 programas.append({
                     "dt_inicio": dt_inicio,
                     "titulo": titulo,
                     "desc": desc
                 })
 
-        # Ordena cronologicamente
+        # Ordena a lista em ordem cronológica
         programas.sort(key=lambda x: x["dt_inicio"])
 
-        # Trata a virada da meia-noite (23:30 -> 00:00)
+        # Trata viradas de dia (programas após a meia-noite)
         for i in range(1, len(programas)):
             if programas[i]["dt_inicio"] < programas[i-1]["dt_inicio"]:
                 programas[i]["dt_inicio"] += timedelta(days=1)
 
-        # Define os horários de término (stop)
+        # Calcula a hora correta de término para cada programa
         for i in range(len(programas)):
             if i < len(programas) - 1:
                 programas[i]["dt_fim"] = programas[i + 1]["dt_inicio"]
             else:
                 programas[i]["dt_fim"] = programas[i]["dt_inicio"] + timedelta(minutes=30)
 
-        print(f"-> Sucesso! Extraídos {len(programas)} programas individuais para '{slug}'")
+        print(f"-> Sucesso! Mapeados {len(programas)} programas com horários únicos para '{slug}'")
         return programas
 
     except Exception as e:
