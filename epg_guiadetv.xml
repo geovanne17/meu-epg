@@ -1,338 +1,334 @@
 <?xml version="1.0" ?>
-<tv generator-info-name="EPG GuiaDeTV">
+<tv generator-info-name="EPG GuiaDeTV - 2026-08-18 00:00:50">
   <channel id="canaleducacao">
     <display-name lang="pt">Canal Educação</display-name>
   </channel>
-  <programme start="20260817000000 -0300" stop="20260817003000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817003000 -0300" stop="20260817010000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817010000 -0300" stop="20260817013000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817013000 -0300" stop="20260817020000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817020000 -0300" stop="20260817023000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817023000 -0300" stop="20260817030000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817030000 -0300" stop="20260817033000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817033000 -0300" stop="20260817040000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817040000 -0300" stop="20260817043000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817043000 -0300" stop="20260817050000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817050000 -0300" stop="20260817051500 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817051500 -0300" stop="20260817053000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817053000 -0300" stop="20260817060000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817060000 -0300" stop="20260817063000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817063000 -0300" stop="20260817070000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817070000 -0300" stop="20260817073000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817073000 -0300" stop="20260817081500 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817081500 -0300" stop="20260817083000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817083000 -0300" stop="20260817084500 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817084500 -0300" stop="20260817085500 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817085500 -0300" stop="20260817090000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817090000 -0300" stop="20260817093000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817093000 -0300" stop="20260817100000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817100000 -0300" stop="20260817101500 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817101500 -0300" stop="20260817102500 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817102500 -0300" stop="20260817103000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817103000 -0300" stop="20260817103500 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817103500 -0300" stop="20260817105000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817105000 -0300" stop="20260817110000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817110000 -0300" stop="20260817112000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817112000 -0300" stop="20260817113000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817113000 -0300" stop="20260817114500 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817114500 -0300" stop="20260817120000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817120000 -0300" stop="20260817123000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817123000 -0300" stop="20260817130000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817130000 -0300" stop="20260817131500 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817131500 -0300" stop="20260817133000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817133000 -0300" stop="20260817134500 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817134500 -0300" stop="20260817140000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817140000 -0300" stop="20260817141500 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817141500 -0300" stop="20260817142500 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817142500 -0300" stop="20260817143000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817143000 -0300" stop="20260817144500 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817144500 -0300" stop="20260817150000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817150000 -0300" stop="20260817151500 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817151500 -0300" stop="20260817152500 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817152500 -0300" stop="20260817153000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817153000 -0300" stop="20260817160000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817160000 -0300" stop="20260817163000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817163000 -0300" stop="20260817164500 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817164500 -0300" stop="20260817165500 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817165500 -0300" stop="20260817170000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817170000 -0300" stop="20260817170500 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817170500 -0300" stop="20260817171000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817171000 -0300" stop="20260817171500 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817171500 -0300" stop="20260817172000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817172000 -0300" stop="20260817173000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817173000 -0300" stop="20260817173500 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817173500 -0300" stop="20260817174000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817174000 -0300" stop="20260817174500 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817174500 -0300" stop="20260817175000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817175000 -0300" stop="20260817180000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817180000 -0300" stop="20260817181000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817181000 -0300" stop="20260817181500 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817181500 -0300" stop="20260817182000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817182000 -0300" stop="20260817183000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817183000 -0300" stop="20260817184500 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817184500 -0300" stop="20260817185500 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817185500 -0300" stop="20260817190000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817190000 -0300" stop="20260817193000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817193000 -0300" stop="20260817200000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817200000 -0300" stop="20260817201500 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817201500 -0300" stop="20260817203000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817203000 -0300" stop="20260817204500 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817204500 -0300" stop="20260817205500 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817205500 -0300" stop="20260817210000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817210000 -0300" stop="20260817213000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817213000 -0300" stop="20260817220000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817220000 -0300" stop="20260817223000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817223000 -0300" stop="20260817230000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817230000 -0300" stop="20260817233000 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817233000 -0300" stop="20260817234500 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
-  </programme>
-  <programme start="20260817234500 -0300" stop="20260818001500 -0300" channel="canaleducacao">
-    <title lang="pt"/>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a geração.</desc>
+  <programme start="20260818000000 -0300" stop="20260818003000 -0300" channel="canaleducacao">
+    <title lang="pt">Parques do Brasil</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818003000 -0300" stop="20260818010000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818010000 -0300" stop="20260818013000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818013000 -0300" stop="20260818020000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818020000 -0300" stop="20260818023000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818023000 -0300" stop="20260818030000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818030000 -0300" stop="20260818033000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818033000 -0300" stop="20260818040000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818040000 -0300" stop="20260818043000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818043000 -0300" stop="20260818050000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818050000 -0300" stop="20260818051500 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818051500 -0300" stop="20260818053000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818053000 -0300" stop="20260818060000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818060000 -0300" stop="20260818063000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818063000 -0300" stop="20260818070000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818070000 -0300" stop="20260818073000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818073000 -0300" stop="20260818081500 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818081500 -0300" stop="20260818083000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818083000 -0300" stop="20260818084500 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818084500 -0300" stop="20260818085500 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818085500 -0300" stop="20260818090000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818090000 -0300" stop="20260818093000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818093000 -0300" stop="20260818100000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818100000 -0300" stop="20260818101500 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818101500 -0300" stop="20260818102500 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818102500 -0300" stop="20260818103000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818103000 -0300" stop="20260818103500 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818103500 -0300" stop="20260818105000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818105000 -0300" stop="20260818110000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818110000 -0300" stop="20260818112000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818112000 -0300" stop="20260818113000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818113000 -0300" stop="20260818114500 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818114500 -0300" stop="20260818120000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818120000 -0300" stop="20260818123000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818123000 -0300" stop="20260818130000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818130000 -0300" stop="20260818131500 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818131500 -0300" stop="20260818133000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818133000 -0300" stop="20260818134500 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818134500 -0300" stop="20260818140000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818140000 -0300" stop="20260818141500 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818141500 -0300" stop="20260818142500 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818142500 -0300" stop="20260818143000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818143000 -0300" stop="20260818144500 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818144500 -0300" stop="20260818150000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818150000 -0300" stop="20260818151500 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818151500 -0300" stop="20260818152500 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818152500 -0300" stop="20260818153000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818153000 -0300" stop="20260818160000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818160000 -0300" stop="20260818163000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818163000 -0300" stop="20260818164500 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818164500 -0300" stop="20260818165500 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818165500 -0300" stop="20260818170000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818170000 -0300" stop="20260818170500 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818170500 -0300" stop="20260818171000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818171000 -0300" stop="20260818171500 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818171500 -0300" stop="20260818172000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818172000 -0300" stop="20260818173000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818173000 -0300" stop="20260818173500 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818173500 -0300" stop="20260818174000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818174000 -0300" stop="20260818174500 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818174500 -0300" stop="20260818175000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818175000 -0300" stop="20260818180000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818180000 -0300" stop="20260818181000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818181000 -0300" stop="20260818181500 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818181500 -0300" stop="20260818182000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818182000 -0300" stop="20260818183000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818183000 -0300" stop="20260818184500 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818184500 -0300" stop="20260818185500 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818185500 -0300" stop="20260818190000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818190000 -0300" stop="20260818193000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818193000 -0300" stop="20260818200000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818200000 -0300" stop="20260818201500 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818201500 -0300" stop="20260818203000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818203000 -0300" stop="20260818204500 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818204500 -0300" stop="20260818205500 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818205500 -0300" stop="20260818210000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818210000 -0300" stop="20260818213000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818213000 -0300" stop="20260818220000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818220000 -0300" stop="20260818223000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818223000 -0300" stop="20260818230000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818230000 -0300" stop="20260818233000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+  </programme>
+  <programme start="20260818233000 -0300" stop="20260819000000 -0300" channel="canaleducacao">
+    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
+    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
   </programme>
 </tv>
