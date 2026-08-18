@@ -1,334 +1,826 @@
 <?xml version="1.0" ?>
-<tv generator-info-name="EPG GuiaDeTV - 2026-08-18 00:00:50">
+<tv generator-info-name="EPG GuiaDeTV - 2026-08-18 00:05:13">
   <channel id="canaleducacao">
     <display-name lang="pt">Canal Educação</display-name>
   </channel>
-  <programme start="20260818000000 -0300" stop="20260818003000 -0300" channel="canaleducacao">
+  <programme start="20260818000000 -0300" stop="20260818000000 -0300" channel="canaleducacao">
     <title lang="pt">Parques do Brasil</title>
     <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
   </programme>
+  <programme start="20260818000000 -0300" stop="20260818000000 -0300" channel="canaleducacao">
+    <title lang="pt">Fortes do Brasil</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818000000 -0300" stop="20260818000000 -0300" channel="canaleducacao">
+    <title lang="pt">Filhos da Liberdade</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818000000 -0300" stop="20260818000000 -0300" channel="canaleducacao">
+    <title lang="pt">Meu Pedaço do Brasil</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818000000 -0300" stop="20260818000000 -0300" channel="canaleducacao">
+    <title lang="pt">Show da Simone</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818000000 -0300" stop="20260818003000 -0300" channel="canaleducacao">
+    <title lang="pt">Inclusão para Valer</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818003000 -0300" stop="20260818003000 -0300" channel="canaleducacao">
+    <title lang="pt">Meu Pedaço do Brasil</title>
+    <desc lang="pt">A cada episódio, uma cidade turística do país e suas principais atrações são apresentados através do olhar de moradores e guias de turismo locais.</desc>
+  </programme>
+  <programme start="20260818003000 -0300" stop="20260818003000 -0300" channel="canaleducacao">
+    <title lang="pt">Parques do Brasil</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818003000 -0300" stop="20260818003000 -0300" channel="canaleducacao">
+    <title lang="pt">Fortes do Brasil</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818003000 -0300" stop="20260818003000 -0300" channel="canaleducacao">
+    <title lang="pt">Filhos da Liberdade</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818003000 -0300" stop="20260818003000 -0300" channel="canaleducacao">
+    <title lang="pt">Nossos Biomas</title>
+    <desc lang="pt"/>
+  </programme>
   <programme start="20260818003000 -0300" stop="20260818010000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Vida de Merendeira</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818010000 -0300" stop="20260818010000 -0300" channel="canaleducacao">
+    <title lang="pt">Crisálida</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818010000 -0300" stop="20260818010000 -0300" channel="canaleducacao">
+    <title lang="pt">Olhares do Norte: Pará</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818010000 -0300" stop="20260818010000 -0300" channel="canaleducacao">
+    <title lang="pt">Vida de Merendeira</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818010000 -0300" stop="20260818010000 -0300" channel="canaleducacao">
+    <title lang="pt">Filhos da Liberdade</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818010000 -0300" stop="20260818013000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Entre Longes</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818013000 -0300" stop="20260818013000 -0300" channel="canaleducacao">
+    <title lang="pt">Filhos da Liberdade</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818013000 -0300" stop="20260818013000 -0300" channel="canaleducacao">
+    <title lang="pt">Crisálida</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818013000 -0300" stop="20260818013000 -0300" channel="canaleducacao">
+    <title lang="pt">Olhares do Norte: Pará</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818013000 -0300" stop="20260818013000 -0300" channel="canaleducacao">
+    <title lang="pt">Curtas ABC</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818013000 -0300" stop="20260818013000 -0300" channel="canaleducacao">
+    <title lang="pt">Caminhos da Reportagem</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818013000 -0300" stop="20260818020000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Fortes do Brasil</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818020000 -0300" stop="20260818020000 -0300" channel="canaleducacao">
+    <title lang="pt">Sementes da Educação</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818020000 -0300" stop="20260818020000 -0300" channel="canaleducacao">
+    <title lang="pt">Show da Simone</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818020000 -0300" stop="20260818020000 -0300" channel="canaleducacao">
+    <title lang="pt">Compromisso Criança Alfabetizada</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818020000 -0300" stop="20260818023000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Filhos da Liberdade</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818023000 -0300" stop="20260818023000 -0300" channel="canaleducacao">
+    <title lang="pt">Adolescentes e o Mundo Digital</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818023000 -0300" stop="20260818023000 -0300" channel="canaleducacao">
+    <title lang="pt">Inclusão para Valer</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818023000 -0300" stop="20260818023000 -0300" channel="canaleducacao">
+    <title lang="pt">Compromisso Criança Alfabetizada</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818023000 -0300" stop="20260818023000 -0300" channel="canaleducacao">
+    <title lang="pt">Na Raiz dos Festejos</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818023000 -0300" stop="20260818030000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Parques do Brasil</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818030000 -0300" stop="20260818030000 -0300" channel="canaleducacao">
+    <title lang="pt">Caminhos da Reportagem</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818030000 -0300" stop="20260818030000 -0300" channel="canaleducacao">
+    <title lang="pt">Vida de Merendeira</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818030000 -0300" stop="20260818030000 -0300" channel="canaleducacao">
+    <title lang="pt">Sementes da Educação</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818030000 -0300" stop="20260818033000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Meu Pedaço do Brasil</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818033000 -0300" stop="20260818033000 -0300" channel="canaleducacao">
+    <title lang="pt">Na Raiz dos Festejos</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818033000 -0300" stop="20260818033000 -0300" channel="canaleducacao">
+    <title lang="pt">Talk Show Preto no Branco</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818033000 -0300" stop="20260818033000 -0300" channel="canaleducacao">
+    <title lang="pt">Poetas do Céu</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818033000 -0300" stop="20260818033000 -0300" channel="canaleducacao">
+    <title lang="pt">Compromisso Criança Alfabetizada</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818033000 -0300" stop="20260818033000 -0300" channel="canaleducacao">
+    <title lang="pt">Sementes da Educação</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818033000 -0300" stop="20260818040000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Outro Olhar</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818040000 -0300" stop="20260818040000 -0300" channel="canaleducacao">
+    <title lang="pt">Crisálida</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818040000 -0300" stop="20260818040000 -0300" channel="canaleducacao">
+    <title lang="pt">Olhares do Norte: Pará</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818040000 -0300" stop="20260818040000 -0300" channel="canaleducacao">
+    <title lang="pt">Filhos da Liberdade</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818040000 -0300" stop="20260818040000 -0300" channel="canaleducacao">
+    <title lang="pt">Entre Longes</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818040000 -0300" stop="20260818040000 -0300" channel="canaleducacao">
+    <title lang="pt">Na Raiz dos Festejos</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818040000 -0300" stop="20260818043000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Uma Escola para as Adolescências</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818043000 -0300" stop="20260818043000 -0300" channel="canaleducacao">
+    <title lang="pt">Filhos da Liberdade</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818043000 -0300" stop="20260818043000 -0300" channel="canaleducacao">
+    <title lang="pt">Crisálida</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818043000 -0300" stop="20260818043000 -0300" channel="canaleducacao">
+    <title lang="pt">Olhares do Norte: Pará</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818043000 -0300" stop="20260818043000 -0300" channel="canaleducacao">
+    <title lang="pt">Curtas ABC</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818043000 -0300" stop="20260818043000 -0300" channel="canaleducacao">
+    <title lang="pt">Vida de Merendeira</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818043000 -0300" stop="20260818050000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Sementes da Educação</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818050000 -0300" stop="20260818051500 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Sementes da Educação</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818051500 -0300" stop="20260818053000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Turismo transforma Noronha</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818053000 -0300" stop="20260818053000 -0300" channel="canaleducacao">
+    <title lang="pt">Talk Show Preto no Branco</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818053000 -0300" stop="20260818053000 -0300" channel="canaleducacao">
+    <title lang="pt">Inclusão para Valer</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818053000 -0300" stop="20260818053000 -0300" channel="canaleducacao">
+    <title lang="pt">Caminhos da Reportagem</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818053000 -0300" stop="20260818053000 -0300" channel="canaleducacao">
+    <title lang="pt">Compromisso Criança Alfabetizada</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818053000 -0300" stop="20260818053000 -0300" channel="canaleducacao">
+    <title lang="pt">Na Raiz dos Festejos</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818053000 -0300" stop="20260818060000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Conta a Virada!</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818060000 -0300" stop="20260818060000 -0300" channel="canaleducacao">
+    <title lang="pt">Conta a Virada!</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818060000 -0300" stop="20260818063000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Olha Elas!</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818063000 -0300" stop="20260818063000 -0300" channel="canaleducacao">
+    <title lang="pt">Adolescentes e o Mundo Digital</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818063000 -0300" stop="20260818070000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">UniVERciência</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818070000 -0300" stop="20260818070000 -0300" channel="canaleducacao">
+    <title lang="pt">Se Liga na Educação ENEM</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818070000 -0300" stop="20260818070000 -0300" channel="canaleducacao">
+    <title lang="pt">Poetas do Céu</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818070000 -0300" stop="20260818073000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Conta a Virada!</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818073000 -0300" stop="20260818081500 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Olha Elas!</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818081500 -0300" stop="20260818081500 -0300" channel="canaleducacao">
+    <title lang="pt">Trilha de Letras</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818081500 -0300" stop="20260818081500 -0300" channel="canaleducacao">
+    <title lang="pt">Adolescentes e o Mundo Digital</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818081500 -0300" stop="20260818081500 -0300" channel="canaleducacao">
+    <title lang="pt">Filosofia Com Arte</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818081500 -0300" stop="20260818083000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Faróis do Brasil</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818083000 -0300" stop="20260818084500 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Conta a Virada!</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818084500 -0300" stop="20260818084500 -0300" channel="canaleducacao">
+    <title lang="pt">Histórias do Brasil</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818084500 -0300" stop="20260818085500 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Turismo transforma Noronha</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818085500 -0300" stop="20260818090000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Preto no Branco</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818090000 -0300" stop="20260818090000 -0300" channel="canaleducacao">
+    <title lang="pt">Talk Show Preto no Branco</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818090000 -0300" stop="20260818090000 -0300" channel="canaleducacao">
+    <title lang="pt">Inclusão para Valer</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818090000 -0300" stop="20260818090000 -0300" channel="canaleducacao">
+    <title lang="pt">Vida de Merendeira</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818090000 -0300" stop="20260818090000 -0300" channel="canaleducacao">
+    <title lang="pt">Compromisso Criança Alfabetizada</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818090000 -0300" stop="20260818090000 -0300" channel="canaleducacao">
+    <title lang="pt">Conta a Virada!</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818090000 -0300" stop="20260818093000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">UniVERciência</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818093000 -0300" stop="20260818093000 -0300" channel="canaleducacao">
+    <title lang="pt">Sementes da Educação</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818093000 -0300" stop="20260818093000 -0300" channel="canaleducacao">
+    <title lang="pt">Olha Elas!</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818093000 -0300" stop="20260818100000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Trilha de Letras</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818100000 -0300" stop="20260818100000 -0300" channel="canaleducacao">
+    <title lang="pt">Palaloos</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818100000 -0300" stop="20260818101500 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Adolescentes e o Mundo Digital</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818101500 -0300" stop="20260818102500 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Planeta Palavra</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818102500 -0300" stop="20260818103000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Planeta Palavra</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818103000 -0300" stop="20260818103000 -0300" channel="canaleducacao">
+    <title lang="pt">Conta a Virada!</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818103000 -0300" stop="20260818103500 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">UniVERciência</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818103500 -0300" stop="20260818105000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Gildo</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818105000 -0300" stop="20260818110000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Aninha. A Infância de Cora Coralina</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818110000 -0300" stop="20260818110000 -0300" channel="canaleducacao">
+    <title lang="pt">Igarapé Mágico</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818110000 -0300" stop="20260818110000 -0300" channel="canaleducacao">
+    <title lang="pt">Olha Elas!</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818110000 -0300" stop="20260818112000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Trilha de Letras</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818112000 -0300" stop="20260818113000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Passado da Hora</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818113000 -0300" stop="20260818113000 -0300" channel="canaleducacao">
+    <title lang="pt">Minha Casa, Nosso Mundo</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818113000 -0300" stop="20260818114500 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Faróis do Brasil</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818114500 -0300" stop="20260818120000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">O Teco Teco</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818120000 -0300" stop="20260818120000 -0300" channel="canaleducacao">
+    <title lang="pt">Manual de Sobrevivência da Literatura Brasileira</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818120000 -0300" stop="20260818120000 -0300" channel="canaleducacao">
+    <title lang="pt">Conta a Virada!</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818120000 -0300" stop="20260818123000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">UniVERciência</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818123000 -0300" stop="20260818123000 -0300" channel="canaleducacao">
+    <title lang="pt">Se Liga na Educação ENEM</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818123000 -0300" stop="20260818123000 -0300" channel="canaleducacao">
+    <title lang="pt">Adolescentes e o Mundo Digital</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818123000 -0300" stop="20260818130000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Trilha de Letras</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818130000 -0300" stop="20260818130000 -0300" channel="canaleducacao">
+    <title lang="pt">Trilha de Letras</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818130000 -0300" stop="20260818131500 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Minha Casa, Nosso Mundo</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818131500 -0300" stop="20260818133000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Minha Casa, Nosso Mundo</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818133000 -0300" stop="20260818133000 -0300" channel="canaleducacao">
+    <title lang="pt">UniVERciência</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818133000 -0300" stop="20260818134500 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Minha Casa, Nosso Mundo</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818134500 -0300" stop="20260818134500 -0300" channel="canaleducacao">
+    <title lang="pt">Adolescentes e o Mundo Digital</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818134500 -0300" stop="20260818134500 -0300" channel="canaleducacao">
+    <title lang="pt">Filosofia Com Arte</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818134500 -0300" stop="20260818134500 -0300" channel="canaleducacao">
+    <title lang="pt">Faróis do Brasil</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818134500 -0300" stop="20260818134500 -0300" channel="canaleducacao">
+    <title lang="pt">Trilha de Letras</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818134500 -0300" stop="20260818140000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Manual de Sobrevivência da Literatura Brasileira</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818140000 -0300" stop="20260818141500 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Compromisso Criança Alfabetizada</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818141500 -0300" stop="20260818141500 -0300" channel="canaleducacao">
+    <title lang="pt">Histórias do Brasil</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818141500 -0300" stop="20260818142500 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Manual de Sobrevivência da Literatura Brasileira</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818142500 -0300" stop="20260818143000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Preto no Branco</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818143000 -0300" stop="20260818143000 -0300" channel="canaleducacao">
+    <title lang="pt">Olha Elas!</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818143000 -0300" stop="20260818143000 -0300" channel="canaleducacao">
+    <title lang="pt">Conta a Virada!</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818143000 -0300" stop="20260818144500 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Vida de Merendeira</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818144500 -0300" stop="20260818150000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Manual de Sobrevivência da Literatura Brasileira</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818150000 -0300" stop="20260818150000 -0300" channel="canaleducacao">
+    <title lang="pt">Adolescentes e o Mundo Digital</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818150000 -0300" stop="20260818151500 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">UniVERciência</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818151500 -0300" stop="20260818152500 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Histórias do Brasil</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818152500 -0300" stop="20260818153000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Preto no Branco</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818153000 -0300" stop="20260818153000 -0300" channel="canaleducacao">
+    <title lang="pt">Sementes da Educação</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818153000 -0300" stop="20260818153000 -0300" channel="canaleducacao">
+    <title lang="pt">Vida de Merendeira</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818153000 -0300" stop="20260818153000 -0300" channel="canaleducacao">
+    <title lang="pt">Inclusão para Valer</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818153000 -0300" stop="20260818160000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Conta a Virada!</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818160000 -0300" stop="20260818160000 -0300" channel="canaleducacao">
+    <title lang="pt">Talk Show Preto no Branco</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818160000 -0300" stop="20260818160000 -0300" channel="canaleducacao">
+    <title lang="pt">Inclusão para Valer</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818160000 -0300" stop="20260818160000 -0300" channel="canaleducacao">
+    <title lang="pt">Compromisso Criança Alfabetizada</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818160000 -0300" stop="20260818163000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Olha Elas!</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818163000 -0300" stop="20260818164500 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Palaloos</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818164500 -0300" stop="20260818165500 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Planeta Palavra</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818165500 -0300" stop="20260818165500 -0300" channel="canaleducacao">
+    <title lang="pt">Gildo</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818165500 -0300" stop="20260818170000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Planeta Palavra</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818170000 -0300" stop="20260818170500 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Caminhos da Reportagem</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818170500 -0300" stop="20260818171000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Planeta Palavra</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818171000 -0300" stop="20260818171500 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Aninha. A Infância de Cora Coralina</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818171500 -0300" stop="20260818172000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Gildo</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818172000 -0300" stop="20260818173000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Igarapé Mágico</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818173000 -0300" stop="20260818173000 -0300" channel="canaleducacao">
+    <title lang="pt">Aninha. A Infância de Cora Coralina</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818173000 -0300" stop="20260818173500 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Adolescentes e o Mundo Digital</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818173500 -0300" stop="20260818174000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Passado da Hora</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818174000 -0300" stop="20260818174500 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Aninha. A Infância de Cora Coralina</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818174500 -0300" stop="20260818175000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Minha Casa, Nosso Mundo</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818175000 -0300" stop="20260818180000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Aninha. A Infância de Cora Coralina</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818180000 -0300" stop="20260818180000 -0300" channel="canaleducacao">
+    <title lang="pt">O Teco Teco</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818180000 -0300" stop="20260818180000 -0300" channel="canaleducacao">
+    <title lang="pt">Passado da Hora</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818180000 -0300" stop="20260818181000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Show da Simone</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818181000 -0300" stop="20260818181500 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Passado da Hora</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818181500 -0300" stop="20260818182000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Manual de Sobrevivência da Literatura Brasileira</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818182000 -0300" stop="20260818183000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Passado da Hora</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818183000 -0300" stop="20260818184500 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Minha Casa, Nosso Mundo</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818184500 -0300" stop="20260818184500 -0300" channel="canaleducacao">
+    <title lang="pt">Sem Dúvida Nenhuma</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818184500 -0300" stop="20260818184500 -0300" channel="canaleducacao">
+    <title lang="pt">Histórias do Brasil</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818184500 -0300" stop="20260818185500 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Minha Casa, Nosso Mundo</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818185500 -0300" stop="20260818190000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Preto no Branco</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818190000 -0300" stop="20260818190000 -0300" channel="canaleducacao">
+    <title lang="pt">Se Liga na Educação ENEM</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818190000 -0300" stop="20260818193000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Manual de Sobrevivência da Literatura Brasileira</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818193000 -0300" stop="20260818193000 -0300" channel="canaleducacao">
+    <title lang="pt">Manual de Sobrevivência da Literatura Brasileira</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818193000 -0300" stop="20260818200000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Filhos da Liberdade</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818200000 -0300" stop="20260818200000 -0300" channel="canaleducacao">
+    <title lang="pt">Parques do Brasil</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818200000 -0300" stop="20260818201500 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Crisálida</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818201500 -0300" stop="20260818201500 -0300" channel="canaleducacao">
+    <title lang="pt">Adolescentes e o Mundo Digital</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818201500 -0300" stop="20260818201500 -0300" channel="canaleducacao">
+    <title lang="pt">Filosofia Com Arte</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818201500 -0300" stop="20260818201500 -0300" channel="canaleducacao">
+    <title lang="pt">Faróis do Brasil</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818201500 -0300" stop="20260818203000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Trilha de Letras</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818203000 -0300" stop="20260818203000 -0300" channel="canaleducacao">
+    <title lang="pt">Fortes do Brasil</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818203000 -0300" stop="20260818204500 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Entre Longes</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818204500 -0300" stop="20260818204500 -0300" channel="canaleducacao">
+    <title lang="pt">Histórias do Brasil</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818204500 -0300" stop="20260818205500 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Sem Dúvida Nenhuma</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818205500 -0300" stop="20260818205500 -0300" channel="canaleducacao">
+    <title lang="pt">Preto no Branco</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818205500 -0300" stop="20260818210000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Ciclo COParente</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818210000 -0300" stop="20260818210000 -0300" channel="canaleducacao">
+    <title lang="pt">Olha Elas!</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818210000 -0300" stop="20260818210000 -0300" channel="canaleducacao">
+    <title lang="pt">Conta a Virada!</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818210000 -0300" stop="20260818210000 -0300" channel="canaleducacao">
+    <title lang="pt">Filhos da Liberdade</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818210000 -0300" stop="20260818213000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Curtas ABC</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818213000 -0300" stop="20260818213000 -0300" channel="canaleducacao">
+    <title lang="pt">UniVERciência</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818213000 -0300" stop="20260818213000 -0300" channel="canaleducacao">
+    <title lang="pt">Nossos Biomas</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818213000 -0300" stop="20260818220000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Na Raiz dos Festejos</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818220000 -0300" stop="20260818220000 -0300" channel="canaleducacao">
+    <title lang="pt">Caminhos da Reportagem</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818220000 -0300" stop="20260818220000 -0300" channel="canaleducacao">
+    <title lang="pt">Meu Pedaço do Brasil</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818220000 -0300" stop="20260818223000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Sementes da Educação</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818223000 -0300" stop="20260818223000 -0300" channel="canaleducacao">
+    <title lang="pt">Inclusão para Valer</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818223000 -0300" stop="20260818223000 -0300" channel="canaleducacao">
+    <title lang="pt">Vida de Merendeira</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818223000 -0300" stop="20260818223000 -0300" channel="canaleducacao">
+    <title lang="pt">Compromisso Criança Alfabetizada</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818223000 -0300" stop="20260818223000 -0300" channel="canaleducacao">
+    <title lang="pt">Na Raiz dos Festejos</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818223000 -0300" stop="20260818223000 -0300" channel="canaleducacao">
+    <title lang="pt">Olhares do Norte: Pará</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818223000 -0300" stop="20260818230000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Sementes da Educação</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818230000 -0300" stop="20260818230000 -0300" channel="canaleducacao">
+    <title lang="pt">Sementes da Educação</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818230000 -0300" stop="20260818230000 -0300" channel="canaleducacao">
+    <title lang="pt">Filhos da Liberdade</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818230000 -0300" stop="20260818233000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Compromisso Criança Alfabetizada</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818233000 -0300" stop="20260818233000 -0300" channel="canaleducacao">
+    <title lang="pt">Adolescentes e o Mundo Digital</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818233000 -0300" stop="20260818233000 -0300" channel="canaleducacao">
+    <title lang="pt">Inclusão para Valer</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818233000 -0300" stop="20260818233000 -0300" channel="canaleducacao">
+    <title lang="pt">Vida de Merendeira</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818233000 -0300" stop="20260818233000 -0300" channel="canaleducacao">
+    <title lang="pt">Compromisso Criança Alfabetizada</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260818233000 -0300" stop="20260818233000 -0300" channel="canaleducacao">
+    <title lang="pt">Crisálida</title>
+    <desc lang="pt"/>
   </programme>
   <programme start="20260818233000 -0300" stop="20260819000000 -0300" channel="canaleducacao">
-    <title lang="pt">Programação de Hoje, 17 agosto 2026 na tv</title>
-    <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades de conservação brasileiras.</desc>
+    <title lang="pt">Talk Show Preto no Branco</title>
+    <desc lang="pt"/>
   </programme>
 </tv>
