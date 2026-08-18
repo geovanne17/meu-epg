@@ -1,7 +1,10 @@
 <?xml version="1.0" ?>
-<tv generator-info-name="EPG GuiaDeTV - 2026-08-18 00:12:51">
+<tv generator-info-name="EPG Secundario - 2026-08-18 00:19:19">
   <channel id="canaleducacao">
     <display-name lang="pt">Canal Educação</display-name>
+  </channel>
+  <channel id="canalgov">
+    <display-name lang="pt">Canal Gov</display-name>
   </channel>
   <programme start="20260818000000 -0300" stop="20260818003000 -0300" channel="canaleducacao">
     <title lang="pt">Fortes do Brasil</title>
