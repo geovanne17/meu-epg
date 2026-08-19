@@ -24,122 +24,6 @@
   <channel id="tvjangadeiro">
     <display-name lang="pt">TV Jangadeiro - SBT</display-name>
   </channel>
-  <programme start="20260816210000 -0300" stop="20260816213000 -0300" channel="tvcamara">
-    <title lang="pt">Documentário TV Câmara</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260816213000 -0300" stop="20260816220000 -0300" channel="tvcamara">
-    <title lang="pt">Documentário Deu Bola</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260816220000 -0300" stop="20260816233000 -0300" channel="tvcamara">
-    <title lang="pt">Reapresentação da Sessão Solene</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260816233000 -0300" stop="20260817023000 -0300" channel="tvcamara">
-    <title lang="pt">Reapresentação de Comissão</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817023000 -0300" stop="20260817030000 -0300" channel="tvcamara">
-    <title lang="pt">Documentário TV Câmara</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817030000 -0300" stop="20260817033000 -0300" channel="tvcamara">
-    <title lang="pt">Câmara Debate</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817033000 -0300" stop="20260817040000 -0300" channel="tvcamara">
-    <title lang="pt">Palavra Aberta</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817040000 -0300" stop="20260817043000 -0300" channel="tvcamara">
-    <title lang="pt">Elas Pautam</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817043000 -0300" stop="20260817050000 -0300" channel="tvcamara">
-    <title lang="pt">Palavra Aberta</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817050000 -0300" stop="20260817060000 -0300" channel="tvcamara">
-    <title lang="pt">Painel Eletrônico</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817060000 -0300" stop="20260817070000 -0300" channel="tvcamara">
-    <title lang="pt">Participação Popular</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817070000 -0300" stop="20260817080000 -0300" channel="tvcamara">
-    <title lang="pt">Câmara Agora</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817080000 -0300" stop="20260817083000 -0300" channel="tvcamara">
-    <title lang="pt">Qual a Questão?</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817083000 -0300" stop="20260817090000 -0300" channel="tvcamara">
-    <title lang="pt">Documentário TV Câmara</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817090000 -0300" stop="20260817100000 -0300" channel="tvcamara">
-    <title lang="pt">Bora Entender?</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817100000 -0300" stop="20260817103000 -0300" channel="tvcamara">
-    <title lang="pt">Ponto de Vista</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817103000 -0300" stop="20260817110000 -0300" channel="tvcamara">
-    <title lang="pt">Direto da Câmara</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817110000 -0300" stop="20260817143000 -0300" channel="tvcamara">
-    <title lang="pt">Reapresentação de Comissão</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817143000 -0300" stop="20260817150000 -0300" channel="tvcamara">
-    <title lang="pt">Câmara Debate</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817150000 -0300" stop="20260817153000 -0300" channel="tvcamara">
-    <title lang="pt">Retratos da Reforma Psiquiátrica - Trabalhadoras da Saúde</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817153000 -0300" stop="20260817160000 -0300" channel="tvcamara">
-    <title lang="pt">Elas Pautam</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817160000 -0300" stop="20260817170000 -0300" channel="tvcamara">
-    <title lang="pt">Bora Entender?</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817170000 -0300" stop="20260817173000 -0300" channel="tvcamara">
-    <title lang="pt">Parlamento Brasil</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817173000 -0300" stop="20260817174500 -0300" channel="tvcamara">
-    <title lang="pt">Vila Soma - A Luta Pela Moradia</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817174500 -0300" stop="20260817180000 -0300" channel="tvcamara">
-    <title lang="pt">Futebol Para Todos</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817180000 -0300" stop="20260817190000 -0300" channel="tvcamara">
-    <title lang="pt">Participação Popular</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817190000 -0300" stop="20260817200000 -0300" channel="tvcamara">
-    <title lang="pt">Encontro Com a Autora</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817200000 -0300" stop="20260817203000 -0300" channel="tvcamara">
-    <title lang="pt">Ponto de Vista</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817203000 -0300" stop="20260817210000 -0300" channel="tvcamara">
-    <title lang="pt">Palavra Aberta</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
   <programme start="20260817210000 -0300" stop="20260817213000 -0300" channel="tvcamara">
     <title lang="pt">Retratos da Reforma Psiquiátrica - Trabalhadoras da Saúde</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
@@ -412,108 +296,96 @@
     <title lang="pt">Palavra Aberta</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260816210000 -0300" stop="20260816212000 -0300" channel="tvjustica">
-    <title lang="pt">Iluminuras</title>
+  <programme start="20260820210000 -0300" stop="20260821030000 -0300" channel="tvcamara">
+    <title lang="pt">Reapresentação de Comissão</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260816212000 -0300" stop="20260816214800 -0300" channel="tvjustica">
-    <title lang="pt">Repórter Eco</title>
+  <programme start="20260821030000 -0300" stop="20260821033000 -0300" channel="tvcamara">
+    <title lang="pt">Câmara Debate</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260816214800 -0300" stop="20260816223800 -0300" channel="tvjustica">
-    <title lang="pt">Arena dos Saberes</title>
+  <programme start="20260821033000 -0300" stop="20260821040000 -0300" channel="tvcamara">
+    <title lang="pt">Palavra Aberta</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260816223800 -0300" stop="20260816233000 -0300" channel="tvjustica">
-    <title lang="pt">Jazz Sinfônica Brasil</title>
+  <programme start="20260821040000 -0300" stop="20260821043000 -0300" channel="tvcamara">
+    <title lang="pt">Interesse Público</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260816233000 -0300" stop="20260817010000 -0300" channel="tvjustica">
-    <title lang="pt">Noturno</title>
+  <programme start="20260821043000 -0300" stop="20260821050000 -0300" channel="tvcamara">
+    <title lang="pt">Palavra Aberta</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817010000 -0300" stop="20260817033000 -0300" channel="tvjustica">
-    <title lang="pt">Sessão do TSE</title>
+  <programme start="20260821050000 -0300" stop="20260821060000 -0300" channel="tvcamara">
+    <title lang="pt">Painel Eletrônico</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817033000 -0300" stop="20260817040000 -0300" channel="tvjustica">
-    <title lang="pt">Saber Direito - Aula</title>
+  <programme start="20260821060000 -0300" stop="20260821070000 -0300" channel="tvcamara">
+    <title lang="pt">Bora Entender?</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817040000 -0300" stop="20260817050000 -0300" channel="tvjustica">
-    <title lang="pt">Revista Rádio Justiça</title>
+  <programme start="20260821070000 -0300" stop="20260821090000 -0300" channel="tvcamara">
+    <title lang="pt">Câmara Agora</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817050000 -0300" stop="20260817060000 -0300" channel="tvjustica">
-    <title lang="pt">Justiça Agora</title>
+  <programme start="20260821090000 -0300" stop="20260821100000 -0300" channel="tvcamara">
+    <title lang="pt">Participação Popular</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817060000 -0300" stop="20260817080000 -0300" channel="tvjustica">
-    <title lang="pt">Justiça Agora</title>
+  <programme start="20260821100000 -0300" stop="20260821103000 -0300" channel="tvcamara">
+    <title lang="pt">Câmara Debate</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817080000 -0300" stop="20260817103000 -0300" channel="tvjustica">
-    <title lang="pt">Evento</title>
+  <programme start="20260821103000 -0300" stop="20260821110000 -0300" channel="tvcamara">
+    <title lang="pt">Direto da Câmara</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817103000 -0300" stop="20260817110000 -0300" channel="tvjustica">
-    <title lang="pt">Evento</title>
+  <programme start="20260821110000 -0300" stop="20260821140000 -0300" channel="tvcamara">
+    <title lang="pt">Reapresentação de Sessão Solene</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817110000 -0300" stop="20260817140000 -0300" channel="tvjustica">
-    <title lang="pt">Justiça na Tarde</title>
+  <programme start="20260821140000 -0300" stop="20260821143000 -0300" channel="tvcamara">
+    <title lang="pt">Elas Pautam</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817140000 -0300" stop="20260817153000 -0300" channel="tvjustica">
-    <title lang="pt">Aula Magna</title>
+  <programme start="20260821143000 -0300" stop="20260821150000 -0300" channel="tvcamara">
+    <title lang="pt">Documentário TV Câmara</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817153000 -0300" stop="20260817160000 -0300" channel="tvjustica">
-    <title lang="pt">Jornal da Justiça</title>
+  <programme start="20260821150000 -0300" stop="20260821160000 -0300" channel="tvcamara">
+    <title lang="pt">Participação Popular</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817160000 -0300" stop="20260817163000 -0300" channel="tvjustica">
-    <title lang="pt">Academia</title>
+  <programme start="20260821160000 -0300" stop="20260821161500 -0300" channel="tvcamara">
+    <title lang="pt">Fatos e Opiniões</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817163000 -0300" stop="20260817170100 -0300" channel="tvjustica">
-    <title lang="pt">Artigo 5º</title>
+  <programme start="20260821161500 -0300" stop="20260821163000 -0300" channel="tvcamara">
+    <title lang="pt">Documentário TV Câmara</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817170100 -0300" stop="20260817173000 -0300" channel="tvjustica">
-    <title lang="pt">Repórter Justiça</title>
+  <programme start="20260821163000 -0300" stop="20260821173000 -0300" channel="tvcamara">
+    <title lang="pt">Ponto de Vista</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817173000 -0300" stop="20260817180000 -0300" channel="tvjustica">
-    <title lang="pt">Saber Direito - Aula</title>
+  <programme start="20260821173000 -0300" stop="20260821180000 -0300" channel="tvcamara">
+    <title lang="pt">Elas Pautam</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817180000 -0300" stop="20260817180500 -0300" channel="tvjustica">
-    <title lang="pt">Voz do Brasil</title>
+  <programme start="20260821180000 -0300" stop="20260821190000 -0300" channel="tvcamara">
+    <title lang="pt">Participação Popular</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817180500 -0300" stop="20260817183600 -0300" channel="tvjustica">
-    <title lang="pt">Revista TST</title>
+  <programme start="20260821190000 -0300" stop="20260821200000 -0300" channel="tvcamara">
+    <title lang="pt">Documentário TV Câmara</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817183600 -0300" stop="20260817190000 -0300" channel="tvjustica">
-    <title lang="pt">Inteiro Teor</title>
+  <programme start="20260821200000 -0300" stop="20260821203000 -0300" channel="tvcamara">
+    <title lang="pt">Câmara Debate</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817190000 -0300" stop="20260817193000 -0300" channel="tvjustica">
-    <title lang="pt">Cartório Contemporâneo</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817193000 -0300" stop="20260817200000 -0300" channel="tvjustica">
-    <title lang="pt">Pensamento Jurídico</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817200000 -0300" stop="20260817203000 -0300" channel="tvjustica">
-    <title lang="pt">Trabalho Legal</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817203000 -0300" stop="20260817210000 -0300" channel="tvjustica">
-    <title lang="pt">Evento</title>
+  <programme start="20260821203000 -0300" stop="20260821210000 -0300" channel="tvcamara">
+    <title lang="pt">Palavra Aberta</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
   <programme start="20260817210000 -0300" stop="20260817213500 -0300" channel="tvjustica">
@@ -788,72 +660,96 @@
     <title lang="pt">Evento</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260816210000 -0300" stop="20260816220000 -0300" channel="tvsenado">
-    <title lang="pt">Contraplano</title>
+  <programme start="20260820210000 -0300" stop="20260820233000 -0300" channel="tvjustica">
+    <title lang="pt">Evento</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260816220000 -0300" stop="20260816225000 -0300" channel="tvsenado">
-    <title lang="pt">Estúdio A</title>
+  <programme start="20260820233000 -0300" stop="20260821000000 -0300" channel="tvjustica">
+    <title lang="pt">Documentário Variado: 135 Anos do STF</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260816225000 -0300" stop="20260816232000 -0300" channel="tvsenado">
-    <title lang="pt">Tela Brasil: Deu Bola - Trans</title>
+  <programme start="20260821000000 -0300" stop="20260821033000 -0300" channel="tvjustica">
+    <title lang="pt">Sessão do STF</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260816232000 -0300" stop="20260817005200 -0300" channel="tvsenado">
-    <title lang="pt">Senadoc: Vidas Descartáveis</title>
+  <programme start="20260821033000 -0300" stop="20260821040000 -0300" channel="tvjustica">
+    <title lang="pt">Saber Direito - Aula</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817005200 -0300" stop="20260817021800 -0300" channel="tvsenado">
-    <title lang="pt">Senadoc: Lampião da Esquina</title>
+  <programme start="20260821040000 -0300" stop="20260821050000 -0300" channel="tvjustica">
+    <title lang="pt">Revista Rádio Justiça</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817021800 -0300" stop="20260817040000 -0300" channel="tvsenado">
-    <title lang="pt">Senadoc: Nem Caroço Nem Casca - Uma História de Quilombolas</title>
+  <programme start="20260821050000 -0300" stop="20260821061100 -0300" channel="tvjustica">
+    <title lang="pt">Justiça Agora</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817040000 -0300" stop="20260817043000 -0300" channel="tvsenado">
-    <title lang="pt">Tela Brasil: Deu Bola - Cronistas</title>
+  <programme start="20260821061100 -0300" stop="20260821071500 -0300" channel="tvjustica">
+    <title lang="pt">Justiça Agora</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817043000 -0300" stop="20260817050000 -0300" channel="tvsenado">
-    <title lang="pt">Parlamento Brasil</title>
+  <programme start="20260821071500 -0300" stop="20260821120000 -0300" channel="tvjustica">
+    <title lang="pt">Justiça Agora</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817050000 -0300" stop="20260817053000 -0300" channel="tvsenado">
-    <title lang="pt">Cidadania</title>
+  <programme start="20260821120000 -0300" stop="20260821141000 -0300" channel="tvjustica">
+    <title lang="pt">Justiça Agora</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817053000 -0300" stop="20260817060000 -0300" channel="tvsenado">
-    <title lang="pt">Senado Notícias: Boletim</title>
+  <programme start="20260821141000 -0300" stop="20260821143000 -0300" channel="tvjustica">
+    <title lang="pt">Justiça Agora</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817060000 -0300" stop="20260817103000 -0300" channel="tvsenado">
-    <title lang="pt">Comissão: Comissão de Direitos Humanos e Legislação Participativa</title>
+  <programme start="20260821143000 -0300" stop="20260821150000 -0300" channel="tvjustica">
+    <title lang="pt">Plenárias</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817103000 -0300" stop="20260817110000 -0300" channel="tvsenado">
-    <title lang="pt">Senado Notícias: Boletim</title>
+  <programme start="20260821150000 -0300" stop="20260821153000 -0300" channel="tvjustica">
+    <title lang="pt">Documentário Variado: Advogado Do Futuro</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817110000 -0300" stop="20260817163000 -0300" channel="tvsenado">
-    <title lang="pt">Sessão Plenária</title>
+  <programme start="20260821153000 -0300" stop="20260821160000 -0300" channel="tvjustica">
+    <title lang="pt">Jornal da Justiça</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817163000 -0300" stop="20260817170000 -0300" channel="tvsenado">
-    <title lang="pt">Senado Notícias: Boletim</title>
+  <programme start="20260821160000 -0300" stop="20260821163000 -0300" channel="tvjustica">
+    <title lang="pt">Iluminuras</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817170000 -0300" stop="20260817173000 -0300" channel="tvsenado">
-    <title lang="pt">Assunto de Estado: Eleições</title>
+  <programme start="20260821163000 -0300" stop="20260821170000 -0300" channel="tvjustica">
+    <title lang="pt">Direito sem Fronteiras</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817173000 -0300" stop="20260817180000 -0300" channel="tvsenado">
-    <title lang="pt">Em Discussão</title>
+  <programme start="20260821170000 -0300" stop="20260821173000 -0300" channel="tvjustica">
+    <title lang="pt">Documentário Variado: 135 Anos do STF</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817180000 -0300" stop="20260817210000 -0300" channel="tvsenado">
-    <title lang="pt">Comissão</title>
+  <programme start="20260821173000 -0300" stop="20260821180000 -0300" channel="tvjustica">
+    <title lang="pt">Saber Direito - Aula</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
+  </programme>
+  <programme start="20260821180000 -0300" stop="20260821180500 -0300" channel="tvjustica">
+    <title lang="pt">Voz do Brasil</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
+  </programme>
+  <programme start="20260821180500 -0300" stop="20260821183500 -0300" channel="tvjustica">
+    <title lang="pt">Pela Ordem/OAB</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
+  </programme>
+  <programme start="20260821183500 -0300" stop="20260821190500 -0300" channel="tvjustica">
+    <title lang="pt">Interesse Público</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
+  </programme>
+  <programme start="20260821190500 -0300" stop="20260821193000 -0300" channel="tvjustica">
+    <title lang="pt">Justiça Em Questão TJMG</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
+  </programme>
+  <programme start="20260821193000 -0300" stop="20260821203000 -0300" channel="tvjustica">
+    <title lang="pt">Último Recurso</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
+  </programme>
+  <programme start="20260821203000 -0300" stop="20260821210000 -0300" channel="tvjustica">
+    <title lang="pt">Evento</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
   <programme start="20260817210000 -0300" stop="20260817224100 -0300" channel="tvsenado">
@@ -1104,80 +1000,92 @@
     <title lang="pt">Comissão</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260816221500 -0300" stop="20260817002000 -0300" channel="tvverdesmares">
-    <title lang="pt">Cinemaço: O Fugitivo</title>
+  <programme start="20260820210000 -0300" stop="20260820224000 -0300" channel="tvsenado">
+    <title lang="pt">Senadoc: Torre das Donzelas</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817002000 -0300" stop="20260817010000 -0300" channel="tvverdesmares">
-    <title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
+  <programme start="20260820224000 -0300" stop="20260821000000 -0300" channel="tvsenado">
+    <title lang="pt">Senadoc: O Dia Que Durou 21 Anos</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817010000 -0300" stop="20260817030000 -0300" channel="tvverdesmares">
-    <title lang="pt">Hora Um</title>
+  <programme start="20260821000000 -0300" stop="20260821003000 -0300" channel="tvsenado">
+    <title lang="pt">Em Discussão</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817030000 -0300" stop="20260817053000 -0300" channel="tvverdesmares">
-    <title lang="pt">Bom Dia Ceará</title>
+  <programme start="20260821003000 -0300" stop="20260821010000 -0300" channel="tvsenado">
+    <title lang="pt">TV Senado Live</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817053000 -0300" stop="20260817063000 -0300" channel="tvverdesmares">
-    <title lang="pt">Bom Dia Brasil</title>
+  <programme start="20260821010000 -0300" stop="20260821013000 -0300" channel="tvsenado">
+    <title lang="pt">Parlamento Brasil</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817063000 -0300" stop="20260817073500 -0300" channel="tvverdesmares">
-    <title lang="pt">Encontro com Patrícia Poeta</title>
+  <programme start="20260821013000 -0300" stop="20260821020000 -0300" channel="tvsenado">
+    <title lang="pt">Assunto de Estado: Eleições</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817073500 -0300" stop="20260817084500 -0300" channel="tvverdesmares">
-    <title lang="pt">Mais Você</title>
+  <programme start="20260821020000 -0300" stop="20260821023000 -0300" channel="tvsenado">
+    <title lang="pt">Agenda Econômica</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817084500 -0300" stop="20260817100000 -0300" channel="tvverdesmares">
-    <title lang="pt">CETV - 1ª Edição</title>
+  <programme start="20260821023000 -0300" stop="20260821030000 -0300" channel="tvsenado">
+    <title lang="pt">Que Brasil é Este?</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817100000 -0300" stop="20260817102500 -0300" channel="tvverdesmares">
-    <title lang="pt">Globo Esporte</title>
+  <programme start="20260821030000 -0300" stop="20260821040000 -0300" channel="tvsenado">
+    <title lang="pt">Senadoc Acervo: Arquiteturas - Theatros Municipais</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817102500 -0300" stop="20260817114500 -0300" channel="tvverdesmares">
-    <title lang="pt">Jornal Hoje</title>
+  <programme start="20260821040000 -0300" stop="20260821043000 -0300" channel="tvsenado">
+    <title lang="pt">Tela Brasil: Deu Bola - Racismo</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817114500 -0300" stop="20260817123000 -0300" channel="tvverdesmares">
-    <title lang="pt">Além do Tempo</title>
+  <programme start="20260821043000 -0300" stop="20260821050000 -0300" channel="tvsenado">
+    <title lang="pt">Que Brasil é Este?</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817123000 -0300" stop="20260817142500 -0300" channel="tvverdesmares">
-    <title lang="pt">Sessão da Tarde: Uma Vida de Esperança</title>
+  <programme start="20260821050000 -0300" stop="20260821053000 -0300" channel="tvsenado">
+    <title lang="pt">Cidadania</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817142500 -0300" stop="20260817152500 -0300" channel="tvverdesmares">
-    <title lang="pt">Vale a Pena Ver de Novo: Avenida Brasil</title>
+  <programme start="20260821053000 -0300" stop="20260821060000 -0300" channel="tvsenado">
+    <title lang="pt">Diálogos com TCU</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817152500 -0300" stop="20260817161000 -0300" channel="tvverdesmares">
-    <title lang="pt">A Nobreza do Amor</title>
+  <programme start="20260821060000 -0300" stop="20260821063000 -0300" channel="tvsenado">
+    <title lang="pt">TV Senado Live</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817161000 -0300" stop="20260817164000 -0300" channel="tvverdesmares">
-    <title lang="pt">CETV - 2ª Edição</title>
+  <programme start="20260821063000 -0300" stop="20260821103000 -0300" channel="tvsenado">
+    <title lang="pt">Sessão Plenária</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817164000 -0300" stop="20260817173000 -0300" channel="tvverdesmares">
-    <title lang="pt">Por Você</title>
+  <programme start="20260821103000 -0300" stop="20260821110000 -0300" channel="tvsenado">
+    <title lang="pt">Senado Notícias Revista</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817173000 -0300" stop="20260817184000 -0300" channel="tvverdesmares">
-    <title lang="pt">Jornal Nacional</title>
+  <programme start="20260821110000 -0300" stop="20260821163000 -0300" channel="tvsenado">
+    <title lang="pt">Comissão</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817184000 -0300" stop="20260817194500 -0300" channel="tvverdesmares">
-    <title lang="pt">Quem Ama Cuida</title>
+  <programme start="20260821163000 -0300" stop="20260821170000 -0300" channel="tvsenado">
+    <title lang="pt">Senado Notícias Revista</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817194500 -0300" stop="20260817211000 -0300" channel="tvverdesmares">
-    <title lang="pt">Tela Quente: Vítimas do Dia</title>
+  <programme start="20260821170000 -0300" stop="20260821173000 -0300" channel="tvsenado">
+    <title lang="pt">Parlamento Brasil</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
+  </programme>
+  <programme start="20260821173000 -0300" stop="20260821180000 -0300" channel="tvsenado">
+    <title lang="pt">TV Senado Live</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
+  </programme>
+  <programme start="20260821180000 -0300" stop="20260821194000 -0300" channel="tvsenado">
+    <title lang="pt">Mostra Senadoc: Torre das Donzelas</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
+  </programme>
+  <programme start="20260821194000 -0300" stop="20260821210000 -0300" channel="tvsenado">
+    <title lang="pt">Mostra Senadoc: Maria Luiza</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
   <programme start="20260817211000 -0300" stop="20260817220000 -0300" channel="tvverdesmares">
@@ -1456,84 +1364,100 @@
     <title lang="pt">Que História é Essa Porchat?</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260816210000 -0300" stop="20260816220000 -0300" channel="tvcidade">
-    <title lang="pt">Chicago Med</title>
+  <programme start="20260820210500 -0300" stop="20260820215500 -0300" channel="tvverdesmares">
+    <title lang="pt">Justiça 2</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260816220000 -0300" stop="20260817033000 -0300" channel="tvcidade">
-    <title lang="pt">IURD</title>
+  <programme start="20260820215500 -0300" stop="20260820224500 -0300" channel="tvverdesmares">
+    <title lang="pt">Jornal da Globo</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817033000 -0300" stop="20260817040000 -0300" channel="tvcidade">
-    <title lang="pt">Balanço Geral Manhã</title>
+  <programme start="20260820224500 -0300" stop="20260820232500 -0300" channel="tvverdesmares">
+    <title lang="pt">A Nobreza do Amor</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817040000 -0300" stop="20260817040500 -0300" channel="tvcidade">
-    <title lang="pt">Jornal da Record 24h</title>
+  <programme start="20260820232500 -0300" stop="20260821001500 -0300" channel="tvverdesmares">
+    <title lang="pt">Por Você</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817040500 -0300" stop="20260817054000 -0300" channel="tvcidade">
-    <title lang="pt">Balanço Geral Manhã</title>
+  <programme start="20260821001500 -0300" stop="20260821010000 -0300" channel="tvverdesmares">
+    <title lang="pt">Comédia Na Madruga - Vai Que Cola I</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817054000 -0300" stop="20260817065000 -0300" channel="tvcidade">
-    <title lang="pt">Fala Brasil</title>
+  <programme start="20260821010000 -0300" stop="20260821030000 -0300" channel="tvverdesmares">
+    <title lang="pt">Hora Um</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817065000 -0300" stop="20260817083000 -0300" channel="tvcidade">
-    <title lang="pt">Hoje em Dia</title>
+  <programme start="20260821030000 -0300" stop="20260821053000 -0300" channel="tvverdesmares">
+    <title lang="pt">Bom Dia Ceará</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817083000 -0300" stop="20260817104500 -0300" channel="tvcidade">
-    <title lang="pt">Cidade 190</title>
+  <programme start="20260821053000 -0300" stop="20260821063000 -0300" channel="tvverdesmares">
+    <title lang="pt">Bom Dia Brasil</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817104500 -0300" stop="20260817123000 -0300" channel="tvcidade">
-    <title lang="pt">Balanço Geral Manhã</title>
+  <programme start="20260821063000 -0300" stop="20260821073500 -0300" channel="tvverdesmares">
+    <title lang="pt">Encontro com Patrícia Poeta</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817123000 -0300" stop="20260817133000 -0300" channel="tvcidade">
-    <title lang="pt">Jesus</title>
+  <programme start="20260821073500 -0300" stop="20260821084500 -0300" channel="tvverdesmares">
+    <title lang="pt">Mais Você</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817133000 -0300" stop="20260817144000 -0300" channel="tvcidade">
-    <title lang="pt">Cidade Alerta</title>
+  <programme start="20260821084500 -0300" stop="20260821100000 -0300" channel="tvverdesmares">
+    <title lang="pt">CETV - 1ª Edição</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817144000 -0300" stop="20260817144500 -0300" channel="tvcidade">
-    <title lang="pt">Jornal da Record 24h</title>
+  <programme start="20260821100000 -0300" stop="20260821102500 -0300" channel="tvverdesmares">
+    <title lang="pt">Globo Esporte</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817144500 -0300" stop="20260817150000 -0300" channel="tvcidade">
-    <title lang="pt">Cidade Alerta</title>
+  <programme start="20260821102500 -0300" stop="20260821114500 -0300" channel="tvverdesmares">
+    <title lang="pt">Jornal Hoje</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817150000 -0300" stop="20260817161500 -0300" channel="tvcidade">
-    <title lang="pt">Cidade Alerta CE</title>
+  <programme start="20260821114500 -0300" stop="20260821123500 -0300" channel="tvverdesmares">
+    <title lang="pt">Além do Tempo</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817161500 -0300" stop="20260817165500 -0300" channel="tvcidade">
-    <title lang="pt">Jornal da Cidade</title>
+  <programme start="20260821123500 -0300" stop="20260821142500 -0300" channel="tvverdesmares">
+    <title lang="pt">Sessão da Tarde: Robin Hood - A Origem</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817165500 -0300" stop="20260817180000 -0300" channel="tvcidade">
-    <title lang="pt">Jornal da Record</title>
+  <programme start="20260821142500 -0300" stop="20260821153000 -0300" channel="tvverdesmares">
+    <title lang="pt">Vale a Pena Ver de Novo: Avenida Brasil</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817180000 -0300" stop="20260817190000 -0300" channel="tvcidade">
-    <title lang="pt">Coração de Mãe</title>
+  <programme start="20260821153000 -0300" stop="20260821161500 -0300" channel="tvverdesmares">
+    <title lang="pt">A Nobreza do Amor</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817190000 -0300" stop="20260817193000 -0300" channel="tvcidade">
-    <title lang="pt">Reis - A Divisão</title>
+  <programme start="20260821161500 -0300" stop="20260821164500 -0300" channel="tvverdesmares">
+    <title lang="pt">CETV - 2ª Edição</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817193000 -0300" stop="20260817204500 -0300" channel="tvcidade">
-    <title lang="pt">Alerta Aeroporto</title>
+  <programme start="20260821164500 -0300" stop="20260821173000 -0300" channel="tvverdesmares">
+    <title lang="pt">Por Você</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817204500 -0300" stop="20260817213500 -0300" channel="tvcidade">
-    <title lang="pt">Chicago Fire</title>
+  <programme start="20260821173000 -0300" stop="20260821184000 -0300" channel="tvverdesmares">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
+  </programme>
+  <programme start="20260821184000 -0300" stop="20260821194500 -0300" channel="tvverdesmares">
+    <title lang="pt">Quem Ama Cuida</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
+  </programme>
+  <programme start="20260821194500 -0300" stop="20260821203500 -0300" channel="tvverdesmares">
+    <title lang="pt">Globo Repórter</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
+  </programme>
+  <programme start="20260821203500 -0300" stop="20260821204500 -0300" channel="tvverdesmares">
+    <title lang="pt">Grid da Globo</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
+  </programme>
+  <programme start="20260821204500 -0300" stop="20260821213500 -0300" channel="tvverdesmares">
+    <title lang="pt">Justiça 2</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
   <programme start="20260817213500 -0300" stop="20260817214500 -0300" channel="tvcidade">
@@ -1812,120 +1736,92 @@
     <title lang="pt">Chicago Fire</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260816210800 -0300" stop="20260816215600 -0300" channel="tntnovelas">
-    <title lang="pt">Meu Lar, Meu Destino</title>
+  <programme start="20260820213500 -0300" stop="20260820214500 -0300" channel="tvcidade">
+    <title lang="pt">Jornal da Record 24h</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260816215600 -0300" stop="20260816224400 -0300" channel="tntnovelas">
-    <title lang="pt">Meu Lar, Meu Destino</title>
+  <programme start="20260820214500 -0300" stop="20260820230000 -0300" channel="tvcidade">
+    <title lang="pt">Fala que eu te Escuto</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260816224400 -0300" stop="20260816233200 -0300" channel="tntnovelas">
-    <title lang="pt">Meu Lar, Meu Destino</title>
+  <programme start="20260820230000 -0300" stop="20260820233000 -0300" channel="tvcidade">
+    <title lang="pt">IURD - Inteligência e Fé</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260816233200 -0300" stop="20260817002000 -0300" channel="tntnovelas">
-    <title lang="pt">Meu Lar, Meu Destino</title>
+  <programme start="20260820233000 -0300" stop="20260821003000 -0300" channel="tvcidade">
+    <title lang="pt">IURD - Palavra Amiga</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817002000 -0300" stop="20260817011300 -0300" channel="tntnovelas">
-    <title lang="pt">Meu Lar, Meu Destino</title>
+  <programme start="20260821003000 -0300" stop="20260821033000 -0300" channel="tvcidade">
+    <title lang="pt">IURD</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817011300 -0300" stop="20260817020600 -0300" channel="tntnovelas">
-    <title lang="pt">Amor Sem Fim</title>
+  <programme start="20260821033000 -0300" stop="20260821040000 -0300" channel="tvcidade">
+    <title lang="pt">Balanço Geral Manhã</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817020600 -0300" stop="20260817030000 -0300" channel="tntnovelas">
-    <title lang="pt">Amor Sem Fim</title>
+  <programme start="20260821040000 -0300" stop="20260821040500 -0300" channel="tvcidade">
+    <title lang="pt">Jornal da Record 24h</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817030000 -0300" stop="20260817035600 -0300" channel="tntnovelas">
-    <title lang="pt">Iludida</title>
+  <programme start="20260821040500 -0300" stop="20260821054000 -0300" channel="tvcidade">
+    <title lang="pt">Balanço Geral Manhã</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817035600 -0300" stop="20260817044900 -0300" channel="tntnovelas">
-    <title lang="pt">Um Milagre</title>
+  <programme start="20260821054000 -0300" stop="20260821065000 -0300" channel="tvcidade">
+    <title lang="pt">Fala Brasil</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817044900 -0300" stop="20260817054200 -0300" channel="tntnovelas">
-    <title lang="pt">Um Milagre</title>
+  <programme start="20260821065000 -0300" stop="20260821083000 -0300" channel="tvcidade">
+    <title lang="pt">Hoje em Dia</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817054200 -0300" stop="20260817063500 -0300" channel="tntnovelas">
-    <title lang="pt">Amor Sem Fim</title>
+  <programme start="20260821083000 -0300" stop="20260821104500 -0300" channel="tvcidade">
+    <title lang="pt">Cidade 190</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817063500 -0300" stop="20260817072500 -0300" channel="tntnovelas">
-    <title lang="pt">Amor Sem Fim</title>
+  <programme start="20260821104500 -0300" stop="20260821123000 -0300" channel="tvcidade">
+    <title lang="pt">Balanço Geral Manhã</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817072500 -0300" stop="20260817081300 -0300" channel="tntnovelas">
-    <title lang="pt">Meu Lar, Meu Destino</title>
+  <programme start="20260821123000 -0300" stop="20260821133000 -0300" channel="tvcidade">
+    <title lang="pt">Jesus</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817081300 -0300" stop="20260817090100 -0300" channel="tntnovelas">
-    <title lang="pt">Meu Lar, Meu Destino</title>
+  <programme start="20260821133000 -0300" stop="20260821144000 -0300" channel="tvcidade">
+    <title lang="pt">Cidade Alerta</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817090100 -0300" stop="20260817094900 -0300" channel="tntnovelas">
-    <title lang="pt">Meu Lar, Meu Destino</title>
+  <programme start="20260821144000 -0300" stop="20260821144500 -0300" channel="tvcidade">
+    <title lang="pt">Jornal da Record 24h</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817094900 -0300" stop="20260817103800 -0300" channel="tntnovelas">
-    <title lang="pt">Iludida</title>
+  <programme start="20260821144500 -0300" stop="20260821150000 -0300" channel="tvcidade">
+    <title lang="pt">Cidade Alerta</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817103800 -0300" stop="20260817112700 -0300" channel="tntnovelas">
-    <title lang="pt">Iludida</title>
+  <programme start="20260821150000 -0300" stop="20260821161500 -0300" channel="tvcidade">
+    <title lang="pt">Cidade Alerta CE</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817112700 -0300" stop="20260817121600 -0300" channel="tntnovelas">
-    <title lang="pt">Iludida</title>
+  <programme start="20260821161500 -0300" stop="20260821165500 -0300" channel="tvcidade">
+    <title lang="pt">Jornal da Cidade</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817121600 -0300" stop="20260817130400 -0300" channel="tntnovelas">
-    <title lang="pt">Será Isso Amor?</title>
+  <programme start="20260821165500 -0300" stop="20260821180000 -0300" channel="tvcidade">
+    <title lang="pt">Jornal da Record</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817130400 -0300" stop="20260817135200 -0300" channel="tntnovelas">
-    <title lang="pt">Será Isso Amor?</title>
+  <programme start="20260821180000 -0300" stop="20260821190000 -0300" channel="tvcidade">
+    <title lang="pt">Coração de Mãe</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817135200 -0300" stop="20260817144000 -0300" channel="tntnovelas">
-    <title lang="pt">Um Milagre</title>
+  <programme start="20260821190000 -0300" stop="20260821193000 -0300" channel="tvcidade">
+    <title lang="pt">Reis - A Divisão</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817144000 -0300" stop="20260817152800 -0300" channel="tntnovelas">
-    <title lang="pt">Um Milagre</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817152800 -0300" stop="20260817161600 -0300" channel="tntnovelas">
-    <title lang="pt">Amor Sem Fim</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817161600 -0300" stop="20260817170400 -0300" channel="tntnovelas">
-    <title lang="pt">Meu Lar, Meu Destino</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817170400 -0300" stop="20260817175300 -0300" channel="tntnovelas">
-    <title lang="pt">Iludida</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817175300 -0300" stop="20260817184200 -0300" channel="tntnovelas">
-    <title lang="pt">Iludida</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817184200 -0300" stop="20260817193000 -0300" channel="tntnovelas">
-    <title lang="pt">Um Milagre</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817193000 -0300" stop="20260817201800 -0300" channel="tntnovelas">
-    <title lang="pt">Será Isso Amor?</title>
-    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
-  </programme>
-  <programme start="20260817201800 -0300" stop="20260817210700 -0300" channel="tntnovelas">
-    <title lang="pt">Iludida</title>
+  <programme start="20260821193000 -0300" stop="20260821211500 -0300" channel="tvcidade">
+    <title lang="pt">Quilos Mortais</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
   <programme start="20260817210700 -0300" stop="20260817215600 -0300" channel="tntnovelas">
@@ -2276,105 +2172,121 @@
     <title lang="pt">Iludida</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260816210000 -0300" stop="20260816214500 -0300" channel="tvjangadeiro">
-    <title lang="pt">Comédia SBT</title>
-    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  <programme start="20260820210700 -0300" stop="20260820215600 -0300" channel="tntnovelas">
+    <title lang="pt">Iludida</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260816214500 -0300" stop="20260817020000 -0300" channel="tvjangadeiro">
-    <title lang="pt">SBT Notícias</title>
-    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  <programme start="20260820215600 -0300" stop="20260820224500 -0300" channel="tntnovelas">
+    <title lang="pt">Iludida</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817020000 -0300" stop="20260817030000 -0300" channel="tvjangadeiro">
-    <title lang="pt">SBT Notícias</title>
-    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  <programme start="20260820224500 -0300" stop="20260820233300 -0300" channel="tntnovelas">
+    <title lang="pt">Meu Lar, Meu Destino</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817030000 -0300" stop="20260817040000 -0300" channel="tvjangadeiro">
-    <title lang="pt">Se Liga Brasil</title>
-    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  <programme start="20260820233300 -0300" stop="20260821002100 -0300" channel="tntnovelas">
+    <title lang="pt">Meu Lar, Meu Destino</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817040000 -0300" stop="20260817041500 -0300" channel="tvjangadeiro">
-    <title lang="pt">Quem Como Deus?</title>
-    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  <programme start="20260821002100 -0300" stop="20260821011400 -0300" channel="tntnovelas">
+    <title lang="pt">Meu Lar, Meu Destino</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817041500 -0300" stop="20260817044500 -0300" channel="tvjangadeiro">
-    <title lang="pt">Terço das Santas Chagas</title>
-    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  <programme start="20260821011400 -0300" stop="20260821020700 -0300" channel="tntnovelas">
+    <title lang="pt">Amor Sem Fim</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817044500 -0300" stop="20260817053000 -0300" channel="tvjangadeiro">
-    <title lang="pt">Se Liga Brasil</title>
-    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  <programme start="20260821020700 -0300" stop="20260821030000 -0300" channel="tntnovelas">
+    <title lang="pt">Amor Sem Fim</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817053000 -0300" stop="20260817074500 -0300" channel="tvjangadeiro">
-    <title lang="pt">Primeiro Impacto</title>
-    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  <programme start="20260821030000 -0300" stop="20260821035600 -0300" channel="tntnovelas">
+    <title lang="pt">Iludida</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817074500 -0300" stop="20260817075000 -0300" channel="tvjangadeiro">
-    <title lang="pt">Loteria dos Sonhos</title>
-    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  <programme start="20260821035600 -0300" stop="20260821044900 -0300" channel="tntnovelas">
+    <title lang="pt">Um Milagre</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817075000 -0300" stop="20260817081500 -0300" channel="tvjangadeiro">
-    <title lang="pt">Futebolês</title>
-    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  <programme start="20260821044900 -0300" stop="20260821054200 -0300" channel="tntnovelas">
+    <title lang="pt">Um Milagre</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817081500 -0300" stop="20260817094500 -0300" channel="tvjangadeiro">
-    <title lang="pt">Barra</title>
-    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  <programme start="20260821054200 -0300" stop="20260821063500 -0300" channel="tntnovelas">
+    <title lang="pt">Amor Sem Fim</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817094500 -0300" stop="20260817105500 -0300" channel="tvjangadeiro">
-    <title lang="pt">Todo Mundo Ama</title>
-    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  <programme start="20260821063500 -0300" stop="20260821072500 -0300" channel="tntnovelas">
+    <title lang="pt">Amor Sem Fim</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817105500 -0300" stop="20260817110000 -0300" channel="tvjangadeiro">
-    <title lang="pt">Loteria dos Sonhos</title>
-    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  <programme start="20260821072500 -0300" stop="20260821081300 -0300" channel="tntnovelas">
+    <title lang="pt">Meu Lar, Meu Destino</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817110000 -0300" stop="20260817123000 -0300" channel="tvjangadeiro">
-    <title lang="pt">A Desalmada</title>
-    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  <programme start="20260821081300 -0300" stop="20260821090100 -0300" channel="tntnovelas">
+    <title lang="pt">Meu Lar, Meu Destino</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817123000 -0300" stop="20260817134500 -0300" channel="tvjangadeiro">
-    <title lang="pt">Fofocalizando</title>
-    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  <programme start="20260821090100 -0300" stop="20260821094900 -0300" channel="tntnovelas">
+    <title lang="pt">Meu Lar, Meu Destino</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817134500 -0300" stop="20260817144500 -0300" channel="tvjangadeiro">
-    <title lang="pt">O Que a Vida Me Roubou</title>
-    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  <programme start="20260821094900 -0300" stop="20260821103800 -0300" channel="tntnovelas">
+    <title lang="pt">Iludida</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817144500 -0300" stop="20260817151500 -0300" channel="tvjangadeiro">
-    <title lang="pt">Sortilégio</title>
-    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  <programme start="20260821103800 -0300" stop="20260821112700 -0300" channel="tntnovelas">
+    <title lang="pt">Iludida</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817151500 -0300" stop="20260817161000 -0300" channel="tvjangadeiro">
-    <title lang="pt">Jornal Jangadeiro</title>
-    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  <programme start="20260821112700 -0300" stop="20260821121600 -0300" channel="tntnovelas">
+    <title lang="pt">Iludida</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817161000 -0300" stop="20260817161500 -0300" channel="tvjangadeiro">
-    <title lang="pt">Loteria dos Sonhos</title>
-    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  <programme start="20260821121600 -0300" stop="20260821130400 -0300" channel="tntnovelas">
+    <title lang="pt">Será Isso Amor?</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817161500 -0300" stop="20260817164500 -0300" channel="tvjangadeiro">
-    <title lang="pt">SBT Cidades</title>
-    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  <programme start="20260821130400 -0300" stop="20260821135200 -0300" channel="tntnovelas">
+    <title lang="pt">Será Isso Amor?</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817164500 -0300" stop="20260817174500 -0300" channel="tvjangadeiro">
-    <title lang="pt">SBT Brasil</title>
-    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  <programme start="20260821135200 -0300" stop="20260821144000 -0300" channel="tntnovelas">
+    <title lang="pt">Um Milagre</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817174500 -0300" stop="20260817183000 -0300" channel="tvjangadeiro">
-    <title lang="pt">A História de Joana - A Virgem</title>
-    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  <programme start="20260821144000 -0300" stop="20260821152800 -0300" channel="tntnovelas">
+    <title lang="pt">Um Milagre</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817183000 -0300" stop="20260817190000 -0300" channel="tvjangadeiro">
-    <title lang="pt">Sessão + SBT</title>
-    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  <programme start="20260821152800 -0300" stop="20260821161600 -0300" channel="tntnovelas">
+    <title lang="pt">Amor Sem Fim</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817190000 -0300" stop="20260817200000 -0300" channel="tvjangadeiro">
-    <title lang="pt">Programa do Ratinho</title>
-    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  <programme start="20260821161600 -0300" stop="20260821170400 -0300" channel="tntnovelas">
+    <title lang="pt">Meu Lar, Meu Destino</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
-  <programme start="20260817200000 -0300" stop="20260817210000 -0300" channel="tvjangadeiro">
-    <title lang="pt">Galvão F.C.</title>
-    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  <programme start="20260821170400 -0300" stop="20260821175300 -0300" channel="tntnovelas">
+    <title lang="pt">Iludida</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
+  </programme>
+  <programme start="20260821175300 -0300" stop="20260821184200 -0300" channel="tntnovelas">
+    <title lang="pt">Iludida</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
+  </programme>
+  <programme start="20260821184200 -0300" stop="20260821193000 -0300" channel="tntnovelas">
+    <title lang="pt">Um Milagre</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
+  </programme>
+  <programme start="20260821193000 -0300" stop="20260821201800 -0300" channel="tntnovelas">
+    <title lang="pt">Será Isso Amor?</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
+  </programme>
+  <programme start="20260821201800 -0300" stop="20260821210700 -0300" channel="tntnovelas">
+    <title lang="pt">Iludida</title>
+    <desc lang="pt">Acompanhe a programação ao vivo.</desc>
   </programme>
   <programme start="20260817210000 -0300" stop="20260817220000 -0300" channel="tvjangadeiro">
     <title lang="pt">The Noite com Danilo Gentili</title>
@@ -2666,6 +2578,98 @@
   </programme>
   <programme start="20260820201500 -0300" stop="20260820214500 -0300" channel="tvjangadeiro">
     <title lang="pt">A Praça é Nossa</title>
+    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  </programme>
+  <programme start="20260820214500 -0300" stop="20260820224500 -0300" channel="tvjangadeiro">
+    <title lang="pt">The Noite com Danilo Gentili</title>
+    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  </programme>
+  <programme start="20260820224500 -0300" stop="20260820231500 -0300" channel="tvjangadeiro">
+    <title lang="pt">Operação Mesquita</title>
+    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  </programme>
+  <programme start="20260820231500 -0300" stop="20260821030000 -0300" channel="tvjangadeiro">
+    <title lang="pt">SBT Notícias</title>
+    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  </programme>
+  <programme start="20260821030000 -0300" stop="20260821040000 -0300" channel="tvjangadeiro">
+    <title lang="pt">Se Liga Brasil</title>
+    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  </programme>
+  <programme start="20260821040000 -0300" stop="20260821041500 -0300" channel="tvjangadeiro">
+    <title lang="pt">Quem Como Deus?</title>
+    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  </programme>
+  <programme start="20260821041500 -0300" stop="20260821044500 -0300" channel="tvjangadeiro">
+    <title lang="pt">Terço das Santas Chagas</title>
+    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  </programme>
+  <programme start="20260821044500 -0300" stop="20260821053000 -0300" channel="tvjangadeiro">
+    <title lang="pt">Se Liga Brasil</title>
+    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  </programme>
+  <programme start="20260821053000 -0300" stop="20260821074500 -0300" channel="tvjangadeiro">
+    <title lang="pt">Primeiro Impacto</title>
+    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  </programme>
+  <programme start="20260821074500 -0300" stop="20260821075000 -0300" channel="tvjangadeiro">
+    <title lang="pt">Loteria dos Sonhos</title>
+    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  </programme>
+  <programme start="20260821075000 -0300" stop="20260821081500 -0300" channel="tvjangadeiro">
+    <title lang="pt">Futebolês</title>
+    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  </programme>
+  <programme start="20260821081500 -0300" stop="20260821094500 -0300" channel="tvjangadeiro">
+    <title lang="pt">Barra</title>
+    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  </programme>
+  <programme start="20260821094500 -0300" stop="20260821105500 -0300" channel="tvjangadeiro">
+    <title lang="pt">Todo Mundo Ama</title>
+    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  </programme>
+  <programme start="20260821105500 -0300" stop="20260821110000 -0300" channel="tvjangadeiro">
+    <title lang="pt">Loteria dos Sonhos</title>
+    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  </programme>
+  <programme start="20260821110000 -0300" stop="20260821123000 -0300" channel="tvjangadeiro">
+    <title lang="pt">A Desalmada</title>
+    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  </programme>
+  <programme start="20260821123000 -0300" stop="20260821140000 -0300" channel="tvjangadeiro">
+    <title lang="pt">Fofocalizando</title>
+    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  </programme>
+  <programme start="20260821140000 -0300" stop="20260821151500 -0300" channel="tvjangadeiro">
+    <title lang="pt">O Que a Vida Me Roubou</title>
+    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  </programme>
+  <programme start="20260821151500 -0300" stop="20260821161000 -0300" channel="tvjangadeiro">
+    <title lang="pt">Jornal Jangadeiro</title>
+    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  </programme>
+  <programme start="20260821161000 -0300" stop="20260821161500 -0300" channel="tvjangadeiro">
+    <title lang="pt">Loteria dos Sonhos</title>
+    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  </programme>
+  <programme start="20260821161500 -0300" stop="20260821164500 -0300" channel="tvjangadeiro">
+    <title lang="pt">SBT Cidades</title>
+    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  </programme>
+  <programme start="20260821164500 -0300" stop="20260821174500 -0300" channel="tvjangadeiro">
+    <title lang="pt">SBT Brasil</title>
+    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  </programme>
+  <programme start="20260821174500 -0300" stop="20260821183000 -0300" channel="tvjangadeiro">
+    <title lang="pt">A História de Joana - A Virgem</title>
+    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  </programme>
+  <programme start="20260821183000 -0300" stop="20260821191500 -0300" channel="tvjangadeiro">
+    <title lang="pt">Sessão + SBT</title>
+    <desc lang="pt">Programação aberta e jornalismo.</desc>
+  </programme>
+  <programme start="20260821191500 -0300" stop="20260821210000 -0300" channel="tvjangadeiro">
+    <title lang="pt">Programa do Ratinho</title>
     <desc lang="pt">Programação aberta e jornalismo.</desc>
   </programme>
 </tv>

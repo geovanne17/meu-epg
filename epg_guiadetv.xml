@@ -1,337 +1,341 @@
 <?xml version="1.0" ?>
-<tv generator-info-name="EPG Secundario - 2026-08-18 03:38:43">
+<tv generator-info-name="EPG Secundario - 2026-08-19 03:39:46">
   <channel id="canaleducacao">
     <display-name lang="pt">Canal Educação</display-name>
   </channel>
   <channel id="canalgov">
     <display-name lang="pt">Canal Gov</display-name>
   </channel>
-  <programme start="20260818000000 -0300" stop="20260818003000 -0300" channel="canaleducacao">
-    <title lang="pt">Fortes do Brasil</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818003000 -0300" stop="20260818010000 -0300" channel="canaleducacao">
-    <title lang="pt">Parques do Brasil</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818010000 -0300" stop="20260818013000 -0300" channel="canaleducacao">
-    <title lang="pt">Olhares do Norte: Pará</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818013000 -0300" stop="20260818020000 -0300" channel="canaleducacao">
-    <title lang="pt">Crisálida</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818020000 -0300" stop="20260818023000 -0300" channel="canaleducacao">
-    <title lang="pt">Sementes da Educação</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818023000 -0300" stop="20260818030000 -0300" channel="canaleducacao">
-    <title lang="pt">Inclusão para Valer</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818030000 -0300" stop="20260818033000 -0300" channel="canaleducacao">
-    <title lang="pt">Caminhos da Reportagem</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818033000 -0300" stop="20260818040000 -0300" channel="canaleducacao">
-    <title lang="pt">Talk Show Preto no Branco</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818040000 -0300" stop="20260818043000 -0300" channel="canaleducacao">
-    <title lang="pt">Crisálida</title>
-    <desc lang="pt">Você namoraria uma pessoa surda? Já pensou nas barreiras que enfrentaria para se comunicar e amadurecer o relacionamento? Este é o principal desafio de Jaks e Morgana.</desc>
-  </programme>
-  <programme start="20260818043000 -0300" stop="20260818050000 -0300" channel="canaleducacao">
+  <programme start="20260819000000 -0300" stop="20260819003000 -0300" channel="canaleducacao">
     <title lang="pt">Filhos da Liberdade</title>
     <desc lang="pt"/>
   </programme>
-  <programme start="20260818050000 -0300" stop="20260818051500 -0300" channel="canaleducacao">
-    <title lang="pt">Sementes da Educação</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818051500 -0300" stop="20260818053000 -0300" channel="canaleducacao">
-    <title lang="pt">Turismo transforma Noronha</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818053000 -0300" stop="20260818060000 -0300" channel="canaleducacao">
-    <title lang="pt">Talk Show Preto no Branco</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818060000 -0300" stop="20260818063000 -0300" channel="canaleducacao">
-    <title lang="pt">Conta a Virada!</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818063000 -0300" stop="20260818070000 -0300" channel="canaleducacao">
-    <title lang="pt">Adolescentes e o Mundo Digital</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818070000 -0300" stop="20260818073000 -0300" channel="canaleducacao">
-    <title lang="pt">Se Liga na Educação ENEM</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818073000 -0300" stop="20260818081500 -0300" channel="canaleducacao">
-    <title lang="pt">Olha Elas!</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818081500 -0300" stop="20260818083000 -0300" channel="canaleducacao">
-    <title lang="pt">Trilha de Letras</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818083000 -0300" stop="20260818084500 -0300" channel="canaleducacao">
-    <title lang="pt">Conta a Virada!</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818084500 -0300" stop="20260818085500 -0300" channel="canaleducacao">
-    <title lang="pt">Histórias do Brasil</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818085500 -0300" stop="20260818090000 -0300" channel="canaleducacao">
-    <title lang="pt">Preto no Branco</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818090000 -0300" stop="20260818093000 -0300" channel="canaleducacao">
-    <title lang="pt">Talk Show Preto no Branco</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818093000 -0300" stop="20260818100000 -0300" channel="canaleducacao">
-    <title lang="pt">Sementes da Educação</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818100000 -0300" stop="20260818101500 -0300" channel="canaleducacao">
-    <title lang="pt">Palaloos</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818101500 -0300" stop="20260818102500 -0300" channel="canaleducacao">
-    <title lang="pt">Planeta Palavra</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818102500 -0300" stop="20260818103000 -0300" channel="canaleducacao">
-    <title lang="pt">Planeta Palavra</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818103000 -0300" stop="20260818103500 -0300" channel="canaleducacao">
-    <title lang="pt">Conta a Virada!</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818103500 -0300" stop="20260818105000 -0300" channel="canaleducacao">
-    <title lang="pt">Gildo</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818105000 -0300" stop="20260818110000 -0300" channel="canaleducacao">
-    <title lang="pt">Aninha. A Infância de Cora Coralina</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818110000 -0300" stop="20260818112000 -0300" channel="canaleducacao">
-    <title lang="pt">Igarapé Mágico</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818112000 -0300" stop="20260818113000 -0300" channel="canaleducacao">
-    <title lang="pt">Passado da Hora</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818113000 -0300" stop="20260818114500 -0300" channel="canaleducacao">
-    <title lang="pt">Minha Casa, Nosso Mundo</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818114500 -0300" stop="20260818120000 -0300" channel="canaleducacao">
-    <title lang="pt">O Teco Teco</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818120000 -0300" stop="20260818123000 -0300" channel="canaleducacao">
-    <title lang="pt">Manual de Sobrevivência da Literatura Brasileira</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818123000 -0300" stop="20260818130000 -0300" channel="canaleducacao">
-    <title lang="pt">Se Liga na Educação ENEM</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818130000 -0300" stop="20260818131500 -0300" channel="canaleducacao">
-    <title lang="pt">Trilha de Letras</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818131500 -0300" stop="20260818133000 -0300" channel="canaleducacao">
-    <title lang="pt">Minha Casa, Nosso Mundo</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818133000 -0300" stop="20260818134500 -0300" channel="canaleducacao">
-    <title lang="pt">UniVERciência</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818134500 -0300" stop="20260818140000 -0300" channel="canaleducacao">
-    <title lang="pt">Adolescentes e o Mundo Digital</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818140000 -0300" stop="20260818141500 -0300" channel="canaleducacao">
-    <title lang="pt">Compromisso Criança Alfabetizada</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818141500 -0300" stop="20260818142500 -0300" channel="canaleducacao">
-    <title lang="pt">Histórias do Brasil</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818142500 -0300" stop="20260818143000 -0300" channel="canaleducacao">
-    <title lang="pt">Preto no Branco</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818143000 -0300" stop="20260818144500 -0300" channel="canaleducacao">
-    <title lang="pt">Olha Elas!</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818144500 -0300" stop="20260818150000 -0300" channel="canaleducacao">
-    <title lang="pt">Manual de Sobrevivência da Literatura Brasileira</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818150000 -0300" stop="20260818151500 -0300" channel="canaleducacao">
-    <title lang="pt">Adolescentes e o Mundo Digital</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818151500 -0300" stop="20260818152500 -0300" channel="canaleducacao">
-    <title lang="pt">Histórias do Brasil</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818152500 -0300" stop="20260818153000 -0300" channel="canaleducacao">
-    <title lang="pt">Preto no Branco</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818153000 -0300" stop="20260818160000 -0300" channel="canaleducacao">
-    <title lang="pt">Sementes da Educação</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818160000 -0300" stop="20260818163000 -0300" channel="canaleducacao">
-    <title lang="pt">Talk Show Preto no Branco</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818163000 -0300" stop="20260818164500 -0300" channel="canaleducacao">
-    <title lang="pt">Palaloos</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818164500 -0300" stop="20260818165500 -0300" channel="canaleducacao">
-    <title lang="pt">Planeta Palavra</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818165500 -0300" stop="20260818170000 -0300" channel="canaleducacao">
-    <title lang="pt">Gildo</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818170000 -0300" stop="20260818170500 -0300" channel="canaleducacao">
-    <title lang="pt">Caminhos da Reportagem</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818170500 -0300" stop="20260818171000 -0300" channel="canaleducacao">
-    <title lang="pt">Planeta Palavra</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818171000 -0300" stop="20260818171500 -0300" channel="canaleducacao">
-    <title lang="pt">Aninha. A Infância de Cora Coralina</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818171500 -0300" stop="20260818172000 -0300" channel="canaleducacao">
-    <title lang="pt">Gildo</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818172000 -0300" stop="20260818173000 -0300" channel="canaleducacao">
-    <title lang="pt">Igarapé Mágico</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818173000 -0300" stop="20260818173500 -0300" channel="canaleducacao">
-    <title lang="pt">Aninha. A Infância de Cora Coralina</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818173500 -0300" stop="20260818174000 -0300" channel="canaleducacao">
-    <title lang="pt">Passado da Hora</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818174000 -0300" stop="20260818174500 -0300" channel="canaleducacao">
-    <title lang="pt">Aninha. A Infância de Cora Coralina</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818174500 -0300" stop="20260818175000 -0300" channel="canaleducacao">
-    <title lang="pt">Minha Casa, Nosso Mundo</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818175000 -0300" stop="20260818180000 -0300" channel="canaleducacao">
-    <title lang="pt">Aninha. A Infância de Cora Coralina</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818180000 -0300" stop="20260818181000 -0300" channel="canaleducacao">
-    <title lang="pt">O Teco Teco</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818181000 -0300" stop="20260818181500 -0300" channel="canaleducacao">
-    <title lang="pt">Passado da Hora</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818181500 -0300" stop="20260818182000 -0300" channel="canaleducacao">
-    <title lang="pt">Manual de Sobrevivência da Literatura Brasileira</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818182000 -0300" stop="20260818183000 -0300" channel="canaleducacao">
-    <title lang="pt">Passado da Hora</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818183000 -0300" stop="20260818184500 -0300" channel="canaleducacao">
-    <title lang="pt">Minha Casa, Nosso Mundo</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818184500 -0300" stop="20260818185500 -0300" channel="canaleducacao">
-    <title lang="pt">Sem Dúvida Nenhuma</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818185500 -0300" stop="20260818190000 -0300" channel="canaleducacao">
-    <title lang="pt">Preto no Branco</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818190000 -0300" stop="20260818193000 -0300" channel="canaleducacao">
-    <title lang="pt">Se Liga na Educação ENEM</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818193000 -0300" stop="20260818200000 -0300" channel="canaleducacao">
-    <title lang="pt">Manual de Sobrevivência da Literatura Brasileira</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818200000 -0300" stop="20260818201500 -0300" channel="canaleducacao">
-    <title lang="pt">Parques do Brasil</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818201500 -0300" stop="20260818203000 -0300" channel="canaleducacao">
-    <title lang="pt">Adolescentes e o Mundo Digital</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260818203000 -0300" stop="20260818204500 -0300" channel="canaleducacao">
+  <programme start="20260819003000 -0300" stop="20260819010000 -0300" channel="canaleducacao">
     <title lang="pt">Fortes do Brasil</title>
     <desc lang="pt"/>
   </programme>
-  <programme start="20260818204500 -0300" stop="20260818205500 -0300" channel="canaleducacao">
-    <title lang="pt">Histórias do Brasil</title>
+  <programme start="20260819010000 -0300" stop="20260819013000 -0300" channel="canaleducacao">
+    <title lang="pt">Vida de Merendeira</title>
     <desc lang="pt"/>
   </programme>
-  <programme start="20260818205500 -0300" stop="20260818210000 -0300" channel="canaleducacao">
-    <title lang="pt">Preto no Branco</title>
+  <programme start="20260819013000 -0300" stop="20260819020000 -0300" channel="canaleducacao">
+    <title lang="pt">Olhares do Norte: Pará</title>
     <desc lang="pt"/>
   </programme>
-  <programme start="20260818210000 -0300" stop="20260818213000 -0300" channel="canaleducacao">
-    <title lang="pt">Olha Elas!</title>
+  <programme start="20260819020000 -0300" stop="20260819023000 -0300" channel="canaleducacao">
+    <title lang="pt">Show da Simone</title>
     <desc lang="pt"/>
   </programme>
-  <programme start="20260818213000 -0300" stop="20260818220000 -0300" channel="canaleducacao">
-    <title lang="pt">UniVERciência</title>
+  <programme start="20260819023000 -0300" stop="20260819030000 -0300" channel="canaleducacao">
+    <title lang="pt">Compromisso Criança Alfabetizada</title>
     <desc lang="pt"/>
   </programme>
-  <programme start="20260818220000 -0300" stop="20260818223000 -0300" channel="canaleducacao">
-    <title lang="pt">Caminhos da Reportagem</title>
+  <programme start="20260819030000 -0300" stop="20260819033000 -0300" channel="canaleducacao">
+    <title lang="pt">Vida de Merendeira</title>
     <desc lang="pt"/>
   </programme>
-  <programme start="20260818223000 -0300" stop="20260818230000 -0300" channel="canaleducacao">
-    <title lang="pt">Inclusão para Valer</title>
+  <programme start="20260819033000 -0300" stop="20260819040000 -0300" channel="canaleducacao">
+    <title lang="pt">Poetas do Céu</title>
     <desc lang="pt"/>
   </programme>
-  <programme start="20260818230000 -0300" stop="20260818233000 -0300" channel="canaleducacao">
+  <programme start="20260819040000 -0300" stop="20260819043000 -0300" channel="canaleducacao">
+    <title lang="pt">Olhares do Norte: Pará</title>
+    <desc lang="pt">A série documental Olhares do Norte: Pará mergulha na vida e obra de 13 fotógrafos de diferentes gerações, que compartilham suas experiências de vida, aprendizados e processos criativos.</desc>
+  </programme>
+  <programme start="20260819043000 -0300" stop="20260819050000 -0300" channel="canaleducacao">
+    <title lang="pt">Crisálida</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819050000 -0300" stop="20260819051500 -0300" channel="canaleducacao">
     <title lang="pt">Sementes da Educação</title>
     <desc lang="pt"/>
   </programme>
-  <programme start="20260818233000 -0300" stop="20260819000000 -0300" channel="canaleducacao">
+  <programme start="20260819051500 -0300" stop="20260819053000 -0300" channel="canaleducacao">
+    <title lang="pt">Turismo transforma Noronha</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819053000 -0300" stop="20260819060000 -0300" channel="canaleducacao">
+    <title lang="pt">Inclusão para Valer</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819060000 -0300" stop="20260819063000 -0300" channel="canaleducacao">
+    <title lang="pt">Olha Elas!</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819063000 -0300" stop="20260819070000 -0300" channel="canaleducacao">
+    <title lang="pt">UniVERciência</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819070000 -0300" stop="20260819073000 -0300" channel="canaleducacao">
+    <title lang="pt">Se Liga na Educação ENEM</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819073000 -0300" stop="20260819081500 -0300" channel="canaleducacao">
+    <title lang="pt">Olha Elas!</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819081500 -0300" stop="20260819083000 -0300" channel="canaleducacao">
     <title lang="pt">Adolescentes e o Mundo Digital</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819083000 -0300" stop="20260819084500 -0300" channel="canaleducacao">
+    <title lang="pt">Conta a Virada!</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819084500 -0300" stop="20260819085500 -0300" channel="canaleducacao">
+    <title lang="pt">Histórias do Brasil</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819085500 -0300" stop="20260819090000 -0300" channel="canaleducacao">
+    <title lang="pt">Preto no Branco</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819090000 -0300" stop="20260819093000 -0300" channel="canaleducacao">
+    <title lang="pt">Inclusão para Valer</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819093000 -0300" stop="20260819100000 -0300" channel="canaleducacao">
+    <title lang="pt">Sementes da Educação</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819100000 -0300" stop="20260819101500 -0300" channel="canaleducacao">
+    <title lang="pt">Palaloos</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819101500 -0300" stop="20260819102500 -0300" channel="canaleducacao">
+    <title lang="pt">Planeta Palavra</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819102500 -0300" stop="20260819103000 -0300" channel="canaleducacao">
+    <title lang="pt">Planeta Palavra</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819103000 -0300" stop="20260819103500 -0300" channel="canaleducacao">
+    <title lang="pt">Conta a Virada!</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819103500 -0300" stop="20260819105000 -0300" channel="canaleducacao">
+    <title lang="pt">Gildo</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819105000 -0300" stop="20260819110000 -0300" channel="canaleducacao">
+    <title lang="pt">Aninha. A Infância de Cora Coralina</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819110000 -0300" stop="20260819112000 -0300" channel="canaleducacao">
+    <title lang="pt">Igarapé Mágico</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819112000 -0300" stop="20260819113000 -0300" channel="canaleducacao">
+    <title lang="pt">Passado da Hora</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819113000 -0300" stop="20260819114500 -0300" channel="canaleducacao">
+    <title lang="pt">Minha Casa, Nosso Mundo</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819114500 -0300" stop="20260819120000 -0300" channel="canaleducacao">
+    <title lang="pt">O Teco Teco</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819120000 -0300" stop="20260819123000 -0300" channel="canaleducacao">
+    <title lang="pt">Manual de Sobrevivência da Literatura Brasileira</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819123000 -0300" stop="20260819130000 -0300" channel="canaleducacao">
+    <title lang="pt">Se Liga na Educação ENEM</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819130000 -0300" stop="20260819131500 -0300" channel="canaleducacao">
+    <title lang="pt">Trilha de Letras</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819131500 -0300" stop="20260819133000 -0300" channel="canaleducacao">
+    <title lang="pt">Minha Casa, Nosso Mundo</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819133000 -0300" stop="20260819134500 -0300" channel="canaleducacao">
+    <title lang="pt">UniVERciência</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819134500 -0300" stop="20260819140000 -0300" channel="canaleducacao">
+    <title lang="pt">Filosofia Com Arte</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819140000 -0300" stop="20260819141500 -0300" channel="canaleducacao">
+    <title lang="pt">Compromisso Criança Alfabetizada</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819141500 -0300" stop="20260819142500 -0300" channel="canaleducacao">
+    <title lang="pt">Histórias do Brasil</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819142500 -0300" stop="20260819143000 -0300" channel="canaleducacao">
+    <title lang="pt">Preto no Branco</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819143000 -0300" stop="20260819144500 -0300" channel="canaleducacao">
+    <title lang="pt">Conta a Virada!</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819144500 -0300" stop="20260819150000 -0300" channel="canaleducacao">
+    <title lang="pt">Manual de Sobrevivência da Literatura Brasileira</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819150000 -0300" stop="20260819151500 -0300" channel="canaleducacao">
+    <title lang="pt">Adolescentes e o Mundo Digital</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819151500 -0300" stop="20260819152500 -0300" channel="canaleducacao">
+    <title lang="pt">Histórias do Brasil</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819152500 -0300" stop="20260819153000 -0300" channel="canaleducacao">
+    <title lang="pt">Preto no Branco</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819153000 -0300" stop="20260819160000 -0300" channel="canaleducacao">
+    <title lang="pt">Sementes da Educação</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819160000 -0300" stop="20260819161500 -0300" channel="canaleducacao">
+    <title lang="pt">Inclusão para Valer</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819161500 -0300" stop="20260819163000 -0300" channel="canaleducacao">
+    <title lang="pt">Pequenos Mestres</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819163000 -0300" stop="20260819164500 -0300" channel="canaleducacao">
+    <title lang="pt">Palaloos</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819164500 -0300" stop="20260819165500 -0300" channel="canaleducacao">
+    <title lang="pt">Planeta Palavra</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819165500 -0300" stop="20260819170000 -0300" channel="canaleducacao">
+    <title lang="pt">Gildo</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819170000 -0300" stop="20260819170500 -0300" channel="canaleducacao">
+    <title lang="pt">Caminhos da Reportagem</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819170500 -0300" stop="20260819171000 -0300" channel="canaleducacao">
+    <title lang="pt">Planeta Palavra</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819171000 -0300" stop="20260819171500 -0300" channel="canaleducacao">
+    <title lang="pt">Aninha. A Infância de Cora Coralina</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819171500 -0300" stop="20260819172000 -0300" channel="canaleducacao">
+    <title lang="pt">Gildo</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819172000 -0300" stop="20260819173000 -0300" channel="canaleducacao">
+    <title lang="pt">Igarapé Mágico</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819173000 -0300" stop="20260819173500 -0300" channel="canaleducacao">
+    <title lang="pt">Aninha. A Infância de Cora Coralina</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819173500 -0300" stop="20260819174000 -0300" channel="canaleducacao">
+    <title lang="pt">Passado da Hora</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819174000 -0300" stop="20260819174500 -0300" channel="canaleducacao">
+    <title lang="pt">Aninha. A Infância de Cora Coralina</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819174500 -0300" stop="20260819175000 -0300" channel="canaleducacao">
+    <title lang="pt">Minha Casa, Nosso Mundo</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819175000 -0300" stop="20260819180000 -0300" channel="canaleducacao">
+    <title lang="pt">Aninha. A Infância de Cora Coralina</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819180000 -0300" stop="20260819181000 -0300" channel="canaleducacao">
+    <title lang="pt">O Teco Teco</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819181000 -0300" stop="20260819181500 -0300" channel="canaleducacao">
+    <title lang="pt">Passado da Hora</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819181500 -0300" stop="20260819182000 -0300" channel="canaleducacao">
+    <title lang="pt">Manual de Sobrevivência da Literatura Brasileira</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819182000 -0300" stop="20260819183000 -0300" channel="canaleducacao">
+    <title lang="pt">Passado da Hora</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819183000 -0300" stop="20260819184500 -0300" channel="canaleducacao">
+    <title lang="pt">Minha Casa, Nosso Mundo</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819184500 -0300" stop="20260819185500 -0300" channel="canaleducacao">
+    <title lang="pt">Histórias do Brasil</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819185500 -0300" stop="20260819190000 -0300" channel="canaleducacao">
+    <title lang="pt">Preto no Branco</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819190000 -0300" stop="20260819193000 -0300" channel="canaleducacao">
+    <title lang="pt">Se Liga na Educação ENEM</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819193000 -0300" stop="20260819200000 -0300" channel="canaleducacao">
+    <title lang="pt">Manual de Sobrevivência da Literatura Brasileira</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819200000 -0300" stop="20260819201500 -0300" channel="canaleducacao">
+    <title lang="pt">Parques do Brasil</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819201500 -0300" stop="20260819203000 -0300" channel="canaleducacao">
+    <title lang="pt">Filosofia Com Arte</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819203000 -0300" stop="20260819204500 -0300" channel="canaleducacao">
+    <title lang="pt">Fortes do Brasil</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819204500 -0300" stop="20260819205500 -0300" channel="canaleducacao">
+    <title lang="pt">Sem Dúvida Nenhuma</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819205500 -0300" stop="20260819210000 -0300" channel="canaleducacao">
+    <title lang="pt">Ciclo COParente</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819210000 -0300" stop="20260819213000 -0300" channel="canaleducacao">
+    <title lang="pt">Conta a Virada!</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819213000 -0300" stop="20260819220000 -0300" channel="canaleducacao">
+    <title lang="pt">UniVERciência</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819220000 -0300" stop="20260819223000 -0300" channel="canaleducacao">
+    <title lang="pt">Caminhos da Reportagem</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819223000 -0300" stop="20260819230000 -0300" channel="canaleducacao">
+    <title lang="pt">Vida de Merendeira</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819230000 -0300" stop="20260819233000 -0300" channel="canaleducacao">
+    <title lang="pt">Sementes da Educação</title>
+    <desc lang="pt"/>
+  </programme>
+  <programme start="20260819233000 -0300" stop="20260820000000 -0300" channel="canaleducacao">
+    <title lang="pt">Inclusão para Valer</title>
     <desc lang="pt"/>
   </programme>
 </tv>
