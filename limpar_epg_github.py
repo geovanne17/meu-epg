@@ -1,9 +1,19 @@
 import xml.etree.ElementTree as ET
-from xml.dom import minidom
 import requests
 
 URL_XML_ORIGINAL = "https://raw.githubusercontent.com/limaalef/BrazilTVEPG/refs/heads/main/epg.xml"
 ARQUIVO_SAIDA = "epg_limpo.xml"
+
+def limpar_elemento(elem):
+    """Remove linhas em branco e espaços desnecessários dos nós XML"""
+    for child in list(elem):
+        limpar_elemento(child)
+        if child.tail:
+            child.tail = child.tail.strip()
+    if elem.text:
+        elem.text = elem.text.strip()
+    if elem.tail:
+        elem.tail = elem.tail.strip()
 
 def limpar_e_gerar_epg():
     print("Baixando XML do GitHub...")
@@ -15,19 +25,19 @@ def limpar_e_gerar_epg():
         print(f"Erro ao baixar o XML: {e}")
         return
 
-    print("Processando e limpando o XML...")
+    print("Processando e limpando quebras de linha e tags em branco...")
     try:
-        # Lê o XML original
         root_origem = ET.fromstring(xml_data)
 
-        # Cria a nova estrutura raiz do XMLTV
+        # Elemento raiz limpo
         tv_novo = ET.Element("tv", root_origem.attrib)
 
-        # 1. Copia todos os canais sem alterações
+        # 1. Copia os canais
         for channel in root_origem.findall("channel"):
+            limpar_elemento(channel)
             tv_novo.append(channel)
 
-        # 2. Processa cada programa, mantendo apenas start, stop, channel, title e desc
+        # 2. Processa cada programa de forma estrita
         programas_mantidos = 0
         for prog in root_origem.findall("programme"):
             attribs = {
@@ -36,38 +46,32 @@ def limpar_e_gerar_epg():
                 "channel": prog.get("channel", "")
             }
 
-            # Cria a tag programme limpa
             prog_novo = ET.SubElement(tv_novo, "programme", attribs)
 
-            # Mantém apenas o título
+            # Título (obrigatório)
             title = prog.find("title")
-            if title is not None:
-                prog_novo.append(title)
+            if title is not None and title.text:
+                t_elem = ET.SubElement(prog_novo, "title", lang=title.get("lang", "pt"))
+                t_elem.text = title.text.strip()
 
-            # Mantém apenas a descrição (cria uma vazia se não existir para evitar erros)
+            # Descrição (obrigatória)
             desc = prog.find("desc")
-            if desc is not None:
-                prog_novo.append(desc)
+            d_elem = ET.SubElement(prog_novo, "desc", lang="pt")
+            if desc is not None and desc.text:
+                d_elem.text = desc.text.strip()
             else:
-                ET.SubElement(prog_novo, "desc", lang="pt").text = ""
-
-            # Garante que a subtítulo vá para a descrição se a descrição estiver vazia
-            sub_title = prog.find("sub-title")
-            if sub_title is not None and sub_title.text and not (desc is not None and desc.text):
-                desc_elem = prog_novo.find("desc")
-                if desc_elem is not None:
-                    desc_elem.text = sub_title.text
+                d_elem.text = "Sem descrição disponível."
 
             programas_mantidos += 1
 
-        # Formata o XML para ficar legível
-        xml_str = minidom.parseString(ET.tostring(tv_novo, encoding="utf-8")).toprettyxml(indent="  ")
+        # Limpa todas as quebras vazias no documento gerado
+        limpar_elemento(tv_novo)
 
-        # Salva o arquivo limpo
-        with open(ARQUIVO_SAIDA, "w", encoding="utf-8") as f:
-            f.write(xml_str)
+        # Salva o arquivo XML com declaração limpa e codificação UTF-8
+        tree = ET.ElementTree(tv_novo)
+        tree.write(ARQUIVO_SAIDA, encoding="utf-8", xml_declaration=True)
 
-        print(f"-> Sucesso! {programas_mantidos} programas processados e salvos em '{ARQUIVO_SAIDA}'.")
+        print(f"-> Sucesso! {programas_mantidos} programas limpos e salvos em '{ARQUIVO_SAIDA}'.")
 
     except Exception as e:
         print(f"Erro ao processar a limpeza do XML: {e}")
