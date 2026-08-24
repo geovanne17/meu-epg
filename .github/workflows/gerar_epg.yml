@@ -2,7 +2,7 @@ name: Gerar EPGs Automaticamente
 
 on:
   schedule:
-    - cron: '0 3 * * *' # Roda diariamente
+    - cron: '0 3 * * *' # Roda diariamente às 00:00 (Horário de Brasília)
   workflow_dispatch:
 
 permissions:
@@ -23,7 +23,8 @@ jobs:
       - name: Instalar dependências
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install requests bs4 playwright
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
           playwright install chromium --with-deps
 
       - name: Executar Script Principal (Claro)
@@ -32,10 +33,13 @@ jobs:
       - name: Executar Script Secundário (Guia de TV)
         run: python gerar_epg_guiadetv.py
 
+      - name: Limpar e Filtrar EPG do GitHub
+        run: python limpar_epg_github.py
+
       - name: Commit e Push dos Arquivos Gerados
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add epg.xml epg_guiadetv.xml
+          git add epg.xml epg_guiadetv.xml epg_limpo.xml
           git commit -m "Atualização automática dos EPGs" || exit 0
           git push
