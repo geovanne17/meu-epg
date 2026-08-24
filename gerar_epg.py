@@ -45,7 +45,7 @@ CANAIS = {
         "id_claro": "1953",
         "nome": "TV Jangadeiro - SBT",
         "desc_padrao": "Programação aberta e jornalismo."
-    }
+    },
     "globoplay": {
         "id_claro": "872",
         "nome": "Globo Play Novelas",
