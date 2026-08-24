@@ -24,6 +24,9 @@
   <channel id="tvjangadeiro">
     <display-name lang="pt">TV Jangadeiro - SBT</display-name>
   </channel>
+  <channel id="globoplay">
+    <display-name lang="pt">Globo Play Novelas</display-name>
+  </channel>
   <programme start="20260822213000 -0300" stop="20260822220000 -0300" channel="tvcamara">
     <title lang="pt">Artérias: Eustaquio Neves</title>
     <desc lang="pt">Acompanhe a programação ao vivo.</desc>
@@ -2703,5 +2706,469 @@
   <programme start="20260826200000 -0300" stop="20260826210000 -0300" channel="tvjangadeiro">
     <title lang="pt">SBT Repórter</title>
     <desc lang="pt">Programação aberta e jornalismo.</desc>
+  </programme>
+  <programme start="20260822214400 -0300" stop="20260822222600 -0300" channel="globoplay">
+    <title lang="pt">O Profeta</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260822222600 -0300" stop="20260822231300 -0300" channel="globoplay">
+    <title lang="pt">Vale Tudo</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260822231300 -0300" stop="20260823000100 -0300" channel="globoplay">
+    <title lang="pt">Minha Vida Perfeita</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260823000100 -0300" stop="20260823004200 -0300" channel="globoplay">
+    <title lang="pt">Anjo Mau</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260823004200 -0300" stop="20260823013000 -0300" channel="globoplay">
+    <title lang="pt">Minha Vida Perfeita</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260823013000 -0300" stop="20260823022000 -0300" channel="globoplay">
+    <title lang="pt">Minha Menina</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260823022000 -0300" stop="20260823030000 -0300" channel="globoplay">
+    <title lang="pt">Anjo Mau</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260823030000 -0300" stop="20260823034200 -0300" channel="globoplay">
+    <title lang="pt">Anjo Mau</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260823034200 -0300" stop="20260823042300 -0300" channel="globoplay">
+    <title lang="pt">Anjo Mau</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260823042300 -0300" stop="20260823050400 -0300" channel="globoplay">
+    <title lang="pt">Anjo Mau</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260823050400 -0300" stop="20260823054800 -0300" channel="globoplay">
+    <title lang="pt">Anjo Mau</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260823054800 -0300" stop="20260823062900 -0300" channel="globoplay">
+    <title lang="pt">Anjo Mau</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260823062900 -0300" stop="20260823071400 -0300" channel="globoplay">
+    <title lang="pt">Rock Story</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260823071400 -0300" stop="20260823080100 -0300" channel="globoplay">
+    <title lang="pt">Rock Story</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260823080100 -0300" stop="20260823084800 -0300" channel="globoplay">
+    <title lang="pt">Rock Story</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260823084800 -0300" stop="20260823093300 -0300" channel="globoplay">
+    <title lang="pt">Rock Story</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260823093300 -0300" stop="20260823101900 -0300" channel="globoplay">
+    <title lang="pt">Rock Story</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260823101900 -0300" stop="20260823110700 -0300" channel="globoplay">
+    <title lang="pt">Rock Story</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260823110700 -0300" stop="20260823120400 -0300" channel="globoplay">
+    <title lang="pt">Belíssima</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260823120400 -0300" stop="20260823130600 -0300" channel="globoplay">
+    <title lang="pt">Belíssima</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260823130600 -0300" stop="20260823135900 -0300" channel="globoplay">
+    <title lang="pt">Belíssima</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260823135900 -0300" stop="20260823145900 -0300" channel="globoplay">
+    <title lang="pt">Belíssima</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260823145900 -0300" stop="20260823160100 -0300" channel="globoplay">
+    <title lang="pt">Belíssima</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260823160100 -0300" stop="20260823170500 -0300" channel="globoplay">
+    <title lang="pt">Belíssima</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260823170500 -0300" stop="20260823180700 -0300" channel="globoplay">
+    <title lang="pt">Amor À Vida</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260823180700 -0300" stop="20260823190800 -0300" channel="globoplay">
+    <title lang="pt">Amor À Vida</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260823190800 -0300" stop="20260823195200 -0300" channel="globoplay">
+    <title lang="pt">Amor À Vida</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260823195200 -0300" stop="20260823205300 -0300" channel="globoplay">
+    <title lang="pt">Amor À Vida</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260823205300 -0300" stop="20260823215800 -0300" channel="globoplay">
+    <title lang="pt">Amor À Vida</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260823215800 -0300" stop="20260823225800 -0300" channel="globoplay">
+    <title lang="pt">Amor À Vida</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260823225800 -0300" stop="20260823233300 -0300" channel="globoplay">
+    <title lang="pt">Vale Tudo</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260823233300 -0300" stop="20260824001100 -0300" channel="globoplay">
+    <title lang="pt">Vale Tudo</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260824001100 -0300" stop="20260824004800 -0300" channel="globoplay">
+    <title lang="pt">Vale Tudo</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260824004800 -0300" stop="20260824013300 -0300" channel="globoplay">
+    <title lang="pt">Vale Tudo</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260824013300 -0300" stop="20260824021100 -0300" channel="globoplay">
+    <title lang="pt">Vale Tudo</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260824021100 -0300" stop="20260824030000 -0300" channel="globoplay">
+    <title lang="pt">Vale Tudo</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260824030000 -0300" stop="20260824040000 -0300" channel="globoplay">
+    <title lang="pt">Amor À Vida</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260824040000 -0300" stop="20260824050400 -0300" channel="globoplay">
+    <title lang="pt">Belíssima</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260824050400 -0300" stop="20260824054600 -0300" channel="globoplay">
+    <title lang="pt">O Profeta</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260824054600 -0300" stop="20260824063700 -0300" channel="globoplay">
+    <title lang="pt">Vale Tudo</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260824063700 -0300" stop="20260824072900 -0300" channel="globoplay">
+    <title lang="pt">Minha Menina</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260824072900 -0300" stop="20260824081700 -0300" channel="globoplay">
+    <title lang="pt">Minha Vida Perfeita</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260824081700 -0300" stop="20260824090500 -0300" channel="globoplay">
+    <title lang="pt">O Rei Do Gado</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260824090500 -0300" stop="20260824095100 -0300" channel="globoplay">
+    <title lang="pt">Anjo Mau</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260824095100 -0300" stop="20260824105500 -0300" channel="globoplay">
+    <title lang="pt">Belíssima</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260824105500 -0300" stop="20260824114500 -0300" channel="globoplay">
+    <title lang="pt">Vale Tudo</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260824114500 -0300" stop="20260824123100 -0300" channel="globoplay">
+    <title lang="pt">O Profeta</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260824123100 -0300" stop="20260824131900 -0300" channel="globoplay">
+    <title lang="pt">Rock Story</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260824131900 -0300" stop="20260824141900 -0300" channel="globoplay">
+    <title lang="pt">Amor À Vida</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260824141900 -0300" stop="20260824151100 -0300" channel="globoplay">
+    <title lang="pt">Minha Menina</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260824151100 -0300" stop="20260824153800 -0300" channel="globoplay">
+    <title lang="pt">Loucos Por Novela</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260824153800 -0300" stop="20260824162400 -0300" channel="globoplay">
+    <title lang="pt">Anjo Mau</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260824162400 -0300" stop="20260824171200 -0300" channel="globoplay">
+    <title lang="pt">O Rei Do Gado</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260824171200 -0300" stop="20260824175700 -0300" channel="globoplay">
+    <title lang="pt">Rock Story</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260824175700 -0300" stop="20260824184800 -0300" channel="globoplay">
+    <title lang="pt">Minha Vida Perfeita</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260824184800 -0300" stop="20260824194200 -0300" channel="globoplay">
+    <title lang="pt">Minha Menina</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260824194200 -0300" stop="20260824204500 -0300" channel="globoplay">
+    <title lang="pt">Amor À Vida</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260824204500 -0300" stop="20260824213800 -0300" channel="globoplay">
+    <title lang="pt">Belíssima</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260824213800 -0300" stop="20260824222000 -0300" channel="globoplay">
+    <title lang="pt">O Profeta</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260824222000 -0300" stop="20260824231000 -0300" channel="globoplay">
+    <title lang="pt">Vale Tudo</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260824231000 -0300" stop="20260825000100 -0300" channel="globoplay">
+    <title lang="pt">Minha Vida Perfeita</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825000100 -0300" stop="20260825004300 -0300" channel="globoplay">
+    <title lang="pt">Anjo Mau</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825004300 -0300" stop="20260825012800 -0300" channel="globoplay">
+    <title lang="pt">Rock Story</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825012800 -0300" stop="20260825021900 -0300" channel="globoplay">
+    <title lang="pt">Minha Vida Perfeita</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825021900 -0300" stop="20260825031300 -0300" channel="globoplay">
+    <title lang="pt">Minha Menina</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825031300 -0300" stop="20260825041600 -0300" channel="globoplay">
+    <title lang="pt">Amor À Vida</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825041600 -0300" stop="20260825050900 -0300" channel="globoplay">
+    <title lang="pt">Belíssima</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825050900 -0300" stop="20260825055100 -0300" channel="globoplay">
+    <title lang="pt">O Profeta</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825055100 -0300" stop="20260825064100 -0300" channel="globoplay">
+    <title lang="pt">Vale Tudo</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825064100 -0300" stop="20260825073500 -0300" channel="globoplay">
+    <title lang="pt">Minha Menina</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825073500 -0300" stop="20260825082600 -0300" channel="globoplay">
+    <title lang="pt">Minha Vida Perfeita</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825082600 -0300" stop="20260825091300 -0300" channel="globoplay">
+    <title lang="pt">O Rei Do Gado</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825091300 -0300" stop="20260825095900 -0300" channel="globoplay">
+    <title lang="pt">Anjo Mau</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825095900 -0300" stop="20260825105200 -0300" channel="globoplay">
+    <title lang="pt">Belíssima</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825105200 -0300" stop="20260825114000 -0300" channel="globoplay">
+    <title lang="pt">Vale Tudo</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825114000 -0300" stop="20260825122500 -0300" channel="globoplay">
+    <title lang="pt">O Profeta</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825122500 -0300" stop="20260825131500 -0300" channel="globoplay">
+    <title lang="pt">Rock Story</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825131500 -0300" stop="20260825141800 -0300" channel="globoplay">
+    <title lang="pt">Amor À Vida</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825141800 -0300" stop="20260825151200 -0300" channel="globoplay">
+    <title lang="pt">Minha Menina</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825151200 -0300" stop="20260825154200 -0300" channel="globoplay">
+    <title lang="pt">Dois Em Cena: Encontro De Gerações</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825154200 -0300" stop="20260825162800 -0300" channel="globoplay">
+    <title lang="pt">Anjo Mau</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825162800 -0300" stop="20260825171500 -0300" channel="globoplay">
+    <title lang="pt">O Rei Do Gado</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825171500 -0300" stop="20260825180100 -0300" channel="globoplay">
+    <title lang="pt">Rock Story</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825180100 -0300" stop="20260825185100 -0300" channel="globoplay">
+    <title lang="pt">Minha Vida Perfeita</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825185100 -0300" stop="20260825194000 -0300" channel="globoplay">
+    <title lang="pt">Minha Menina</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825194000 -0300" stop="20260825204300 -0300" channel="globoplay">
+    <title lang="pt">Amor À Vida</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825204300 -0300" stop="20260825213900 -0300" channel="globoplay">
+    <title lang="pt">Belíssima</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825213900 -0300" stop="20260825222400 -0300" channel="globoplay">
+    <title lang="pt">O Profeta</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825222400 -0300" stop="20260825230600 -0300" channel="globoplay">
+    <title lang="pt">Vale Tudo</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825230600 -0300" stop="20260825235600 -0300" channel="globoplay">
+    <title lang="pt">Minha Vida Perfeita</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260825235600 -0300" stop="20260826003800 -0300" channel="globoplay">
+    <title lang="pt">Anjo Mau</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260826003800 -0300" stop="20260826012500 -0300" channel="globoplay">
+    <title lang="pt">Rock Story</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260826012500 -0300" stop="20260826021500 -0300" channel="globoplay">
+    <title lang="pt">Minha Vida Perfeita</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260826021500 -0300" stop="20260826030400 -0300" channel="globoplay">
+    <title lang="pt">Minha Menina</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260826030400 -0300" stop="20260826040700 -0300" channel="globoplay">
+    <title lang="pt">Amor À Vida</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260826040700 -0300" stop="20260826050300 -0300" channel="globoplay">
+    <title lang="pt">Belíssima</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260826050300 -0300" stop="20260826054800 -0300" channel="globoplay">
+    <title lang="pt">O Profeta</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260826054800 -0300" stop="20260826063600 -0300" channel="globoplay">
+    <title lang="pt">Vale Tudo</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260826063600 -0300" stop="20260826072500 -0300" channel="globoplay">
+    <title lang="pt">Minha Menina</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260826072500 -0300" stop="20260826081500 -0300" channel="globoplay">
+    <title lang="pt">Minha Vida Perfeita</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260826081500 -0300" stop="20260826090600 -0300" channel="globoplay">
+    <title lang="pt">O Rei Do Gado</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260826090600 -0300" stop="20260826095300 -0300" channel="globoplay">
+    <title lang="pt">Anjo Mau</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260826095300 -0300" stop="20260826105300 -0300" channel="globoplay">
+    <title lang="pt">Belíssima</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260826105300 -0300" stop="20260826114000 -0300" channel="globoplay">
+    <title lang="pt">Vale Tudo</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260826114000 -0300" stop="20260826122600 -0300" channel="globoplay">
+    <title lang="pt">O Profeta</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260826122600 -0300" stop="20260826131300 -0300" channel="globoplay">
+    <title lang="pt">Rock Story</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260826131300 -0300" stop="20260826141600 -0300" channel="globoplay">
+    <title lang="pt">Amor À Vida</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260826141600 -0300" stop="20260826150500 -0300" channel="globoplay">
+    <title lang="pt">Minha Menina</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260826150500 -0300" stop="20260826154800 -0300" channel="globoplay">
+    <title lang="pt">Os Casais Que Amamos</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260826154800 -0300" stop="20260826163500 -0300" channel="globoplay">
+    <title lang="pt">Anjo Mau</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260826163500 -0300" stop="20260826171800 -0300" channel="globoplay">
+    <title lang="pt">O Rei Do Gado</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260826171800 -0300" stop="20260826180700 -0300" channel="globoplay">
+    <title lang="pt">Rock Story</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260826180700 -0300" stop="20260826185500 -0300" channel="globoplay">
+    <title lang="pt">Minha Vida Perfeita</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260826185500 -0300" stop="20260826194600 -0300" channel="globoplay">
+    <title lang="pt">Minha Menina</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260826194600 -0300" stop="20260826203000 -0300" channel="globoplay">
+    <title lang="pt">Amor À Vida</title>
+    <desc lang="pt">Canal de Novelas.</desc>
+  </programme>
+  <programme start="20260826203000 -0300" stop="20260826213100 -0300" channel="globoplay">
+    <title lang="pt">Belíssima</title>
+    <desc lang="pt">Canal de Novelas.</desc>
   </programme>
 </tv>
