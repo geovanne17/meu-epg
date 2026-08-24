@@ -46,6 +46,11 @@ CANAIS = {
         "nome": "TV Jangadeiro - SBT",
         "desc_padrao": "Programação aberta e jornalismo."
     }
+    "globoplay": {
+        "id_claro": "872",
+        "nome": "Globo Play Novelas",
+        "desc_padrao": "Canal de Novelas."
+    }
 }
 
 # Código da Cidade (96 = Fortaleza)
