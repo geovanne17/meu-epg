@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv generator-info-name="EPG GuiaDeTV - 2026-08-28 14:45:11">
+<tv generator-info-name="EPG GuiaDeTV - 2026-08-28 17:48:24">
   <channel id="canaleducacao">
     <display-name lang="pt">Canal Educação</display-name>
   </channel>
@@ -26,57 +26,17 @@
     <title lang="pt">Sementes da Educação</title>
     <desc lang="pt"/>
   </programme>
-  <programme start="20260828023000 -0300" stop="20260828143000 -0300" channel="canaleducacao">
+  <programme start="20260828023000 -0300" stop="20260828174500 -0300" channel="canaleducacao">
     <title lang="pt">Na Raiz dos Festejos</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260828143000 -0300" stop="20260828150000 -0300" channel="canaleducacao">
-    <title lang="pt">Conta a Virada!</title>
-    <desc lang="pt">A série que mostra histórias reais de empreendedores brasileiros que superaram desafios e transformaram seus negócios, inspirando outros com soluções criativas. verdadeiras voltas por cima!</desc>
-  </programme>
-  <programme start="20260828150000 -0300" stop="20260828153000 -0300" channel="canaleducacao">
-    <title lang="pt">UniVERciência</title>
-    <desc lang="pt">Primeiro programa brasileiro de TV aberta e Internet, produzido em parceria entre universidades públicas e TVs públicas nordestinas, com foco na promoção, na popularização e na difusão da ciência.</desc>
-  </programme>
-  <programme start="20260828153000 -0300" stop="20260828160000 -0300" channel="canaleducacao">
-    <title lang="pt">Sementes da Educação</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260828160000 -0300" stop="20260828163000 -0300" channel="canaleducacao">
-    <title lang="pt">Compromisso Criança Alfabetizada</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260828163000 -0300" stop="20260828164500 -0300" channel="canaleducacao">
-    <title lang="pt">Palaloos</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260828164500 -0300" stop="20260828165500 -0300" channel="canaleducacao">
-    <title lang="pt">Planeta Palavra</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260828165500 -0300" stop="20260828171000 -0300" channel="canaleducacao">
-    <title lang="pt">Gildo</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260828171000 -0300" stop="20260828172000 -0300" channel="canaleducacao">
-    <title lang="pt">Aninha, A Infância de Cora Coralina</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260828172000 -0300" stop="20260828173500 -0300" channel="canaleducacao">
-    <title lang="pt">Igarapé Mágico</title>
-    <desc lang="pt"/>
-  </programme>
-  <programme start="20260828173500 -0300" stop="20260828174500 -0300" channel="canaleducacao">
-    <title lang="pt">Passado da Hora</title>
     <desc lang="pt"/>
   </programme>
   <programme start="20260828174500 -0300" stop="20260828180000 -0300" channel="canaleducacao">
     <title lang="pt">Minha Casa, Nosso Mundo</title>
-    <desc lang="pt"/>
+    <desc lang="pt">Uma aldeia Pataxó, um circo paulista ou uma fazenda baiana são alguns dos destinos de 13 crianças que vivem experiências únicas quando partem para conhecer a casa, oshábitos e a cultura umas das outras.</desc>
   </programme>
   <programme start="20260828180000 -0300" stop="20260828181500 -0300" channel="canaleducacao">
     <title lang="pt">O Teco Teco</title>
-    <desc lang="pt"/>
+    <desc lang="pt">Apresentando histórias, jogos e desafios, O Teco Teco estimula a participação ativa de seu público e se propõe a colaborar de forma lúdica no processo de construção do conhecimento.</desc>
   </programme>
   <programme start="20260828181500 -0300" stop="20260828184500 -0300" channel="canaleducacao">
     <title lang="pt">Manual de Sobrevivência da Literatura Brasileira</title>
