@@ -1,345 +1,345 @@
 <?xml version="1.0" ?>
-<tv generator-info-name="EPG GuiaDeTV - 2026-10-09 09:50:54">
+<tv generator-info-name="EPG GuiaDeTV - 2026-10-10 09:15:15">
   <channel id="canaleducacao">
     <display-name lang="pt">Canal Educação</display-name>
   </channel>
   <channel id="canalgov">
     <display-name lang="pt">Canal Gov</display-name>
   </channel>
-  <programme start="20261009000000 -0300" stop="20261009003000 -0300" channel="canaleducacao">
-    <title lang="pt">Caminhos da Reportagem</title>
-    <desc lang="pt">Jornalistas viajam pelo país e pelo mundo atrás de grandes histórias, trazendo ao telespectador uma visão diferente, instigante e complexa de cada um dos assuntos escolhidos.</desc>
-  </programme>
-  <programme start="20261009003000 -0300" stop="20261009010000 -0300" channel="canaleducacao">
-    <title lang="pt">Compromisso Criança Alfabetizada</title>
-    <desc lang="pt">Criado em 2023, o programa visa alfabetizar crianças até o 2º ano e recuperar a aprendizagem nos anos iniciais. A série retrata esse esforço, destacando desafios e…</desc>
-  </programme>
-  <programme start="20261009010000 -0300" stop="20261009013000 -0300" channel="canaleducacao">
-    <title lang="pt">Entre Longes</title>
-    <desc lang="pt">Rachel, uma enfermeira que recomeça a vida no Brasil após a Segunda Guerra Mundial, enfrenta desafios em uma região inóspita. Encontra um novo amor em Tito, mas o passado…</desc>
-  </programme>
-  <programme start="20261009013000 -0300" stop="20261009020000 -0300" channel="canaleducacao">
-    <title lang="pt">Curtas ABC</title>
-    <desc lang="pt">Curtas sobre projetos que a Agência Brasileira de Cooperação (ABC) promove junto a membros da Comunidade de Países de Língua Portuguesa (CPLP), impulsionando iniciativas em…</desc>
-  </programme>
-  <programme start="20261009020000 -0300" stop="20261009021500 -0300" channel="canaleducacao">
+  <programme start="20261010000000 -0300" stop="20261010003000 -0300" channel="canaleducacao">
     <title lang="pt">Sementes da Educação</title>
     <desc lang="pt">Conheça escolas que, com poucos recursos, conseguiram inovar os métodos educacionais.</desc>
   </programme>
-  <programme start="20261009021500 -0300" stop="20261009023000 -0300" channel="canaleducacao">
-    <title lang="pt">Turismo transforma Noronha</title>
-    <desc lang="pt">O curta documentário mostra Fernando de Noronha além do paraíso. Entrevista moradores, turistas, prestadores de serviços e guardiões do meio ambiente.</desc>
+  <programme start="20261010003000 -0300" stop="20261010010000 -0300" channel="canaleducacao">
+    <title lang="pt">Sementes da Educação</title>
+    <desc lang="pt">Conheça escolas que, com poucos recursos, conseguiram inovar os métodos educacionais.</desc>
   </programme>
-  <programme start="20261009023000 -0300" stop="20261009030000 -0300" channel="canaleducacao">
+  <programme start="20261010010000 -0300" stop="20261010013000 -0300" channel="canaleducacao">
     <title lang="pt">Na Raiz dos Festejos</title>
     <desc lang="pt">Descubra as origens, lendas e fatos dos principais festejos brasileiros. Explore o encanto das cores, sons e ritmos, e desvende os mistérios dos rituais sagrados e profanos.</desc>
   </programme>
-  <programme start="20261009030000 -0300" stop="20261009033000 -0300" channel="canaleducacao">
+  <programme start="20261010013000 -0300" stop="20261010020000 -0300" channel="canaleducacao">
+    <title lang="pt">Vida de Merendeira</title>
+    <desc lang="pt">Valorizar as características culturais e culinárias de todas as regiões do Brasil priorizando os alimentos in natura da agricultura familiar.</desc>
+  </programme>
+  <programme start="20261010020000 -0300" stop="20261010021500 -0300" channel="canaleducacao">
+    <title lang="pt">Sementes da Educação</title>
+    <desc lang="pt">Conheça escolas que, com poucos recursos, conseguiram inovar os métodos educacionais.</desc>
+  </programme>
+  <programme start="20261010021500 -0300" stop="20261010023000 -0300" channel="canaleducacao">
+    <title lang="pt">Turismo transforma Noronha</title>
+    <desc lang="pt">O curta documentário mostra Fernando de Noronha além do paraíso. Entrevista moradores, turistas, prestadores de serviços e guardiões do meio ambiente.</desc>
+  </programme>
+  <programme start="20261010023000 -0300" stop="20261010030000 -0300" channel="canaleducacao">
     <title lang="pt">Conta a Virada!</title>
     <desc lang="pt">A série que mostra histórias reais de empreendedores brasileiros que superaram desafios e transformaram seus negócios, inspirando outros com soluções criativas. verdadeiras…</desc>
   </programme>
-  <programme start="20261009033000 -0300" stop="20261009040000 -0300" channel="canaleducacao">
-    <title lang="pt">UniVERciência</title>
-    <desc lang="pt">Primeiro programa brasileiro de TV aberta e Internet, produzido em parceria entre universidades públicas e TVs públicas nordestinas, com foco na promoção, na popularização e…</desc>
-  </programme>
-  <programme start="20261009040000 -0300" stop="20261009043000 -0300" channel="canaleducacao">
-    <title lang="pt">Poetas do Céu</title>
-    <desc lang="pt">O filme retrata a paixão e emoção dos criadores mais relevantes da pirotecnia nos principais festivais ligados a essa arte. Os fogos pintam o céu como uma tela de cinema, mas…</desc>
-  </programme>
-  <programme start="20261009043000 -0300" stop="20261009051500 -0300" channel="canaleducacao">
+  <programme start="20261010030000 -0300" stop="20261010033000 -0300" channel="canaleducacao">
     <title lang="pt">Olha Elas!</title>
     <desc lang="pt">Mulheres à frente dos negócios, mulheres mães, mulheres, mulheres, mulheres. Um programa para discutir, refletir, e pensar seus desafios e conquistas.</desc>
   </programme>
-  <programme start="20261009051500 -0300" stop="20261009053000 -0300" channel="canaleducacao">
+  <programme start="20261010033000 -0300" stop="20261010040000 -0300" channel="canaleducacao">
+    <title lang="pt">Adolescentes e o Mundo Digital</title>
+    <desc lang="pt">Bate-papo entre adolescentes e especialistas sobre os desafios no contexto das redes sociais. Falam sobre tempestade hormonal, desenvolvimento integral, clima escolar, saúde…</desc>
+  </programme>
+  <programme start="20261010040000 -0300" stop="20261010043000 -0300" channel="canaleducacao">
+    <title lang="pt">Conta a Virada!</title>
+    <desc lang="pt">A série que mostra histórias reais de empreendedores brasileiros que superaram desafios e transformaram seus negócios, inspirando outros com soluções criativas. verdadeiras…</desc>
+  </programme>
+  <programme start="20261010043000 -0300" stop="20261010051500 -0300" channel="canaleducacao">
+    <title lang="pt">Olha Elas!</title>
+    <desc lang="pt">Mulheres à frente dos negócios, mulheres mães, mulheres, mulheres, mulheres. Um programa para discutir, refletir, e pensar seus desafios e conquistas.</desc>
+  </programme>
+  <programme start="20261010051500 -0300" stop="20261010053000 -0300" channel="canaleducacao">
     <title lang="pt">Trilha de Letras</title>
     <desc lang="pt">Um programa que mescla literatura e informação, com temas atuais. A cada episódio, iremos conduzir conversas com autores, editores, críticos e com quem faz parte deste mundo,…</desc>
   </programme>
-  <programme start="20261009053000 -0300" stop="20261009054500 -0300" channel="canaleducacao">
+  <programme start="20261010053000 -0300" stop="20261010054500 -0300" channel="canaleducacao">
     <title lang="pt">Conta a Virada!</title>
     <desc lang="pt">A série que mostra histórias reais de empreendedores brasileiros que superaram desafios e transformaram seus negócios, inspirando outros com soluções criativas. verdadeiras…</desc>
   </programme>
-  <programme start="20261009054500 -0300" stop="20261009055500 -0300" channel="canaleducacao">
-    <title lang="pt">Turismo transforma Noronha</title>
-    <desc lang="pt">O curta documentário mostra Fernando de Noronha além do paraíso. Entrevista moradores, turistas, prestadores de serviços e guardiões do meio ambiente.</desc>
+  <programme start="20261010054500 -0300" stop="20261010055500 -0300" channel="canaleducacao">
+    <title lang="pt">Histórias do Brasil</title>
+    <desc lang="pt">Minissérie que aborda episódios marcantes ou inusitados de nossa história em fotos, trechos de vídeos antigos e animações.</desc>
   </programme>
-  <programme start="20261009055500 -0300" stop="20261009060000 -0300" channel="canaleducacao">
+  <programme start="20261010055500 -0300" stop="20261010060000 -0300" channel="canaleducacao">
     <title lang="pt">Preto no Branco</title>
     <desc lang="pt">Programa sobre diversidade e antirracismo. É apresentado por Maria Gal e conta com a participação de especialistas, ativistas e apoiadores do movimento antirracista.</desc>
   </programme>
-  <programme start="20261009060000 -0300" stop="20261009063000 -0300" channel="canaleducacao">
+  <programme start="20261010060000 -0300" stop="20261010063000 -0300" channel="canaleducacao">
     <title lang="pt">Conta a Virada!</title>
     <desc lang="pt">A série que mostra histórias reais de empreendedores brasileiros que superaram desafios e transformaram seus negócios, inspirando outros com soluções criativas. verdadeiras…</desc>
   </programme>
-  <programme start="20261009063000 -0300" stop="20261009070000 -0300" channel="canaleducacao">
-    <title lang="pt">Sementes da Educação</title>
-    <desc lang="pt">Conheça escolas que, com poucos recursos, conseguiram inovar os métodos educacionais.</desc>
+  <programme start="20261010063000 -0300" stop="20261010070000 -0300" channel="canaleducacao">
+    <title lang="pt">Olha Elas!</title>
+    <desc lang="pt">Mulheres à frente dos negócios, mulheres mães, mulheres, mulheres, mulheres. Um programa para discutir, refletir, e pensar seus desafios e conquistas.</desc>
   </programme>
-  <programme start="20261009070000 -0300" stop="20261009071500 -0300" channel="canaleducacao">
-    <title lang="pt">Palaloos</title>
-    <desc lang="pt">Na divertida Palalândia, Kazu, Pico e Bao Bao vivem aventuras cheias de cor, música e imaginação! Junto de Blu, Tutu, Epa e Opa, o trio descobre um novo mundo mágico a cada…</desc>
+  <programme start="20261010070000 -0300" stop="20261010071500 -0300" channel="canaleducacao">
+    <title lang="pt">Adolescentes e o Mundo Digital</title>
+    <desc lang="pt">Bate-papo entre adolescentes e especialistas sobre os desafios no contexto das redes sociais. Falam sobre tempestade hormonal, desenvolvimento integral, clima escolar, saúde…</desc>
   </programme>
-  <programme start="20261009071500 -0300" stop="20261009072500 -0300" channel="canaleducacao">
+  <programme start="20261010071500 -0300" stop="20261010072500 -0300" channel="canaleducacao">
     <title lang="pt">Planeta Palavra</title>
     <desc lang="pt">Inspirado na série americana Word World, ensina a ver as palavras como amigas. Com as aventuras dos personagens, introduz conceitos de alfabetização, estimulando o aprendizado…</desc>
   </programme>
-  <programme start="20261009072500 -0300" stop="20261009073000 -0300" channel="canaleducacao">
+  <programme start="20261010072500 -0300" stop="20261010073000 -0300" channel="canaleducacao">
     <title lang="pt">Planeta Palavra</title>
     <desc lang="pt">Inspirado na série americana Word World, ensina a ver as palavras como amigas. Com as aventuras dos personagens, introduz conceitos de alfabetização, estimulando o aprendizado…</desc>
   </programme>
-  <programme start="20261009073000 -0300" stop="20261009073500 -0300" channel="canaleducacao">
+  <programme start="20261010073000 -0300" stop="20261010073500 -0300" channel="canaleducacao">
     <title lang="pt">Conta a Virada!</title>
     <desc lang="pt">A série que mostra histórias reais de empreendedores brasileiros que superaram desafios e transformaram seus negócios, inspirando outros com soluções criativas. verdadeiras…</desc>
   </programme>
-  <programme start="20261009073500 -0300" stop="20261009075000 -0300" channel="canaleducacao">
+  <programme start="20261010073500 -0300" stop="20261010075000 -0300" channel="canaleducacao">
     <title lang="pt">Gildo</title>
     <desc lang="pt">Desenho baseado em uma das obras mais populares da literatura infantil brasileira, a série acompanha as aventuras diárias do curioso Gildo, um menino elefante.</desc>
   </programme>
-  <programme start="20261009075000 -0300" stop="20261009080000 -0300" channel="canaleducacao">
+  <programme start="20261010075000 -0300" stop="20261010080000 -0300" channel="canaleducacao">
     <title lang="pt">Aninha, A Infância de Cora Coralina</title>
     <desc lang="pt">A série animada conta as histórias da escritora Cora Coralina através de Aninha, de 9 anos, e Dona Cora, de 75 anos. Dona Cora narra contos e poesias, enquanto Aninha vive…</desc>
   </programme>
-  <programme start="20261009080000 -0300" stop="20261009082000 -0300" channel="canaleducacao">
-    <title lang="pt">Igarapé Mágico</title>
-    <desc lang="pt">Os 26 programas de Igarapé Mágico foram criados para divertir e entreter os pequenos e, ao mesmo tempo, transmitir noções de amizade e cidadania.</desc>
+  <programme start="20261010080000 -0300" stop="20261010082000 -0300" channel="canaleducacao">
+    <title lang="pt">Olha Elas!</title>
+    <desc lang="pt">Mulheres à frente dos negócios, mulheres mães, mulheres, mulheres, mulheres. Um programa para discutir, refletir, e pensar seus desafios e conquistas.</desc>
   </programme>
-  <programme start="20261009082000 -0300" stop="20261009083000 -0300" channel="canaleducacao">
+  <programme start="20261010082000 -0300" stop="20261010083000 -0300" channel="canaleducacao">
     <title lang="pt">Passado da Hora</title>
     <desc lang="pt">Passado da Hora é uma série de comédia animada que mistura técnicas diversas para abordar temas da história do Brasil com humor, artes, mapas e culinária, em estilo de…</desc>
   </programme>
-  <programme start="20261009083000 -0300" stop="20261009084500 -0300" channel="canaleducacao">
-    <title lang="pt">Minha Casa, Nosso Mundo</title>
-    <desc lang="pt">Uma aldeia Pataxó, um circo paulista ou uma fazenda baiana são alguns dos destinos de 13 crianças que vivem experiências únicas quando partem para conhecer a casa, oshábitos…</desc>
+  <programme start="20261010083000 -0300" stop="20261010084500 -0300" channel="canaleducacao">
+    <title lang="pt">Faróis do Brasil</title>
+    <desc lang="pt">A série contará as histórias dos principais faróis do país, alguns dos quais figuram como cartões postais.</desc>
   </programme>
-  <programme start="20261009084500 -0300" stop="20261009090000 -0300" channel="canaleducacao">
+  <programme start="20261010084500 -0300" stop="20261010090000 -0300" channel="canaleducacao">
     <title lang="pt">O Teco Teco</title>
     <desc lang="pt">Apresentando histórias, jogos e desafios, O Teco Teco estimula a participação ativa de seu público e se propõe a colaborar de forma lúdica no processo de construção do…</desc>
   </programme>
-  <programme start="20261009090000 -0300" stop="20261009093000 -0300" channel="canaleducacao">
-    <title lang="pt">Manual de Sobrevivência da Literatura Brasileira</title>
-    <desc lang="pt">Os primos Gabriela e Rodrigo embarcam em aventuras mágicas a partir de uma biblioteca secreta, enfrentando uma vilã que quer alterar os destinos  dos clássicos da literatura…</desc>
-  </programme>
-  <programme start="20261009093000 -0300" stop="20261009100000 -0300" channel="canaleducacao">
-    <title lang="pt">Se Liga na Educação ENEM</title>
-    <desc lang="pt">Uma iniciativa da Secretaria de Educação de Minas Gerais, apoiada pela Rede Minas, que exibe aulas com conteúdos voltados para o ENEM (Exame Nacional do Ensino Médio).</desc>
-  </programme>
-  <programme start="20261009100000 -0300" stop="20261009101500 -0300" channel="canaleducacao">
-    <title lang="pt">Trilha de Letras</title>
-    <desc lang="pt">Um programa que mescla literatura e informação, com temas atuais. A cada episódio, iremos conduzir conversas com autores, editores, críticos e com quem faz parte deste mundo,…</desc>
-  </programme>
-  <programme start="20261009101500 -0300" stop="20261009103000 -0300" channel="canaleducacao">
-    <title lang="pt">Minha Casa, Nosso Mundo</title>
-    <desc lang="pt">Uma aldeia Pataxó, um circo paulista ou uma fazenda baiana são alguns dos destinos de 13 crianças que vivem experiências únicas quando partem para conhecer a casa, oshábitos…</desc>
-  </programme>
-  <programme start="20261009103000 -0300" stop="20261009104500 -0300" channel="canaleducacao">
-    <title lang="pt">UniVERciência</title>
-    <desc lang="pt">Primeiro programa brasileiro de TV aberta e Internet, produzido em parceria entre universidades públicas e TVs públicas nordestinas, com foco na promoção, na popularização e…</desc>
-  </programme>
-  <programme start="20261009104500 -0300" stop="20261009110000 -0300" channel="canaleducacao">
-    <title lang="pt">Trilha de Letras</title>
-    <desc lang="pt">Um programa que mescla literatura e informação, com temas atuais. A cada episódio, iremos conduzir conversas com autores, editores, críticos e com quem faz parte deste mundo,…</desc>
-  </programme>
-  <programme start="20261009110000 -0300" stop="20261009111500 -0300" channel="canaleducacao">
-    <title lang="pt">Compromisso Criança Alfabetizada</title>
-    <desc lang="pt">Criado em 2023, o programa visa alfabetizar crianças até o 2º ano e recuperar a aprendizagem nos anos iniciais. A série retrata esse esforço, destacando desafios e…</desc>
-  </programme>
-  <programme start="20261009111500 -0300" stop="20261009112500 -0300" channel="canaleducacao">
-    <title lang="pt">Histórias do Brasil</title>
-    <desc lang="pt">Minissérie que aborda episódios marcantes ou inusitados de nossa história em fotos, trechos de vídeos antigos e animações.</desc>
-  </programme>
-  <programme start="20261009112500 -0300" stop="20261009113000 -0300" channel="canaleducacao">
-    <title lang="pt">Preto no Branco</title>
-    <desc lang="pt">Programa sobre diversidade e antirracismo. É apresentado por Maria Gal e conta com a participação de especialistas, ativistas e apoiadores do movimento antirracista.</desc>
-  </programme>
-  <programme start="20261009113000 -0300" stop="20261009114500 -0300" channel="canaleducacao">
+  <programme start="20261010090000 -0300" stop="20261010093000 -0300" channel="canaleducacao">
     <title lang="pt">Conta a Virada!</title>
     <desc lang="pt">A série que mostra histórias reais de empreendedores brasileiros que superaram desafios e transformaram seus negócios, inspirando outros com soluções criativas. verdadeiras…</desc>
   </programme>
-  <programme start="20261009114500 -0300" stop="20261009120000 -0300" channel="canaleducacao">
-    <title lang="pt">Manual de Sobrevivência da Literatura Brasileira</title>
-    <desc lang="pt">Os primos Gabriela e Rodrigo embarcam em aventuras mágicas a partir de uma biblioteca secreta, enfrentando uma vilã que quer alterar os destinos  dos clássicos da literatura…</desc>
+  <programme start="20261010093000 -0300" stop="20261010100000 -0300" channel="canaleducacao">
+    <title lang="pt">Adolescentes e o Mundo Digital</title>
+    <desc lang="pt">Bate-papo entre adolescentes e especialistas sobre os desafios no contexto das redes sociais. Falam sobre tempestade hormonal, desenvolvimento integral, clima escolar, saúde…</desc>
   </programme>
-  <programme start="20261009120000 -0300" stop="20261009121500 -0300" channel="canaleducacao">
+  <programme start="20261010100000 -0300" stop="20261010101500 -0300" channel="canaleducacao">
+    <title lang="pt">Trilha de Letras</title>
+    <desc lang="pt">Um programa que mescla literatura e informação, com temas atuais. A cada episódio, iremos conduzir conversas com autores, editores, críticos e com quem faz parte deste mundo,…</desc>
+  </programme>
+  <programme start="20261010101500 -0300" stop="20261010103000 -0300" channel="canaleducacao">
+    <title lang="pt">Minha Casa, Nosso Mundo</title>
+    <desc lang="pt">Uma aldeia Pataxó, um circo paulista ou uma fazenda baiana são alguns dos destinos de 13 crianças que vivem experiências únicas quando partem para conhecer a casa, oshábitos…</desc>
+  </programme>
+  <programme start="20261010103000 -0300" stop="20261010104500 -0300" channel="canaleducacao">
     <title lang="pt">UniVERciência</title>
     <desc lang="pt">Primeiro programa brasileiro de TV aberta e Internet, produzido em parceria entre universidades públicas e TVs públicas nordestinas, com foco na promoção, na popularização e…</desc>
   </programme>
-  <programme start="20261009121500 -0300" stop="20261009122500 -0300" channel="canaleducacao">
-    <title lang="pt">Histórias do Brasil</title>
-    <desc lang="pt">Minissérie que aborda episódios marcantes ou inusitados de nossa história em fotos, trechos de vídeos antigos e animações.</desc>
+  <programme start="20261010104500 -0300" stop="20261010110000 -0300" channel="canaleducacao">
+    <title lang="pt">Manual de Sobrevivência da Literatura Brasileira</title>
+    <desc lang="pt">Os primos Gabriela e Rodrigo embarcam em aventuras mágicas a partir de uma biblioteca secreta, enfrentando uma vilã que quer alterar os destinos  dos clássicos da literatura…</desc>
   </programme>
-  <programme start="20261009122500 -0300" stop="20261009123000 -0300" channel="canaleducacao">
-    <title lang="pt">Preto no Branco</title>
-    <desc lang="pt">Programa sobre diversidade e antirracismo. É apresentado por Maria Gal e conta com a participação de especialistas, ativistas e apoiadores do movimento antirracista.</desc>
-  </programme>
-  <programme start="20261009123000 -0300" stop="20261009130000 -0300" channel="canaleducacao">
-    <title lang="pt">Sementes da Educação</title>
-    <desc lang="pt">Conheça escolas que, com poucos recursos, conseguiram inovar os métodos educacionais.</desc>
-  </programme>
-  <programme start="20261009130000 -0300" stop="20261009131500 -0300" channel="canaleducacao">
+  <programme start="20261010110000 -0300" stop="20261010111500 -0300" channel="canaleducacao">
     <title lang="pt">Compromisso Criança Alfabetizada</title>
     <desc lang="pt">Criado em 2023, o programa visa alfabetizar crianças até o 2º ano e recuperar a aprendizagem nos anos iniciais. A série retrata esse esforço, destacando desafios e…</desc>
   </programme>
-  <programme start="20261009131500 -0300" stop="20261009133000 -0300" channel="canaleducacao">
+  <programme start="20261010111500 -0300" stop="20261010112500 -0300" channel="canaleducacao">
+    <title lang="pt">Manual de Sobrevivência da Literatura Brasileira</title>
+    <desc lang="pt">Os primos Gabriela e Rodrigo embarcam em aventuras mágicas a partir de uma biblioteca secreta, enfrentando uma vilã que quer alterar os destinos  dos clássicos da literatura…</desc>
+  </programme>
+  <programme start="20261010112500 -0300" stop="20261010113000 -0300" channel="canaleducacao">
+    <title lang="pt">Preto no Branco</title>
+    <desc lang="pt">Programa sobre diversidade e antirracismo. É apresentado por Maria Gal e conta com a participação de especialistas, ativistas e apoiadores do movimento antirracista.</desc>
+  </programme>
+  <programme start="20261010113000 -0300" stop="20261010114500 -0300" channel="canaleducacao">
+    <title lang="pt">Vida de Merendeira</title>
+    <desc lang="pt">Valorizar as características culturais e culinárias de todas as regiões do Brasil priorizando os alimentos in natura da agricultura familiar.</desc>
+  </programme>
+  <programme start="20261010114500 -0300" stop="20261010120000 -0300" channel="canaleducacao">
+    <title lang="pt">Manual de Sobrevivência da Literatura Brasileira</title>
+    <desc lang="pt">Os primos Gabriela e Rodrigo embarcam em aventuras mágicas a partir de uma biblioteca secreta, enfrentando uma vilã que quer alterar os destinos  dos clássicos da literatura…</desc>
+  </programme>
+  <programme start="20261010120000 -0300" stop="20261010121500 -0300" channel="canaleducacao">
+    <title lang="pt">Adolescentes e o Mundo Digital</title>
+    <desc lang="pt">Bate-papo entre adolescentes e especialistas sobre os desafios no contexto das redes sociais. Falam sobre tempestade hormonal, desenvolvimento integral, clima escolar, saúde…</desc>
+  </programme>
+  <programme start="20261010121500 -0300" stop="20261010122500 -0300" channel="canaleducacao">
+    <title lang="pt">Histórias do Brasil</title>
+    <desc lang="pt">Minissérie que aborda episódios marcantes ou inusitados de nossa história em fotos, trechos de vídeos antigos e animações.</desc>
+  </programme>
+  <programme start="20261010122500 -0300" stop="20261010123000 -0300" channel="canaleducacao">
+    <title lang="pt">Preto no Branco</title>
+    <desc lang="pt">Programa sobre diversidade e antirracismo. É apresentado por Maria Gal e conta com a participação de especialistas, ativistas e apoiadores do movimento antirracista.</desc>
+  </programme>
+  <programme start="20261010123000 -0300" stop="20261010130000 -0300" channel="canaleducacao">
+    <title lang="pt">Inclusão para Valer</title>
+    <desc lang="pt">A série oferece uma visão abrangente e educativa sobre os desafios e avanços na inclusão de pessoas com deficiência, promovendo a construção de uma sociedade mais justa e…</desc>
+  </programme>
+  <programme start="20261010130000 -0300" stop="20261010131500 -0300" channel="canaleducacao">
+    <title lang="pt">Talk Show Preto no Branco</title>
+    <desc lang="pt">O objetivo do Preto no Branco é criar um diálogo sobre diversidade, racismo e atitudes antirracistas com conversas que serão conduzidas de uma forma leve.</desc>
+  </programme>
+  <programme start="20261010131500 -0300" stop="20261010133000 -0300" channel="canaleducacao">
     <title lang="pt">Pequenos Mestres</title>
     <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a…</desc>
   </programme>
-  <programme start="20261009133000 -0300" stop="20261009134500 -0300" channel="canaleducacao">
+  <programme start="20261010133000 -0300" stop="20261010134500 -0300" channel="canaleducacao">
     <title lang="pt">Palaloos</title>
     <desc lang="pt">Na divertida Palalândia, Kazu, Pico e Bao Bao vivem aventuras cheias de cor, música e imaginação! Junto de Blu, Tutu, Epa e Opa, o trio descobre um novo mundo mágico a cada…</desc>
   </programme>
-  <programme start="20261009134500 -0300" stop="20261009135500 -0300" channel="canaleducacao">
+  <programme start="20261010134500 -0300" stop="20261010135500 -0300" channel="canaleducacao">
     <title lang="pt">Planeta Palavra</title>
     <desc lang="pt">Inspirado na série americana Word World, ensina a ver as palavras como amigas. Com as aventuras dos personagens, introduz conceitos de alfabetização, estimulando o aprendizado…</desc>
   </programme>
-  <programme start="20261009135500 -0300" stop="20261009140000 -0300" channel="canaleducacao">
-    <title lang="pt">Gildo</title>
-    <desc lang="pt">Desenho baseado em uma das obras mais populares da literatura infantil brasileira, a série acompanha as aventuras diárias do curioso Gildo, um menino elefante.</desc>
+  <programme start="20261010135500 -0300" stop="20261010140000 -0300" channel="canaleducacao">
+    <title lang="pt">Planeta Palavra</title>
+    <desc lang="pt">Inspirado na série americana Word World, ensina a ver as palavras como amigas. Com as aventuras dos personagens, introduz conceitos de alfabetização, estimulando o aprendizado…</desc>
   </programme>
-  <programme start="20261009140000 -0300" stop="20261009140500 -0300" channel="canaleducacao">
+  <programme start="20261010140000 -0300" stop="20261010140500 -0300" channel="canaleducacao">
     <title lang="pt">Caminhos da Reportagem</title>
     <desc lang="pt">Jornalistas viajam pelo país e pelo mundo atrás de grandes histórias, trazendo ao telespectador uma visão diferente, instigante e complexa de cada um dos assuntos escolhidos.</desc>
   </programme>
-  <programme start="20261009140500 -0300" stop="20261009141000 -0300" channel="canaleducacao">
+  <programme start="20261010140500 -0300" stop="20261010141000 -0300" channel="canaleducacao">
     <title lang="pt">Planeta Palavra</title>
     <desc lang="pt">Inspirado na série americana Word World, ensina a ver as palavras como amigas. Com as aventuras dos personagens, introduz conceitos de alfabetização, estimulando o aprendizado…</desc>
   </programme>
-  <programme start="20261009141000 -0300" stop="20261009141500 -0300" channel="canaleducacao">
+  <programme start="20261010141000 -0300" stop="20261010141500 -0300" channel="canaleducacao">
     <title lang="pt">Aninha, A Infância de Cora Coralina</title>
     <desc lang="pt">A série animada conta as histórias da escritora Cora Coralina através de Aninha, de 9 anos, e Dona Cora, de 75 anos. Dona Cora narra contos e poesias, enquanto Aninha vive…</desc>
   </programme>
-  <programme start="20261009141500 -0300" stop="20261009142000 -0300" channel="canaleducacao">
+  <programme start="20261010141500 -0300" stop="20261010142000 -0300" channel="canaleducacao">
     <title lang="pt">Gildo</title>
     <desc lang="pt">Desenho baseado em uma das obras mais populares da literatura infantil brasileira, a série acompanha as aventuras diárias do curioso Gildo, um menino elefante.</desc>
   </programme>
-  <programme start="20261009142000 -0300" stop="20261009143000 -0300" channel="canaleducacao">
+  <programme start="20261010142000 -0300" stop="20261010143000 -0300" channel="canaleducacao">
     <title lang="pt">Igarapé Mágico</title>
     <desc lang="pt">Os 26 programas de Igarapé Mágico foram criados para divertir e entreter os pequenos e, ao mesmo tempo, transmitir noções de amizade e cidadania.</desc>
   </programme>
-  <programme start="20261009143000 -0300" stop="20261009143500 -0300" channel="canaleducacao">
+  <programme start="20261010143000 -0300" stop="20261010143500 -0300" channel="canaleducacao">
     <title lang="pt">Aninha, A Infância de Cora Coralina</title>
     <desc lang="pt">A série animada conta as histórias da escritora Cora Coralina através de Aninha, de 9 anos, e Dona Cora, de 75 anos. Dona Cora narra contos e poesias, enquanto Aninha vive…</desc>
   </programme>
-  <programme start="20261009143500 -0300" stop="20261009144000 -0300" channel="canaleducacao">
+  <programme start="20261010143500 -0300" stop="20261010144000 -0300" channel="canaleducacao">
     <title lang="pt">Passado da Hora</title>
     <desc lang="pt">Passado da Hora é uma série de comédia animada que mistura técnicas diversas para abordar temas da história do Brasil com humor, artes, mapas e culinária, em estilo de…</desc>
   </programme>
-  <programme start="20261009144000 -0300" stop="20261009144500 -0300" channel="canaleducacao">
+  <programme start="20261010144000 -0300" stop="20261010144500 -0300" channel="canaleducacao">
     <title lang="pt">Aninha, A Infância de Cora Coralina</title>
     <desc lang="pt">A série animada conta as histórias da escritora Cora Coralina através de Aninha, de 9 anos, e Dona Cora, de 75 anos. Dona Cora narra contos e poesias, enquanto Aninha vive…</desc>
   </programme>
-  <programme start="20261009144500 -0300" stop="20261009145000 -0300" channel="canaleducacao">
+  <programme start="20261010144500 -0300" stop="20261010145000 -0300" channel="canaleducacao">
     <title lang="pt">Minha Casa, Nosso Mundo</title>
     <desc lang="pt">Uma aldeia Pataxó, um circo paulista ou uma fazenda baiana são alguns dos destinos de 13 crianças que vivem experiências únicas quando partem para conhecer a casa, oshábitos…</desc>
   </programme>
-  <programme start="20261009145000 -0300" stop="20261009150000 -0300" channel="canaleducacao">
+  <programme start="20261010145000 -0300" stop="20261010150000 -0300" channel="canaleducacao">
     <title lang="pt">Aninha, A Infância de Cora Coralina</title>
     <desc lang="pt">A série animada conta as histórias da escritora Cora Coralina através de Aninha, de 9 anos, e Dona Cora, de 75 anos. Dona Cora narra contos e poesias, enquanto Aninha vive…</desc>
   </programme>
-  <programme start="20261009150000 -0300" stop="20261009151000 -0300" channel="canaleducacao">
-    <title lang="pt">O Teco Teco</title>
-    <desc lang="pt">Apresentando histórias, jogos e desafios, O Teco Teco estimula a participação ativa de seu público e se propõe a colaborar de forma lúdica no processo de construção do…</desc>
-  </programme>
-  <programme start="20261009151000 -0300" stop="20261009151500 -0300" channel="canaleducacao">
+  <programme start="20261010150000 -0300" stop="20261010151000 -0300" channel="canaleducacao">
     <title lang="pt">Passado da Hora</title>
     <desc lang="pt">Passado da Hora é uma série de comédia animada que mistura técnicas diversas para abordar temas da história do Brasil com humor, artes, mapas e culinária, em estilo de…</desc>
   </programme>
-  <programme start="20261009151500 -0300" stop="20261009152000 -0300" channel="canaleducacao">
+  <programme start="20261010151000 -0300" stop="20261010151500 -0300" channel="canaleducacao">
+    <title lang="pt">Passado da Hora</title>
+    <desc lang="pt">Passado da Hora é uma série de comédia animada que mistura técnicas diversas para abordar temas da história do Brasil com humor, artes, mapas e culinária, em estilo de…</desc>
+  </programme>
+  <programme start="20261010151500 -0300" stop="20261010152000 -0300" channel="canaleducacao">
     <title lang="pt">Manual de Sobrevivência da Literatura Brasileira</title>
     <desc lang="pt">Os primos Gabriela e Rodrigo embarcam em aventuras mágicas a partir de uma biblioteca secreta, enfrentando uma vilã que quer alterar os destinos  dos clássicos da literatura…</desc>
   </programme>
-  <programme start="20261009152000 -0300" stop="20261009153000 -0300" channel="canaleducacao">
+  <programme start="20261010152000 -0300" stop="20261010153000 -0300" channel="canaleducacao">
     <title lang="pt">Passado da Hora</title>
     <desc lang="pt">Passado da Hora é uma série de comédia animada que mistura técnicas diversas para abordar temas da história do Brasil com humor, artes, mapas e culinária, em estilo de…</desc>
   </programme>
-  <programme start="20261009153000 -0300" stop="20261009154500 -0300" channel="canaleducacao">
+  <programme start="20261010153000 -0300" stop="20261010154500 -0300" channel="canaleducacao">
     <title lang="pt">Minha Casa, Nosso Mundo</title>
     <desc lang="pt">Uma aldeia Pataxó, um circo paulista ou uma fazenda baiana são alguns dos destinos de 13 crianças que vivem experiências únicas quando partem para conhecer a casa, oshábitos…</desc>
   </programme>
-  <programme start="20261009154500 -0300" stop="20261009155500 -0300" channel="canaleducacao">
-    <title lang="pt">Histórias do Brasil</title>
-    <desc lang="pt">Minissérie que aborda episódios marcantes ou inusitados de nossa história em fotos, trechos de vídeos antigos e animações.</desc>
+  <programme start="20261010154500 -0300" stop="20261010155500 -0300" channel="canaleducacao">
+    <title lang="pt">Minha Casa, Nosso Mundo</title>
+    <desc lang="pt">Uma aldeia Pataxó, um circo paulista ou uma fazenda baiana são alguns dos destinos de 13 crianças que vivem experiências únicas quando partem para conhecer a casa, oshábitos…</desc>
   </programme>
-  <programme start="20261009155500 -0300" stop="20261009160000 -0300" channel="canaleducacao">
+  <programme start="20261010155500 -0300" stop="20261010160000 -0300" channel="canaleducacao">
     <title lang="pt">Preto no Branco</title>
     <desc lang="pt">Programa sobre diversidade e antirracismo. É apresentado por Maria Gal e conta com a participação de especialistas, ativistas e apoiadores do movimento antirracista.</desc>
   </programme>
-  <programme start="20261009160000 -0300" stop="20261009163000 -0300" channel="canaleducacao">
-    <title lang="pt">Se Liga na Educação ENEM</title>
-    <desc lang="pt">Uma iniciativa da Secretaria de Educação de Minas Gerais, apoiada pela Rede Minas, que exibe aulas com conteúdos voltados para o ENEM (Exame Nacional do Ensino Médio).</desc>
-  </programme>
-  <programme start="20261009163000 -0300" stop="20261009170000 -0300" channel="canaleducacao">
+  <programme start="20261010160000 -0300" stop="20261010163000 -0300" channel="canaleducacao">
     <title lang="pt">Manual de Sobrevivência da Literatura Brasileira</title>
     <desc lang="pt">Os primos Gabriela e Rodrigo embarcam em aventuras mágicas a partir de uma biblioteca secreta, enfrentando uma vilã que quer alterar os destinos  dos clássicos da literatura…</desc>
   </programme>
-  <programme start="20261009170000 -0300" stop="20261009171500 -0300" channel="canaleducacao">
+  <programme start="20261010163000 -0300" stop="20261010170000 -0300" channel="canaleducacao">
+    <title lang="pt">Manual de Sobrevivência da Literatura Brasileira</title>
+    <desc lang="pt">Os primos Gabriela e Rodrigo embarcam em aventuras mágicas a partir de uma biblioteca secreta, enfrentando uma vilã que quer alterar os destinos  dos clássicos da literatura…</desc>
+  </programme>
+  <programme start="20261010170000 -0300" stop="20261010171500 -0300" channel="canaleducacao">
     <title lang="pt">Parques do Brasil</title>
     <desc lang="pt">Parques do Brasil é uma série de TV que tem como objetivo promover a popularização do conhecimento científico sobre a biodiversidade nos parques nacionais e outras unidades…</desc>
   </programme>
-  <programme start="20261009171500 -0300" stop="20261009173000 -0300" channel="canaleducacao">
+  <programme start="20261010171500 -0300" stop="20261010173000 -0300" channel="canaleducacao">
     <title lang="pt">Trilha de Letras</title>
     <desc lang="pt">Um programa que mescla literatura e informação, com temas atuais. A cada episódio, iremos conduzir conversas com autores, editores, críticos e com quem faz parte deste mundo,…</desc>
   </programme>
-  <programme start="20261009173000 -0300" stop="20261009174500 -0300" channel="canaleducacao">
+  <programme start="20261010173000 -0300" stop="20261010174500 -0300" channel="canaleducacao">
     <title lang="pt">Fortes do Brasil</title>
     <desc lang="pt">Fortes do Brasil é uma série que conta histórias e curiosidades sobre os Fortes e Fortalezas mais importantes do país, desde a sua construção até os dias atuais e mostra a…</desc>
   </programme>
-  <programme start="20261009174500 -0300" stop="20261009175500 -0300" channel="canaleducacao">
+  <programme start="20261010174500 -0300" stop="20261010175500 -0300" channel="canaleducacao">
     <title lang="pt">Histórias do Brasil</title>
     <desc lang="pt">Minissérie que aborda episódios marcantes ou inusitados de nossa história em fotos, trechos de vídeos antigos e animações.</desc>
   </programme>
-  <programme start="20261009175500 -0300" stop="20261009180000 -0300" channel="canaleducacao">
+  <programme start="20261010175500 -0300" stop="20261010180000 -0300" channel="canaleducacao">
     <title lang="pt">Preto no Branco</title>
     <desc lang="pt">Programa sobre diversidade e antirracismo. É apresentado por Maria Gal e conta com a participação de especialistas, ativistas e apoiadores do movimento antirracista.</desc>
   </programme>
-  <programme start="20261009180000 -0300" stop="20261009183000 -0300" channel="canaleducacao">
-    <title lang="pt">Conta a Virada!</title>
-    <desc lang="pt">A série que mostra histórias reais de empreendedores brasileiros que superaram desafios e transformaram seus negócios, inspirando outros com soluções criativas. verdadeiras…</desc>
+  <programme start="20261010180000 -0300" stop="20261010183000 -0300" channel="canaleducacao">
+    <title lang="pt">Filhos da Liberdade</title>
+    <desc lang="pt">A saga fictícia do Quilombo Montes Claros se desenrola, entrelaçando passado e presente em uma história sobre a busca incessante pela liberdade.</desc>
   </programme>
-  <programme start="20261009183000 -0300" stop="20261009190000 -0300" channel="canaleducacao">
-    <title lang="pt">UniVERciência</title>
-    <desc lang="pt">Primeiro programa brasileiro de TV aberta e Internet, produzido em parceria entre universidades públicas e TVs públicas nordestinas, com foco na promoção, na popularização e…</desc>
-  </programme>
-  <programme start="20261009190000 -0300" stop="20261009193000 -0300" channel="canaleducacao">
-    <title lang="pt">Caminhos da Reportagem</title>
-    <desc lang="pt">Jornalistas viajam pelo país e pelo mundo atrás de grandes histórias, trazendo ao telespectador uma visão diferente, instigante e complexa de cada um dos assuntos escolhidos.</desc>
-  </programme>
-  <programme start="20261009193000 -0300" stop="20261009200000 -0300" channel="canaleducacao">
-    <title lang="pt">Na Raiz dos Festejos</title>
-    <desc lang="pt">Descubra as origens, lendas e fatos dos principais festejos brasileiros. Explore o encanto das cores, sons e ritmos, e desvende os mistérios dos rituais sagrados e profanos.</desc>
-  </programme>
-  <programme start="20261009200000 -0300" stop="20261009203000 -0300" channel="canaleducacao">
-    <title lang="pt">Sementes da Educação</title>
-    <desc lang="pt">Conheça escolas que, com poucos recursos, conseguiram inovar os métodos educacionais.</desc>
-  </programme>
-  <programme start="20261009203000 -0300" stop="20261009204500 -0300" channel="canaleducacao">
-    <title lang="pt">Compromisso Criança Alfabetizada</title>
-    <desc lang="pt">Criado em 2023, o programa visa alfabetizar crianças até o 2º ano e recuperar a aprendizagem nos anos iniciais. A série retrata esse esforço, destacando desafios e…</desc>
-  </programme>
-  <programme start="20261009204500 -0300" stop="20261009210000 -0300" channel="canaleducacao">
-    <title lang="pt">Pequenos Mestres</title>
-    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a…</desc>
-  </programme>
-  <programme start="20261009210000 -0300" stop="20261009213000 -0300" channel="canaleducacao">
-    <title lang="pt">Meu Pedaço do Brasil</title>
-    <desc lang="pt">A cada episódio, uma cidade turística do país e suas principais atrações são apresentados através do olhar de moradores e guias de turismo locais.</desc>
-  </programme>
-  <programme start="20261009213000 -0300" stop="20261009220000 -0300" channel="canaleducacao">
+  <programme start="20261010183000 -0300" stop="20261010190000 -0300" channel="canaleducacao">
     <title lang="pt">Nossos Biomas</title>
     <desc lang="pt">Sobrevoe, adentre e explore a Mata Atlântica, Pampa, Pantanal, Caatinga, Amazônia e Cerrado em Nossos Biomas, um por episódio, série documental da TV Brasil em parceria com o…</desc>
   </programme>
-  <programme start="20261009220000 -0300" stop="20261009223000 -0300" channel="canaleducacao">
-    <title lang="pt">Entre Longes</title>
-    <desc lang="pt">Rachel, uma enfermeira que recomeça a vida no Brasil após a Segunda Guerra Mundial, enfrenta desafios em uma região inóspita. Encontra um novo amor em Tito, mas o passado…</desc>
+  <programme start="20261010190000 -0300" stop="20261010193000 -0300" channel="canaleducacao">
+    <title lang="pt">Meu Pedaço do Brasil</title>
+    <desc lang="pt">A cada episódio, uma cidade turística do país e suas principais atrações são apresentados através do olhar de moradores e guias de turismo locais.</desc>
   </programme>
-  <programme start="20261009223000 -0300" stop="20261009230000 -0300" channel="canaleducacao">
-    <title lang="pt">Curtas ABC</title>
-    <desc lang="pt">Curtas sobre projetos que a Agência Brasileira de Cooperação (ABC) promove junto a membros da Comunidade de Países de Língua Portuguesa (CPLP), impulsionando iniciativas em…</desc>
+  <programme start="20261010193000 -0300" stop="20261010200000 -0300" channel="canaleducacao">
+    <title lang="pt">Olhares do Norte: Pará</title>
+    <desc lang="pt">A série documental Olhares do Norte: Pará mergulha na vida e obra de 13 fotógrafos de diferentes gerações, que compartilham suas experiências de vida, aprendizados e…</desc>
   </programme>
-  <programme start="20261009230000 -0300" stop="20261009233000 -0300" channel="canaleducacao">
-    <title lang="pt">Sementes da Educação</title>
-    <desc lang="pt">Conheça escolas que, com poucos recursos, conseguiram inovar os métodos educacionais.</desc>
+  <programme start="20261010200000 -0300" stop="20261010203000 -0300" channel="canaleducacao">
+    <title lang="pt">Filhos da Liberdade</title>
+    <desc lang="pt">A saga fictícia do Quilombo Montes Claros se desenrola, entrelaçando passado e presente em uma história sobre a busca incessante pela liberdade.</desc>
   </programme>
-  <programme start="20261009233000 -0300" stop="20261010000000 -0300" channel="canaleducacao">
-    <title lang="pt">Na Raiz dos Festejos</title>
-    <desc lang="pt">Descubra as origens, lendas e fatos dos principais festejos brasileiros. Explore o encanto das cores, sons e ritmos, e desvende os mistérios dos rituais sagrados e profanos.</desc>
+  <programme start="20261010203000 -0300" stop="20261010204500 -0300" channel="canaleducacao">
+    <title lang="pt">Crisálida</title>
+    <desc lang="pt">Você namoraria uma pessoa surda? Já pensou nas barreiras que enfrentaria para se comunicar e amadurecer o relacionamento? Este é o principal desafio de Jaks e Morgana.</desc>
+  </programme>
+  <programme start="20261010204500 -0300" stop="20261010210000 -0300" channel="canaleducacao">
+    <title lang="pt">Pequenos Mestres</title>
+    <desc lang="pt">Aprendendo a arte de sua família, os herdeiros dos grandes mestres da cultura popular brasileira nos ensinam a importância de preservar  uma cultura passada de geração a…</desc>
+  </programme>
+  <programme start="20261010210000 -0300" stop="20261010213000 -0300" channel="canaleducacao">
+    <title lang="pt">Show da Simone</title>
+    <desc lang="pt">Reconhecida como uma das vozes mais importantes da MPB, a cantora baiana Simone é a grande homenageada do 23° Festival de Música da Rádio Educadora FM, realizado no Teatro…</desc>
+  </programme>
+  <programme start="20261010213000 -0300" stop="20261010220000 -0300" channel="canaleducacao">
+    <title lang="pt">Vida de Merendeira</title>
+    <desc lang="pt">Valorizar as características culturais e culinárias de todas as regiões do Brasil priorizando os alimentos in natura da agricultura familiar.</desc>
+  </programme>
+  <programme start="20261010220000 -0300" stop="20261010223000 -0300" channel="canaleducacao">
+    <title lang="pt">Crisálida</title>
+    <desc lang="pt">Você namoraria uma pessoa surda? Já pensou nas barreiras que enfrentaria para se comunicar e amadurecer o relacionamento? Este é o principal desafio de Jaks e Morgana.</desc>
+  </programme>
+  <programme start="20261010223000 -0300" stop="20261010230000 -0300" channel="canaleducacao">
+    <title lang="pt">Caminhos da Reportagem</title>
+    <desc lang="pt">Jornalistas viajam pelo país e pelo mundo atrás de grandes histórias, trazendo ao telespectador uma visão diferente, instigante e complexa de cada um dos assuntos escolhidos.</desc>
+  </programme>
+  <programme start="20261010230000 -0300" stop="20261010233000 -0300" channel="canaleducacao">
+    <title lang="pt">Compromisso Criança Alfabetizada</title>
+    <desc lang="pt">Criado em 2023, o programa visa alfabetizar crianças até o 2º ano e recuperar a aprendizagem nos anos iniciais. A série retrata esse esforço, destacando desafios e…</desc>
+  </programme>
+  <programme start="20261010233000 -0300" stop="20261011000000 -0300" channel="canaleducacao">
+    <title lang="pt">Inclusão para Valer</title>
+    <desc lang="pt">A série oferece uma visão abrangente e educativa sobre os desafios e avanços na inclusão de pessoas com deficiência, promovendo a construção de uma sociedade mais justa e…</desc>
   </programme>
 </tv>
